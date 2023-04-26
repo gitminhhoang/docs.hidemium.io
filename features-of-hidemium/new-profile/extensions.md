@@ -8,13 +8,13 @@ description: >-
 
 When using any browser, such as Google Chrome, you often add extensions to make it easier to open, the Extensions feature helps you add automatically to all your profiles in Hidemium.&#x20;
 
-## Add Extension to profiles. Add Extension to profiles
+## Add Extension to profiles
 
 Step 1: Click “Add Extensions”&#x20;
 
 Step 2: Use the suggested utilities available in our software by clicking on the utility you need
 
-## How to upload the extension or add an extension with file
+## How to upload the extension or add an extension with file?
 
 Step 1: Click “Upload Extensions”
 
