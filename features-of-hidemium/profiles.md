@@ -4,9 +4,9 @@ description: >-
   and Start the profile immediately.
 ---
 
-# Profiles
+# PROFILES
 
-## YOUR PROFILES
+## Your Profiles
 
 Name: Here are all profile names that you created
 

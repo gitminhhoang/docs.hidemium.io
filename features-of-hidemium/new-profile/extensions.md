@@ -4,7 +4,7 @@ description: >-
   Hidemium software.
 ---
 
-# Extensions
+# EXTENSIONS
 
 When using any browser, such as Google Chrome, you often add extensions to make it easier to open, the Extensions feature helps you add automatically to all your profiles in Hidemium.&#x20;
 
