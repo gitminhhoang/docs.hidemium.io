@@ -9,7 +9,7 @@
     * [Hardware](features-of-hidemium/new-profile/hardware.md)
     * [Fonts](features-of-hidemium/new-profile/fonts.md)
     * [Bookmarks](features-of-hidemium/new-profile/bookmarks.md)
-    * [Extensions](features-of-hidemium/new-profile/extensions.md)
+    * [Extensions1111111111](features-of-hidemium/new-profile/extensions1111111111.md)
     * [Autofill](features-of-hidemium/new-profile/autofill.md)
     * [Other Config](features-of-hidemium/new-profile/other-config.md)
   * [Profiles](features-of-hidemium/profiles.md)
