@@ -1,7 +1,14 @@
-# 👋 Welcome to A Product
+---
+description: >-
+  Hidemium is the best anti-browser software in 2022, overcoming many
+  shortcomings. This tool is for those who need to use multiple accounts with
+  different profiles on the same computer
+---
+
+# 👋 Hidemium Guidance from A – Z
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+These profiles are as independent as real users, separate in browser fingerprints: IP address, User-agent, proxy, cookies, time zone, language, media device, hardware, and more. Instead of having to invest in many computers, or use many virtual machines, now you can set it up all on one of your computers.
 {% endhint %}
 
 ## Overview
