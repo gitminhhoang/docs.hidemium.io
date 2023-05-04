@@ -17,11 +17,6 @@
   * [PROXIES](features-of-hidemium/proxies.md)
   * [AUTOMATION](features-of-hidemium/automation.md)
 
-## Product Guides
-
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
 ## Fundamentals
 
 * [🛠 Getting set up](fundamentals/getting-set-up/README.md)
