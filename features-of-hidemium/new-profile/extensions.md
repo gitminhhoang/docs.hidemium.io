@@ -6,7 +6,7 @@ description: >-
 
 # EXTENSIONS
 
-When using any browser, such as Google Chrome, you often add extensions to make it easier to open, the Extensions feature helps you add automatically to all your profiles in Hidemium.&#x20;
+When using any browser, such as Google Chrome, you often add extensions to make it easier to open, the Extensions feature helps you to add automatically to all your profiles in Hidemium.&#x20;
 
 <figure><img src="../../.gitbook/assets/18.png" alt=""><figcaption><p>Extensions</p></figcaption></figure>
 

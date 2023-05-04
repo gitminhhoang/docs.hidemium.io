@@ -18,9 +18,9 @@ Note: You can click to “Pen” icon to fill in your notices
 
 Tags: You can assign profiles with 1 tag, which can help you to be easier access to your desired profile just by entering the tag
 
-Last open: It shows the latest time that you used the profile
+Last open: This shows the latest time that you used the profile
 
-Message: It shows the status of each profile
+Message: This shows the status of each profile
 
 Action: If you want to use the profile you click “Start” button&#x20;
 
