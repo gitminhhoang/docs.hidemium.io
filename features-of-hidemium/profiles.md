@@ -8,15 +8,15 @@ description: >-
 
 ## Your Profiles
 
-Name: Here are all profile names that you created
+Name: This shows all profile names that you created
 
-Status: Here are status for all profiles that you chose when you created new profile
+Status: This shows status for all profiles that you chose when you created new profile
 
-Proxy: Here are all Proxies that you chose when you created profile
+Proxy: This shows all Proxies that you chose when you created profile
 
 Note: You can click to “Pen” icon to fill in your notices
 
-Tags: You can assign profiles with 1 tag, which can help you to be easier access to your desired profile jus by entering the tag
+Tags: You can assign profiles with 1 tag, which can help you to be easier access to your desired profile just by entering the tag
 
 Last open: It shows the latest time that you used the profile
 
