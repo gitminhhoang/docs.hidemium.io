@@ -1,4 +1,10 @@
-# Folders
+---
+description: >-
+  You will easily manage your work arrays with the Folders feature which divides
+  groups into Folders to manage easily.
+---
+
+# FOLDERS
 
 ## Your folders
 
@@ -8,7 +14,7 @@
 * Action: Share - Users can share the folder with other account
 * Edit - Users can edit the Folder name here
 
-Delete - Users can delete the any folders as you want
+Delete - Users can delete any folders as you want
 
 
 
