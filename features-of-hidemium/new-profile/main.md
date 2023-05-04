@@ -35,14 +35,14 @@ You can choose Auto fill User Agent or Manual fill User Agent
 
 You can choose Timezone, WebRTC, Geolocation and Languages fingerprints based on the external IP or Set manually. You can check your proxy details including location, country, timezone.. by clicking Edit Proxy Setting button.
 
-## Timezone
+### Timezone
 
 This feature is the default, and you should follow Hidemium form because Timezone is based on the IP address or proxy you are using, which guarantees for browser profile. Besides, you can still manually enter the desired time zone without relying on the IP address or proxy.
 
 * Timezone based on the external IP: You should leave this feature as default since Timezone will be based on IP address or proxy address, SOCKS that you are using. This will be best with the browser.
 * Fill geolocation based on the external IP: This feature allows you to choose the timezone you want without relying on ip address, proxy, socks.
 
-## **WebRTC**
+### **WebRTC**
 
 You should follow the default by Hidemium. It allows setting WebRTC parameters based on IP address and proxy or you can manually adjust the WebRTC address.
 
@@ -50,7 +50,7 @@ You should follow the default by Hidemium. It allows setting WebRTC parameters b
 * Disabled: Allows you to block websites from reading your webrtc address including your computer's network address and proxies, sock.
 * Real: Use your computer's Webrtc address even if you use a proxy, sock.
 
-## **Geolocation**
+### **Geolocation**
 
 It is a feature that allows setting geolocation based on IP address and proxy. Geolocation also allows you to set your browser’s current location manually.&#x20;
 
