@@ -1,14 +1,18 @@
+---
+description: There are some main sections in Hidemium software
+---
+
 # FEATURES OF HIDEMIUM
 
-#### New Profile <a href="#stoc-new-profile" id="stoc-new-profile"></a>
+#### 1, New Profile <a href="#stoc-new-profile" id="stoc-new-profile"></a>
 
-**Profiles**
+**2, Profiles**
 
-**Folders**
+**3, Folders**
 
-**Proxies**
+**4, Proxies**
 
-**Automation**
+**5, Automation**
 
 <figure><img src="../.gitbook/assets/2.png" alt=""><figcaption><p>Features of Hidemium</p></figcaption></figure>
 
