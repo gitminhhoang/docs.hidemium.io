@@ -1,6 +1,6 @@
 ---
 description: >-
-  The Folder feature makes it easier to manage your work areas. Specifically,
+  The Folder section makes it easier to manage your work areas. Specifically,
   you can divide and group tasks into the same group, which makes it much more
   convenient to run tasks.
 ---
