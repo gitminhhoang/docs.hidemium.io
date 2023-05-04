@@ -14,11 +14,11 @@ description: Here are some main information for a new profile that users need to
 
 <div>
 
-<figure><img src="../../.gitbook/assets/3.png" alt="" width="375"><figcaption><p>Name and Folder</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption><p>Name and Folder</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/4.png" alt="" width="375"><figcaption><p>Status</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption><p>Status</p></figcaption></figure>
 
 </div>
 

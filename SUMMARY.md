@@ -2,7 +2,7 @@
 
 * [👋 HIDEMIUM GUIDANCE FROM A-Z](README.md)
 * [FEATURES OF HIDEMIUM](features-of-hidemium/README.md)
-  * [NEW PROFILE](features-of-hidemium/new-profile/README.md)
+  * [👋 NEW PROFILE](features-of-hidemium/new-profile/README.md)
     * [MAIN](features-of-hidemium/new-profile/main.md)
     * [PROXIES](features-of-hidemium/new-profile/proxies.md)
     * [COOKIES](features-of-hidemium/new-profile/cookies.md)
