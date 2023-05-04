@@ -1,2 +1,7 @@
-# Automation
+# AUTOMATION
 
+## SCRIPT
+
+## CAMPAIGNS
+
+## CREATE SCANARIOS
