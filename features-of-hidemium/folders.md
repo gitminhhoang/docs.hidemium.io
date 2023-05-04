@@ -6,6 +6,8 @@ description: >-
 
 # FOLDERS
 
+<figure><img src="../.gitbook/assets/26.png" alt=""><figcaption><p>Folders</p></figcaption></figure>
+
 ## Your folders
 
 * Name: You can see the folder names that you've just created
@@ -18,5 +20,5 @@ description: >-
 * Edit - Users can edit the Folder name here
 * Delete - Users can delete any folders as you want
 
-
+<figure><img src="../.gitbook/assets/27.png" alt=""><figcaption></figcaption></figure>
 

@@ -38,10 +38,12 @@ Action: If you want to use the profile you click “Start” button&#x20;
 * Edit: You click here to modify the profile
 * Long proxy:&#x20;
 * Delete: You click here to delete the profiles&#x20;
-* Delete from Folder: You click here to delete profiles from the folder\
+* Delete from Folder: You click here to delete profiles from the folder
 
-*
+<figure><img src="../.gitbook/assets/24.png" alt=""><figcaption><p>More functions</p></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/24.png" alt=""><figcaption><p>More functions</p></figcaption></figure>
+## Shared with me
 
-\
+You can see the profiles which are shared with you account by click to "Shared with me" button, if there isn't any shared profiles, it will show "Data is empty"
+
+<figure><img src="../.gitbook/assets/25.png" alt=""><figcaption><p>Shared with me</p></figcaption></figure>
