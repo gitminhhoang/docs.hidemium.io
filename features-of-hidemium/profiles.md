@@ -24,7 +24,9 @@ Message: It shows the status of each profile
 
 Action: If you want to use the profile you click “Start” button&#x20;
 
-&#x20;             You can click to … to see more functions
+<figure><img src="../.gitbook/assets/23.png" alt=""><figcaption><p>Your Profiles</p></figcaption></figure>
+
+### You can click … to see more functions
 
 * Share: You can share the profile with the other by adding their mail
 * Add to Folder: You can add the profile to the Folder that you can manage easily
@@ -38,5 +40,8 @@ Action: If you want to use the profile you click “Start” button&#x20;
 * Delete: You click here to delete the profiles&#x20;
 * Delete from Folder: You click here to delete profiles from the folder\
 
+*
+
+    <figure><img src="../.gitbook/assets/24.png" alt=""><figcaption><p>More functions</p></figcaption></figure>
 
 \
