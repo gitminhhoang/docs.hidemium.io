@@ -31,12 +31,12 @@ Action: If you want to use the profile you click “Start” button&#x20;
 * Run CookieRobot:
 * Copy:
 * Cookies:
-* Transfer:&#x20;
-* Duplicate:
-* Edit:
-* Long proxy:
-* Delete:
-* Delete from Folder:\
+* Transfer: You can transfer the profile to another account to manage it
+* Duplicate: You click here to have one more profile that is the same with the original one
+* Edit: You click here to modify the profile
+* Long proxy:&#x20;
+* Delete: You click here to delete the profiles&#x20;
+* Delete from Folder: You click here to delete profiles from the folder\
 
 
 \
