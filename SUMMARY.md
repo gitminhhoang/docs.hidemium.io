@@ -25,5 +25,8 @@
 
 ## Use Cases
 
+* [AUTOMATION](use-cases/automation/README.md)
+  * [API](use-cases/automation/api/README.md)
+    * [LIST PROFILE](use-cases/automation/api/list-profile.md)
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
