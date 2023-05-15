@@ -34,7 +34,7 @@ description: Returns a list of profiles
 | ---------------- | ------------------------------------ |
 | page             | 1                                    |
 | limit            | 10                                   |
-| browser\_uuid\[] | 98a75178-4d0f-4e9f-8aa9-ae832549aac3 |
+| browser\_uuid\[] | 992bd6f1-0a4c-40b2-88c0-d6ae54db7347 |
 | name\[]          |                                      |
 | folder\_id\[]    |                                      |
 | tag\_id\[]       |                                      |
@@ -46,12 +46,37 @@ description: Returns a list of profiles
 
 {% code lineNumbers="true" %}
 ```json
-"data": {
+ "data": {
         "type": "success",
         "title": "Load successfully",
         "content": [
             {
-               //content information
+                "uuid": "992bd6f1-0a4c-40b2-88c0-d6ae54db7347",
+                "directory": "2023/05/15",
+                "file_name": "e332938226517443e5ca72b5d269a0a6.zip",
+                "can_be_running": true,
+                "proxy": "",
+                "created_at": "2023-05-15T07:28:07.000000Z",
+                "created_at_diff": "43 minutes ago",
+                "id": 20165,
+                "folder_id": 532,
+                "check_open": 1,
+                "name": "15 - 5",
+                "version": 112,
+                "browser_type": "hidemium",
+                "os": "mac",
+                "note": "",
+                "last_open": "2023-05-15 14:30:53",
+                "last_open_diff": "41 minutes ago",
+                "transfer": "",
+                "source_version": null,
+                "shares_role": false,
+                "shared_uuid": "",
+                "status": null,
+                "status_chil": 0,
+                "tags": [],
+                "status_id": null,
+                "listing": null
             }
         ]
     },
