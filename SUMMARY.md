@@ -27,8 +27,10 @@
 
 * [AUTOMATION](use-cases/automation/README.md)
   * [API](use-cases/automation/api/README.md)
+    * [AUTHORIZE](use-cases/automation/api/authorize.md)
     * [LIST PROFILE](use-cases/automation/api/list-profile.md)
     * [OPEN PROFILE](use-cases/automation/api/open-profile.md)
     * [CLOSE PROFILE](use-cases/automation/api/close-profile.md)
+    * [LIST CONFIG DEFAULT](use-cases/automation/api/list-config-default.md)
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
