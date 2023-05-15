@@ -10,15 +10,15 @@ description: Returns a list of profiles
 | ------ | ------------------------------------ |
 | GET    | api\_url/profileList?page=1\&limit=1 |
 
-| Params           | Values   | Description                                            |
+| Params           | Value    | Description                                            |
 | ---------------- | -------- | ------------------------------------------------------ |
 | page             | number   | page number of pagination                              |
 | limit            | number   | number of profiles displayed                           |
-| browser\_uuid\[] | string   | profile uuid                                           |
+| browser\_uuid\[] | string   | UUID of profile                                        |
 | name\[]          | string   | the name of the profile                                |
-| folder\_id\[]    | number   | folder id                                              |
-| tag\_id\[]       | number   | tag id                                                 |
-| status\_id       | number   | status id of profile                                   |
+| folder\_id\[]    | number   | ID of folder                                           |
+| tag\_id\[]       | number   | ID of tag                                              |
+| status\_id       | number   | ID of status                                           |
 | date\_range\[]   | datetime | profile creation date (from date) (format: yyyy-mm-dd) |
 | date\_range\[]   | datetime | profile creation date (to date) (format: yyyy-mm-dd)   |
 
@@ -28,7 +28,7 @@ description: Returns a list of profiles
 | ------ | -------------------------------------------------------------------------------------------------------- |
 | GET    | [http://127.0.0.1:5555/profileList?page=1\&limit=10](http://127.0.0.1:5555/profileList?page=1\&limit=10) |
 
-**Params**
+&#x20;  **Params**
 
 | Key              | Value                                |
 | ---------------- | ------------------------------------ |
