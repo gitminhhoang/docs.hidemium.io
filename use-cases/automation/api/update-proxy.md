@@ -6,11 +6,9 @@ description: Update proxy of profile
 
 ### **Request**
 
-| Method | URL                   |
-| ------ | --------------------- |
-| PUT    | api\_url/update-proxy |
-
-### **Example Request**
+| Method | URL                                                                      |
+| ------ | ------------------------------------------------------------------------ |
+| PUT    | [http://127.0.0.1:5555/update-proxy](http://127.0.0.1:5555/update-proxy) |
 
 ### **Example Response**
 
