@@ -24,7 +24,7 @@ description: Checking your opening profile
 
 
 
-|      |                                      |
+| Key  | Value                                |
 | ---- | ------------------------------------ |
 | uuid | 992bd6f1-0a4c-40b2-88c0-d6ae54db7347 |
 

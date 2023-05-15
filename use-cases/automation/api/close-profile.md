@@ -22,7 +22,7 @@ description: returns an close profile
 
 &#x20;  **Params**
 
-|      |                                      |
+| Key  | Value                                |
 | ---- | ------------------------------------ |
 | uuid | 992bd6f1-0a4c-40b2-88c0-d6ae54db7347 |
 
