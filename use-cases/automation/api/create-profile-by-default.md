@@ -26,5 +26,12 @@ description: Create profile using default configuration
 
 {% code lineNumbers="true" %}
 ```json
+{
+    "type": "success",
+    "title": "Create successfully.",
+    "content": {
+       //content information 
+    }
+}
 ```
 {% endcode %}
