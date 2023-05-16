@@ -1,0 +1,37 @@
+---
+description: Synchronize the profile's tag
+---
+
+# SYNC TAGS PROFILE
+
+### **Request**
+
+| Method | URL                                                                |
+| ------ | ------------------------------------------------------------------ |
+| PUT    | [http://127.0.0.1:5555/sync-tags](http://127.0.0.1:5555/sync-tags) |
+
+#### **Body**
+
+{% code lineNumbers="true" %}
+```json
+{
+    "tags": ["1212121","bbbb1"],
+    "profile_uuid": "992c1053-4ed6-4018-8776-f91a0a8da77b"
+}
+```
+{% endcode %}
+
+* profile\_uuid: UUID of profile
+* tags: Profile tags are limited to 15 characters
+
+### **Response**
+
+{% code lineNumbers="true" %}
+```json
+{
+    "type": "success",
+    "title": "Sync successfully.",
+    "content": []
+}
+```
+{% endcode %}

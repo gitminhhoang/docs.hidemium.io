@@ -33,5 +33,8 @@
     * [CLOSE PROFILE](use-cases/automation/api/close-profile.md)
     * [LIST CONFIG DEFAULT](use-cases/automation/api/list-config-default.md)
     * [UPDATE PROXY](use-cases/automation/api/update-proxy.md)
+    * [UPDATE NOTE PROFILE](use-cases/automation/api/update-note-profile.md)
+    * [SYNC TAGS PROFILE](use-cases/automation/api/sync-tags-profile.md)
+    * [CREATE PROFILE BY DEFAULT](use-cases/automation/api/create-profile-by-default.md)
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
