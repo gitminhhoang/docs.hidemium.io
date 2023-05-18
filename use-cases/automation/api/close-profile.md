@@ -28,8 +28,6 @@ description: returns an close profile
 
 ### **Example Response**
 
-_Profile with UUID of "992bd6f1-0a4c-40b2-88c0-d6ae54db7347" is closed._
-
 {% code lineNumbers="true" %}
 ```json
 {

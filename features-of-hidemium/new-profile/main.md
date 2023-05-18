@@ -12,7 +12,7 @@ description: Here are some main information for a new profile that users need to
 * Folder: You can choose a folder for the new profile
 * Status: You can choose the status for the new profile as Ban - Ready - New
 
-<div>
+<div align="left">
 
 <figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption><p>Name and Folder</p></figcaption></figure>
 
@@ -74,7 +74,11 @@ It is a feature that allows setting geolocation based on IP address and proxy. G
 
 
 
+<div align="center">
+
 <figure><img src="../../.gitbook/assets/13.png" alt=""><figcaption><p>Geolocation</p></figcaption></figure>
+
+</div>
 
 ### **WebRTC**
 

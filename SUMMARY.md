@@ -17,24 +17,20 @@
   * [PROXIES](features-of-hidemium/proxies.md)
   * [AUTOMATION](features-of-hidemium/automation.md)
 
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
 ## Use Cases
 
-* [AUTOMATION](use-cases/automation/README.md)
-  * [API](use-cases/automation/api/README.md)
+* [🤖 AUTOMATION](use-cases/automation/README.md)
+  * [🔗 API](use-cases/automation/api/README.md)
     * [AUTHORIZE](use-cases/automation/api/authorize.md)
     * [LIST PROFILE](use-cases/automation/api/list-profile.md)
     * [OPEN PROFILE](use-cases/automation/api/open-profile.md)
     * [CLOSE PROFILE](use-cases/automation/api/close-profile.md)
     * [LIST CONFIG DEFAULT](use-cases/automation/api/list-config-default.md)
+    * [LIST STATUS](use-cases/automation/api/list-status.md)
+    * [LIST TAG](use-cases/automation/api/list-tag.md)
     * [UPDATE PROXY](use-cases/automation/api/update-proxy.md)
     * [UPDATE NOTE PROFILE](use-cases/automation/api/update-note-profile.md)
     * [SYNC TAGS PROFILE](use-cases/automation/api/sync-tags-profile.md)
+    * [CHANGE STATUS PROFILE](use-cases/automation/api/change-status-profile.md)
     * [CREATE PROFILE BY DEFAULT](use-cases/automation/api/create-profile-by-default.md)
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+    * [DELETE PROFILE](use-cases/automation/api/delete-profile.md)

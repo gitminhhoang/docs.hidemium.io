@@ -10,17 +10,14 @@ description: Returns a list of profiles
 | ------ | ------------------------------------ |
 | GET    | api\_url/profileList?page=1\&limit=1 |
 
-| Params           | Value    | Description                                            |
-| ---------------- | -------- | ------------------------------------------------------ |
-| page             | number   | page number of pagination                              |
-| limit            | number   | number of profiles displayed                           |
-| browser\_uuid\[] | string   | UUID of profile                                        |
-| name\[]          | string   | the name of the profile                                |
-| folder\_id\[]    | number   | ID of folder                                           |
-| tag\_id\[]       | number   | ID of tag                                              |
-| status\_id       | number   | ID of status                                           |
-| date\_range\[]   | datetime | profile creation date (from date) (format: yyyy-mm-dd) |
-| date\_range\[]   | datetime | profile creation date (to date) (format: yyyy-mm-dd)   |
+| Params           | Value  | Description                                                 |
+| ---------------- | ------ | ----------------------------------------------------------- |
+| browser\_uuid\[] | string | UUID of profile                                             |
+| name\[]          | string | the name of the profile                                     |
+| tag\_id\[]       | number | ID of tag, use api _"**list tag"**_ to get tag\_id          |
+| status\_id       | number | ID of status, use api _"**list status"**_ to get status\_id |
+| page             | number | page number of pagination                                   |
+| limit            | number | number of profiles displayed                                |
 
 ### **Example Request**
 
@@ -32,15 +29,12 @@ description: Returns a list of profiles
 
 | Key              | Value                                |
 | ---------------- | ------------------------------------ |
-| page             | 1                                    |
-| limit            | 10                                   |
 | browser\_uuid\[] | 992bd6f1-0a4c-40b2-88c0-d6ae54db7347 |
 | name\[]          |                                      |
-| folder\_id\[]    |                                      |
 | tag\_id\[]       |                                      |
 | status\_id       |                                      |
-| date\_range\[]   |                                      |
-| date\_range\[]   |                                      |
+| limit            |                                      |
+| page             |                                      |
 
 ### **Example Response**
 
@@ -81,8 +75,8 @@ description: Returns a list of profiles
         ]
     },
     "links": {
-        "first": "https://dev-api.minhhoangjsc.io/v1/browser/list?page=1",
-        "last": "https://dev-api.minhhoangjsc.io/v1/browser/list?page=1",
+        "first": "https://v2-api.multibrowser.io/v1/browser/list?page=1",
+        "last": "https://v2-api.multibrowser.io/v1/browser/list?page=1",
         "prev": null,
         "next": null
     },
@@ -90,7 +84,7 @@ description: Returns a list of profiles
         "current_page": 1,
         "from": 1,
         "last_page": 1,
-        "path": "https://dev-api.minhhoangjsc.io/v1/browser/list",
+        "path": "https://v2-api.multibrowser.io/v1/browser/list?page=1",
         "per_page": "10",
         "to": 1,
         "total": 1
