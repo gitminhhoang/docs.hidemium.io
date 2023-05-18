@@ -45,7 +45,7 @@ description: Update proxy of profile
 ```
 {% endcode %}
 
-* uuid: UUID of proxy, need to use API list profile to get proxy's UUID
+* uuid: UUID of proxy, need to use API _**list profile**_ to get proxy's UUID
 * ip: IP address
 * port: access port
 * user: username of proxy
