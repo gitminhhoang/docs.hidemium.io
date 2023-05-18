@@ -6,9 +6,9 @@ description: Create profile using default configuration
 
 ### **Request**
 
-| Method | URL                                                                          |
-| ------ | ---------------------------------------------------------------------------- |
-| POST   | [http://127.0.0.1:5555/delete-profile](http://127.0.0.1:5555/delete-profile) |
+| Method | URL                                                                                                |
+| ------ | -------------------------------------------------------------------------------------------------- |
+| POST   | [http://127.0.0.1:5555/create-profile-by-default](http://127.0.0.1:5555/create-profile-by-default) |
 
 #### **Body**
 
