@@ -1,5 +1,5 @@
 ---
-description: returns an open profile
+description: Returns an open profile
 ---
 
 # OPEN PROFILE

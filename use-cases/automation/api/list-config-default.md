@@ -1,5 +1,5 @@
 ---
-description: Get your list default config with pagination
+description: Get your list default config
 ---
 
 # LIST CONFIG DEFAULT

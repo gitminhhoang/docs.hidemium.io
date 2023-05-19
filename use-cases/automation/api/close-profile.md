@@ -1,5 +1,5 @@
 ---
-description: returns an close profile
+description: Returns an close profile
 ---
 
 # CLOSE PROFILE
