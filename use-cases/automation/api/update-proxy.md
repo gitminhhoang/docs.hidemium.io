@@ -1,5 +1,5 @@
 ---
-description: Update proxy of profile
+description: Update proxy
 ---
 
 # UPDATE PROXY
