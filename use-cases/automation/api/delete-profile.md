@@ -6,9 +6,7 @@ description: Delete profile from profile list
 
 ### **Request**
 
-| Method | URL                                                                          |
-| ------ | ---------------------------------------------------------------------------- |
-| DELETE | [http://127.0.0.1:5555/delete-profile](http://127.0.0.1:5555/delete-profile) |
+<table><thead><tr><th width="249">Method</th><th>URL</th></tr></thead><tbody><tr><td>DELETE</td><td><a href="http://127.0.0.1:5555/delete-profile">http://127.0.0.1:5555/delete-profile</a></td></tr></tbody></table>
 
 #### **Body**
 

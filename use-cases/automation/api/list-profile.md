@@ -6,24 +6,13 @@ description: Returns a list of profiles
 
 ### Request
 
-| Method | URL                                  |
-| ------ | ------------------------------------ |
-| GET    | api\_url/profileList?page=1\&limit=1 |
+<table><thead><tr><th width="262">Method</th><th>URL </th></tr></thead><tbody><tr><td>GET</td><td>api_url/profileList?page=1&#x26;limit=1</td></tr></tbody></table>
 
-| Params           | Value  | Description                                                 |
-| ---------------- | ------ | ----------------------------------------------------------- |
-| browser\_uuid\[] | string | UUID of profile                                             |
-| name\[]          | string | the name of the profile                                     |
-| tag\_id\[]       | number | ID of tag, use api _"**list tag"**_ to get tag\_id          |
-| status\_id       | number | ID of status, use api _"**list status"**_ to get status\_id |
-| page             | number | page number of pagination                                   |
-| limit            | number | number of profiles displayed                                |
+<table><thead><tr><th width="167">Params</th><th width="167.33333333333331">Value</th><th>Description</th></tr></thead><tbody><tr><td>browser_uuid[]</td><td>string</td><td>UUID of profile</td></tr><tr><td>name[]</td><td>string</td><td>the name of the profile</td></tr><tr><td>tag_id[]</td><td>number</td><td>ID of tag, use api <em>"<strong>list tag"</strong></em> to get tag_id</td></tr><tr><td>status_id</td><td>number</td><td>ID of status, use api <em>"<strong>list status"</strong></em> to get status_id</td></tr><tr><td>page</td><td>number</td><td>page number of pagination</td></tr><tr><td>limit</td><td>number</td><td>number of profiles displayed</td></tr></tbody></table>
 
 ### **Example Request**
 
-| Status | Response                                                                                                 |
-| ------ | -------------------------------------------------------------------------------------------------------- |
-| GET    | [http://127.0.0.1:5555/profileList?page=1\&limit=10](http://127.0.0.1:5555/profileList?page=1\&limit=10) |
+<table><thead><tr><th width="274">Status</th><th>Response</th></tr></thead><tbody><tr><td>GET</td><td><a href="http://127.0.0.1:5555/profileList?page=1&#x26;limit=10">http://127.0.0.1:5555/profileList?page=1&#x26;limit=10</a></td></tr></tbody></table>
 
 &#x20;  **Params**
 

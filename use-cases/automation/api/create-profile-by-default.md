@@ -6,9 +6,7 @@ description: Create profile using default configuration
 
 ### **Request**
 
-| Method | URL                                                                                                |
-| ------ | -------------------------------------------------------------------------------------------------- |
-| POST   | [http://127.0.0.1:5555/create-profile-by-default](http://127.0.0.1:5555/create-profile-by-default) |
+<table><thead><tr><th width="249">Method</th><th>URL</th></tr></thead><tbody><tr><td>POST</td><td><a href="http://127.0.0.1:5555/create-profile-by-default">http://127.0.0.1:5555/create-profile-by-default</a></td></tr></tbody></table>
 
 #### **Body**
 

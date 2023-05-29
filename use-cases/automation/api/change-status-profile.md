@@ -6,9 +6,7 @@ description: Change status of profile
 
 ### **Request**
 
-| Method | URL                                                                        |
-| ------ | -------------------------------------------------------------------------- |
-| PUT    | [http://127.0.0.1:5555/change-status](http://127.0.0.1:5555/change-status) |
+<table><thead><tr><th width="249">Method</th><th>URL</th></tr></thead><tbody><tr><td>PUT</td><td><a href="http://127.0.0.1:5555/change-status">http://127.0.0.1:5555/change-status</a></td></tr></tbody></table>
 
 #### **Body**
 

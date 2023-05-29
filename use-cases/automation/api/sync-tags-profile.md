@@ -6,9 +6,7 @@ description: Synchronize the profile's tag
 
 ### **Request**
 
-| Method | URL                                                                |
-| ------ | ------------------------------------------------------------------ |
-| PUT    | [http://127.0.0.1:5555/sync-tags](http://127.0.0.1:5555/sync-tags) |
+<table><thead><tr><th width="249">Method</th><th>URL</th></tr></thead><tbody><tr><td>PUT</td><td><a href="http://127.0.0.1:5555/sync-tags">http://127.0.0.1:5555/sync-tags</a></td></tr></tbody></table>
 
 #### **Body**
 

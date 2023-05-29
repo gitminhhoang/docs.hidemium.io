@@ -6,9 +6,7 @@ description: Get your list default config
 
 ### **Request**
 
-| Method | URL                                                         |
-| ------ | ----------------------------------------------------------- |
-| GET    | api\_url/get-list-config-default?page={page}\&limit={limit} |
+<table><thead><tr><th width="249">Method</th><th>URL</th></tr></thead><tbody><tr><td>GET</td><td>api_url/get-list-config-default?page={page}&#x26;limit={limit}</td></tr></tbody></table>
 
 | Params | Value  | Description                  |
 | ------ | ------ | ---------------------------- |
@@ -17,16 +15,11 @@ description: Get your list default config
 
 ### **Example Request**
 
-| Method | Value                                                                                                                            |
-| ------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| GET    | [http://127.0.0.1:5555/get-list-config-default?page=1\&limit=10](http://127.0.0.1:5555/get-list-config-default?page=1\&limit=10) |
+<table><thead><tr><th width="251">Method</th><th>Value</th></tr></thead><tbody><tr><td>GET</td><td><a href="http://127.0.0.1:5555/get-list-config-default?page=1&#x26;limit=10">http://127.0.0.1:5555/get-list-config-default?page=1&#x26;limit=10</a></td></tr></tbody></table>
 
 &#x20;  **Params**
 
-|       |    |
-| ----- | -- |
-| page  | 1  |
-| limit | 10 |
+<table><thead><tr><th width="250"></th><th></th></tr></thead><tbody><tr><td>page</td><td>1</td></tr><tr><td>limit</td><td>10</td></tr></tbody></table>
 
 ### **Example Response**
 

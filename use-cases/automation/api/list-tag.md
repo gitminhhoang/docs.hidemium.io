@@ -6,15 +6,11 @@ description: Returns a list of tag
 
 ### **Request**
 
-| Method | URL                   |
-| ------ | --------------------- |
-| GET    | api\_url/get-list-tag |
+<table><thead><tr><th width="249">Method</th><th>URL</th></tr></thead><tbody><tr><td>GET</td><td>api_url/get-list-tag</td></tr></tbody></table>
 
 ### **Example Request**
 
-| Method | Value                                                                    |
-| ------ | ------------------------------------------------------------------------ |
-| GET    | [http://127.0.0.1:5555/get-list-tag](http://127.0.0.1:5555/get-list-tag) |
+<table><thead><tr><th width="251">Method</th><th>Value</th></tr></thead><tbody><tr><td>GET</td><td><a href="http://127.0.0.1:5555/get-list-tag">http://127.0.0.1:5555/get-list-tag</a></td></tr></tbody></table>
 
 ### **Example Response**
 

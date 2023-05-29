@@ -6,15 +6,11 @@ description: Returns a list of status
 
 ### **Request**
 
-| Method | URL                      |
-| ------ | ------------------------ |
-| GET    | api\_url/get-list-status |
+<table><thead><tr><th width="249">Method</th><th>URL</th></tr></thead><tbody><tr><td>GET</td><td>api_url/get-list-status</td></tr></tbody></table>
 
 ### **Example Request**
 
-| Method | Value                                                                          |
-| ------ | ------------------------------------------------------------------------------ |
-| GET    | [http://127.0.0.1:5555/get-list-status](http://127.0.0.1:5555/get-list-status) |
+<table><thead><tr><th width="251">Method</th><th>Value</th></tr></thead><tbody><tr><td>GET</td><td><a href="http://127.0.0.1:5555/get-list-status">http://127.0.0.1:5555/get-list-status</a></td></tr></tbody></table>
 
 ### **Example Response**
 

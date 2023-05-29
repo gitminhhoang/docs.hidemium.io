@@ -2,13 +2,11 @@
 description: Update proxy of profile
 ---
 
-# UPDATE PROXY PROFILE
+# UPDATE PROXY PROFILE xfdghfd f sdfgfd dfg fdg dfg  fdg fgh
 
 ### **Request**
 
-| Method | URL                                                                                      |
-| ------ | ---------------------------------------------------------------------------------------- |
-| POST   | [http://127.0.0.1:5555/update-proxy-profile](http://127.0.0.1:5555/update-proxy-profile) |
+<table><thead><tr><th width="249">Method</th><th>URL</th></tr></thead><tbody><tr><td>POST</td><td><a href="http://127.0.0.1:5555/update-proxy-profile">http://127.0.0.1:5555/update-proxy-profile</a></td></tr></tbody></table>
 
 #### **Body**
 
