@@ -34,4 +34,4 @@
     * [CHANGE STATUS PROFILE](use-cases/automation/api/change-status-profile.md)
     * [CREATE PROFILE BY DEFAULT](use-cases/automation/api/create-profile-by-default.md)
     * [DELETE PROFILE](use-cases/automation/api/delete-profile.md)
-    * [UPDATE PROXY PROFILE xfdghfd f sdfgfd dfg fdg dfg  fdg fgh](use-cases/automation/api/update-proxy-profile-xfdghfd-f-sdfgfd-dfg-fdg-dfg-fdg-fgh.md)
+    * [UPDATE PROXY PROFILE](use-cases/automation/api/update-proxy-profile.md)

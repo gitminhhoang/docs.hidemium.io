@@ -2,7 +2,7 @@
 description: Update proxy of profile
 ---
 
-# UPDATE PROXY PROFILE xfdghfd f sdfgfd dfg fdg dfg  fdg fgh
+# UPDATE PROXY PROFILE
 
 ### **Request**
 
