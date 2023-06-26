@@ -20,10 +20,10 @@
 ## Use Cases
 
 * [🤖 API AUTOMATION](use-cases/api-automation/README.md)
-  * [Authorize](use-cases/api-automation/authorize.md)
   * [Remote profile](use-cases/api-automation/remote-profile/README.md)
     * [1. Open profile](use-cases/api-automation/remote-profile/1.-open-profile.md)
     * [2. Close profile](use-cases/api-automation/remote-profile/2.-close-profile.md)
+    * [3. Checking](use-cases/api-automation/remote-profile/3.-checking.md)
   * [Get profile](use-cases/api-automation/get-profile/README.md)
     * [1. List profile](use-cases/api-automation/get-profile/1.-list-profile.md)
     * [2. List config default](use-cases/api-automation/get-profile/2.-list-config-default.md)
