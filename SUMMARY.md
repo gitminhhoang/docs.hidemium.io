@@ -33,6 +33,7 @@
   * [Interact profile](use-cases/api-automation/interact-profile/README.md)
     * [1. Create profile by default](use-cases/api-automation/interact-profile/1.-create-profile-by-default.md)
     * [2. Create profile customize](use-cases/api-automation/interact-profile/2.-create-profile-customize.md)
+    * [3. Change fingerprint](use-cases/api-automation/interact-profile/3.-change-fingerprint.md)
     * [3. Update note](use-cases/api-automation/interact-profile/3.-update-note.md)
     * [4. Update name](use-cases/api-automation/interact-profile/4.-update-name.md)
     * [5. Sync tag](use-cases/api-automation/interact-profile/5.-sync-tag.md)
