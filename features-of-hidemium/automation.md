@@ -124,19 +124,21 @@ Or click on the orange button and it will let you choose the variables you enter
 
 <figure><img src="../.gitbook/assets/Capture (4).PNG" alt=""><figcaption></figcaption></figure>
 
-* **Write file :**&#x20;
+* **Write file :** The button allows you to edit your file by overwriting, Append to the side with special characters, or writing on new lines. To add a file, enter its full path or upload it from your device in the designated "file path" section. Then, choose the data you want to include in the file based on the variable you set up in the orange Variables node and select the file format. Once you've made your selections, additional options will appear for specifying the location of the data you entered.&#x20;
+
+As an example, let's say I have a file containing multiple Google accounts that need to be logged in. To mark these accounts, I can use the "write file" function. In the orange "Variable" node, I will set the "Login" variable with a value of "Complete" and the "Logout" variable with a value of "Decline". Next, I will use the Node "Element Exits" function to check if the account has been logged in. If an account has been successfully logged in, I will use the "write file" function to mark it as "Complete" (by selecting the login variable) and then indicate the account. If an account has not been logged in, I will use the "write file" function to mark it as "Decline" (by selecting the logout variable). Or you can mark which profile matches which data line in your file when using this feature and select the variable "PROFILE\_NAME"
 
 <figure><img src="../.gitbook/assets/Capture (5).PNG" alt=""><figcaption></figcaption></figure>
 
-* **Set variable :**
+* **Set variable :** This node allows you to change the value of a variable by adding, subtracting, multiplying, and dividing.
 
 <figure><img src="../.gitbook/assets/Capture (6).PNG" alt=""><figcaption></figcaption></figure>
 
-* **Converting JSON :**&#x20;
+* **Converting JSON :** Converting JSON is convert string to Json Object (As know as json decode)
 
 <figure><img src="../.gitbook/assets/Capture (7).PNG" alt=""><figcaption></figcaption></figure>
 
-* **Extraction In Text :**&#x20;
+* **Extraction In Text :** To extract specific values from a block of text, utilize regex ( Regular Expression) with rule A(.\*)\B. Example: you want to take a verify code in a message like "The authentication code is 128293. Please." so you have a formula is "is(.\*)\\. Please" and the value returned to you is 128293.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture (8).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -152,7 +154,7 @@ Or click on the orange button and it will let you choose the variables you enter
 
 <figure><img src="../.gitbook/assets/Capture (11).PNG" alt=""><figcaption></figcaption></figure>
 
-* **Random :**&#x20;
+* **Random :** You can generate random values ​​for the variable of your choice.
 
 <figure><img src="../.gitbook/assets/Capture (12).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -160,17 +162,21 @@ Or click on the orange button and it will let you choose the variables you enter
 
 <figure><img src="../.gitbook/assets/Capture (13).PNG" alt=""><figcaption></figcaption></figure>
 
-* **Authenticator Code**&#x20;
+* **Authenticator Code :** You just need to put the 2FA live authenticator key here and then this node will automatically get the code for you.
 
 <figure><img src="../.gitbook/assets/Capture (14).PNG" alt=""><figcaption></figcaption></figure>
 
-* **Download file**&#x20;
+* **Download file :** You enter a URL address and choose a location to save the file on your device, then the system will automatically download the file from that URL for you.
 
 <figure><img src="../.gitbook/assets/Capture (15).PNG" alt=""><figcaption></figcaption></figure>
 
-* **Set Cookies**
+* **Set Cookies :**&#x20;
 
 <figure><img src="../.gitbook/assets/Capture (16).PNG" alt=""><figcaption></figcaption></figure>
+
+* **HTTP :** This node can be challenging, especially for those with limited knowledge of HTTP. However, having a good understanding of HTTP will make it easier to use. In essence, this HTTP sends requests to the API using either the GET or POST method and displays the response in the tabs below.
+
+<figure><img src="../.gitbook/assets/Screenshot_46.png" alt=""><figcaption></figcaption></figure>
 
 5. <mark style="color:red;">ORTHER</mark>
 
