@@ -74,7 +74,7 @@ Continue clicking copy selector or copy xpath or full xpath. Normally you can co
 
 <figure><img src="../.gitbook/assets/Screenshot_36.png" alt=""><figcaption></figcaption></figure>
 
-* **Scroll :** It is intended for users who wish to scroll the page to simulate an action or locate the next element they wish to manipulate by selecting element or by coordinates and you need to determine the coordinates of that location
+* **Scroll :** It is intended for users who wish to scroll the page to simulate an action or locate the next element they wish to manipulate by selecting an element or by coordinates and you need to determine the coordinates of that location
 *
 
     <figure><img src="../.gitbook/assets/Screenshot_38.png" alt=""><figcaption></figcaption></figure>
@@ -170,7 +170,7 @@ As an example, let's say I have a file containing multiple Google accounts that 
 
 <figure><img src="../.gitbook/assets/Capture (15).PNG" alt=""><figcaption></figcaption></figure>
 
-* **Set Cookies :**&#x20;
+* **Set Cookies :** Use the cookie of any browser on another profile and log in to a new profile without entering a user password. Similar to using edit this cookie.
 
 <figure><img src="../.gitbook/assets/Capture (16).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -196,7 +196,7 @@ As an example, let's say I have a file containing multiple Google accounts that 
 
 <figure><img src="../.gitbook/assets/Capture (20).PNG" alt=""><figcaption></figcaption></figure>
 
-* **If :**&#x20;
+* **If :** This node is used to test a condition, if the condition is true then the statement of the if block will be executed, otherwise it will be ignored.
 
 <figure><img src="../.gitbook/assets/Capture (21).PNG" alt=""><figcaption></figcaption></figure>
 
