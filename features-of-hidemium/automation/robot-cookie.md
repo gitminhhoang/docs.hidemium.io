@@ -1,8 +1,5 @@
 # Robot cookie
 
-\
-Tạo tài khoản trên một trang web hoặc dịch vụ trực tuyến có thể đòi hỏi sự "tin tưởng" từ phía của trình duyệt của bạn. Một phần quan trọng của việc xác minh và xây dựng mức độ tin cậy này đối với nhiều trang web là việc sử dụng cookie.
-
 ## 1. Tạo sao cần cookie trong trình duyệt  ?
 
 ## &#x20;Creating stars requires cookies in the browser ?
@@ -23,5 +20,27 @@ When you create an account on a website or online service, your browser may need
 
 Để tăng độ tin tưởng cho trình duyệt của bạn, Hidemium đã làm sẵn một script automation dành cho mục đích này tên là robot cookie.&#x20;
 
+Click vào Automation trên màn hình chính và chuyển hướng đến " **Marketplace"**  để hiện ra màn hình chính như dưới.\
+\
+To increase the trust of your browser, Hidemium has made available an automation script for this purpose called cookie robot. Click on Automation on the main screen and navigate to "Marketplace" to display the main screen as below.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Sau đó, ấn tìm kiếm script " robot cookie" và kết quả hiện ra như này : \
+Then, search for script "robot cookies" and the results appear like this:
+
+Click vào script robot cookie và chọn "apply"
+
+Click on the robot cookie script and select "apply"
+
+Sau khi màn hình làm việc script hiện ra bạn sẽ click vào save ở đây để save lại script này nhé.&#x20;
+
+After the script working screen appears, click on save here to save this script.
+
+<figure><img src="../../.gitbook/assets/Screenshot_85 (1).png" alt=""><figcaption></figcaption></figure>
+
+Như vậy là bạn có thể dùng script robot cookie như những script bình thường khác. Bạn có thể chạy script này sau khi vừa tạo mới các profile hoặc cũng có thể tạo profile mới khi sử dụng script này nhé, chi tiết mời bạn đọc tại đây.
 
 
+
+So you can use the robot cookie script like any other normal script. You can run this script after creating new profiles or you can also create new profiles when using this script. For details, please read here.
