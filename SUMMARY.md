@@ -15,7 +15,8 @@
   * [PROFILES](features-of-hidemium/profiles.md)
   * [FOLDERS](features-of-hidemium/folders.md)
   * [PROXIES](features-of-hidemium/proxies.md)
-  * [AUTOMATION](features-of-hidemium/automation.md)
+  * [AUTOMATION](features-of-hidemium/automation/README.md)
+    * [Robot cookie](features-of-hidemium/automation/robot-cookie.md)
 
 ## Use Cases
 
