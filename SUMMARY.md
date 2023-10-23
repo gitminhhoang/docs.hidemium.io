@@ -44,3 +44,6 @@
   * [Proxy](use-cases/api-automation/proxy/README.md)
     * [1. Update proxy](use-cases/api-automation/proxy/1.-update-proxy.md)
     * [2. update profile's proxy](use-cases/api-automation/proxy/2.-update-profiles-proxy.md)
+  * [Automation](use-cases/api-automation/automation/README.md)
+    * [List scripts](use-cases/api-automation/automation/list-scripts.md)
+    * [Create campaign](use-cases/api-automation/automation/create-campaign.md)
