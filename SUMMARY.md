@@ -50,11 +50,12 @@
 ***
 
 * [AUTOMATION USER MANUAL](automation-user-manual/README.md)
-  * [Navigator](automation-user-manual/navigator.md)
+  * [Navigator](automation-user-manual/navigator/README.md)
+    * [New tab](automation-user-manual/navigator/new-tab.md)
   * [Mouse](automation-user-manual/mouse.md)
   * [Keyboard](automation-user-manual/keyboard.md)
   * [Data](automation-user-manual/data.md)
-  * [Other](automation-user-manual/other/README.md)
+  * [Other](automation-user-manual/other.md)
     * [Pause](automation-user-manual/other/pause.md)
     * [If](automation-user-manual/other/if.md)
     * [Eval](automation-user-manual/other/eval.md)
