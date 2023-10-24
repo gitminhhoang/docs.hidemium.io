@@ -50,8 +50,16 @@
 ***
 
 * [AUTOMATION USER MANUAL](automation-user-manual/README.md)
-  * [Navigator](automation-user-manual/navigator/README.md)
+  * [Navigator](automation-user-manual/navigator.md)
     * [New tab](automation-user-manual/navigator/new-tab.md)
+    * [Active tab](automation-user-manual/navigator/active-tab.md)
+    * [Close tab](automation-user-manual/navigator/close-tab.md)
+    * [Open url](automation-user-manual/navigator/open-url.md)
+    * [Reload page](automation-user-manual/navigator/reload-page.md)
+    * [Screenshot](automation-user-manual/navigator/screenshot.md)
+    * [Switch Frame](automation-user-manual/navigator/switch-frame.md)
+    * [Switch Extension popup](automation-user-manual/navigator/switch-extension-popup.md)
+    * [Go back](automation-user-manual/navigator/go-back.md)
   * [Mouse](automation-user-manual/mouse.md)
   * [Keyboard](automation-user-manual/keyboard.md)
   * [Data](automation-user-manual/data.md)
