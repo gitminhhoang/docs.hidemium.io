@@ -72,7 +72,6 @@
     * [Add comment](automation-user-manual/other/add-comment.md)
     * [Update profile](automation-user-manual/other/update-profile.md)
     * [Stop loop](automation-user-manual/other/stop-loop.md)
-    * [Stop](automation-user-manual/other/stop.md)
     * [Add log](automation-user-manual/other/add-log.md)
     * [Run other script](automation-user-manual/other/run-other-script.md)
     * [Disconnection](automation-user-manual/other/disconnection.md)
