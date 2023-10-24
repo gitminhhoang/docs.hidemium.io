@@ -50,7 +50,7 @@
 ***
 
 * [AUTOMATION USER MANUAL](automation-user-manual/README.md)
-  * [Navigator](automation-user-manual/navigator/README.md)
+  * [Navigator](automation-user-manual/navigator.md)
     * [New tab](automation-user-manual/navigator/new-tab.md)
     * [Active tab](automation-user-manual/navigator/active-tab.md)
     * [Close tab](automation-user-manual/navigator/close-tab.md)

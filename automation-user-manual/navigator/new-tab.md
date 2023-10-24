@@ -8,4 +8,8 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/new tab.png" alt=""><figcaption></figcaption></figure>
 
-URL: Nhập tên miền của trang web, chẳng hạn như: https://www.facebook.com , https://www.google.com&#x20;
+| parameter | illustrate                                                                                     |
+| --------- | ---------------------------------------------------------------------------------------------- |
+| URL       | Nhập tên miền của trang web, chẳng hạn như: https://www.facebook.com , https://www.google.com  |
+
+{% file src="../../.gitbook/assets/New tab.txt" %}
