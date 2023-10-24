@@ -15,3 +15,16 @@ Nút này cho phép bạn chọn loại vòng lặp: với dữ liệu, với c�
 |                |                                                       |
 
 {% file src="../../.gitbook/assets/For_data.txt" %}
+
+### For Elements
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+**Selector element :** Nhập CSS selector, chẳng hạn như #email, \[data-results-grid-container]>li
+
+**Content :** Chọn kiểu trích xuất, bao gồm:
+
+* Text: Trích xuất text của Select element
+* HTML: Trích xuất đoạn HTML của Select element
+* Attribute: Trích xuất thuộc tính của của Select element
+
