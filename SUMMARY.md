@@ -46,3 +46,12 @@
     * [2. update profile's proxy](use-cases/api-automation/proxy/2.-update-profiles-proxy.md)
   * [Automation](use-cases/api-automation/automation/README.md)
     * [List scripts](use-cases/api-automation/automation/list-scripts.md)
+
+***
+
+* [AUTOMATION USER MANUAL](automation-user-manual/README.md)
+  * [Navigator](automation-user-manual/navigator.md)
+  * [Mouse](automation-user-manual/mouse.md)
+  * [Keyboard](automation-user-manual/keyboard.md)
+  * [Data](automation-user-manual/data.md)
+  * [Other](automation-user-manual/other.md)
