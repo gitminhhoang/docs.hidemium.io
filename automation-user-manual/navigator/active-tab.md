@@ -6,13 +6,20 @@ description: >-
 
 # Active tab
 
+If your profile starts with so many tabs so you can select the tab you want by title or URL and equal or contain some information you provide here
+
+&#x20;\
+Nếu hồ sơ của bạn bắt đầu với rất nhiều tab để bạn có thể chọn tab bạn muốn theo tiêu đề hoặc URL và bằng hoặc chứa một số thông tin bạn cung cấp tại đây
+
+
+
 <figure><img src="../../.gitbook/assets/Active tab.png" alt=""><figcaption></figcaption></figure>
 
-| parameter       | illustrate                                                                                                               |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Url - Equal     | Bạn cần nhập vào Tap Info là Url tuyệt đối của trang web mà bạn muốn chuyển đổi. Ví dụ: https://www.facebook.com         |
-| Url - Contain   | Bạn cần nhập vào Tap Info là Url tương đối của trang web mà bạn muốn chuyển đổi. Ví dụ: facebook.com                     |
-| Title- Equal    | Bạn cần nhập vào Tap Info là tiêu đề tuyệt đối của trang web mà bạn muốn chuyển đổi. Ví dụ: Facebook - log in or sign up |
-| Title - Contain | Bạn cần nhập vào Tap Info là tiêu đề tương đối của trang web mà bạn muốn chuyển đổi. Ví dụ: Facebook                     |
+| parameter       | illustrate                                                                             |
+| --------------- | -------------------------------------------------------------------------------------- |
+| Url - Equal     | Bạn cần nhập vào Tap Info là đường dẫn tuyệt đối đến trang web mà bạn muốn chuyển đổi. |
+| Url - Contain   | Bạn cần nhập vào Tap Info là đường dẫn tương đối của trang web mà bạn muốn chuyển đổi. |
+| Title- Equal    | Bạn cần nhập vào Tap Info là tiêu đề tuyệt đối của trang web mà bạn muốn chuyển đổi.   |
+| Title - Contain | Bạn cần nhập vào Tap Info là tiêu đề tương đối của trang web mà bạn muốn chuyển đổi.   |
 
 {% file src="../../.gitbook/assets/Active tab.txt" %}

@@ -1,10 +1,10 @@
----
-description: >-
-  Khi bạn muốn tạo một tab mới trong trình duyệt để truy cập một trang web nhất
-  định.
----
-
 # New tab
+
+When you use this node, the script will open a new tab to take the next action starts with URL you put in .
+
+Khi bạn sử dụng nút này, tập lệnh sẽ mở một tab mới để thực hiện hành động tiếp theo bắt đầu bằng URL bạn nhập.
+
+
 
 <figure><img src="../../.gitbook/assets/new tab.png" alt=""><figcaption></figcaption></figure>
 
