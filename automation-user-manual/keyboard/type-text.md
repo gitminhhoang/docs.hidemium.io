@@ -10,4 +10,8 @@ Nếu bạn muốn tập lệnh nhập một số văn bản, bạn có thể vi
 
 
 
-{% file src="../../.gitbook/assets/Type text.txt" %}
+| parameter  | illustrate   |
+| ---------- | ------------ |
+| Enter text | Nhập văn bản |
+
+{% file src="../../.gitbook/assets/Type text (1).txt" %}

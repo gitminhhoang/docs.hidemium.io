@@ -10,4 +10,10 @@ Nút này cho phép bạn chọn phím mong muốn để nhập tập lệnh, t�
 
 
 
+| parameter  | illustrate                           |
+| ---------- | ------------------------------------ |
+| Select key | Nhập tập lệnh, tương tự như bàn phím |
+
+
+
 {% file src="../../.gitbook/assets/Press key.txt" %}

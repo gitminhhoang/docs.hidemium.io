@@ -10,13 +10,16 @@ True to its name, this button is used to automatically click the mouse on the el
 
 
 
-| parameter         | illustrate                                                                                                                                         |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Click type        | <p>Left: click chuột trái<br>Right: click chuột phải<br>Midle: click giữa</p>                                                                      |
-| Button click type | <p>Click<br>Double: click đúp</p>                                                                                                                  |
-| Selector          | Click chuột vào phần tử bạn chọn                                                                                                                   |
-| Select element    | Nhập phần tử bạn muốn chọn vào ô này                                                                                                               |
-| Element order     | <p>Thứ tự phần tử <br>Fixed value: Giá trị cố định<br>Random value: giá trị ngẫu nhiên, bạn có thể random giá trị trong khoảng giá trị bạn đặt</p> |
-| Coordinates       | Tọa độ                                                                                                                                             |
-| Current position  | Vị trí hiện tại                                                                                                                                    |
+| parameter         | illustrate                                                                                                                                                           |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Click type        | <p>Left: click chuột trái<br>Right: click chuột phải<br>Midle: click giữa</p>                                                                                        |
+| Button click type | <p>Click<br>Double click: click đúp</p>                                                                                                                              |
+| Selector          | Click chuột vào phần tử bạn chọn                                                                                                                                     |
+| Select element    | Nhập phần tử bạn muốn chọn vào ô này                                                                                                                                 |
+| Element order     | <p>Chọn thành phần nào của trang web<br>Fixed value: Giá trị cố định<br>Random value: giá trị ngẫu nhiên, bạn có thể random giá trị trong khoảng giá trị bạn đặt</p> |
+| Coordinates       | <p>Click vào tọa độ bạn chọn</p><p>Enter X coordinate: Nhập tọa độ X</p><p>Enter Y coordinate: Nhập tọa độ Y</p>                                                     |
+| Current position  | Vị trí hiện tại                                                                                                                                                      |
 
+
+
+{% file src="../../.gitbook/assets/Click.txt" %}

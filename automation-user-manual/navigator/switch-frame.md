@@ -7,3 +7,13 @@ Một số trang có iframe và bạn phải sử dụng nút Switch Frame để
 
 
 <figure><img src="../../.gitbook/assets/Switch Frame (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+| parameter                   | illustrate                                                                                                                                              |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sub frame: Select element   | Nhập CSS selector, chẳng hạn như #email, #global-enhancements-search-query                                                                              |
+| Sub frame: Timeout waiting  | Thời gian chờ đợi tối đa. Ví dụ: 30000: Nếu bước này không được thực hiện thành công trong vòng 30 giây thì bước tiếp theo sẽ được thực hiện trực tiếp. |
+| Main frame: Timeout waiting | Thời gian chờ đợi tối đa. Ví dụ: 30000: Nếu bước này không được thực hiện thành công trong vòng 30 giây thì bước tiếp theo sẽ được thực hiện trực tiếp. |
+
+{% file src="../../.gitbook/assets/Switch Frame.txt" %}
