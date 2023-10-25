@@ -1,12 +1,8 @@
----
-description: >-
-  Mô phỏng việc chuột đi qua một nút, hình ảnh, hộp nhập liệu, v.v. bằng
-  Selector hoặc Tọa độ
----
-
 # Mouse movement
 
-
+You put the element you want to move mouse there.\
+\
+Bạn đặt phần tử bạn muốn di chuyển chuột vào đó.
 
 <figure><img src="../../.gitbook/assets/Mouse movement.png" alt=""><figcaption></figcaption></figure>
 
