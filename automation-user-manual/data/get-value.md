@@ -1,2 +1,7 @@
 # Get value
 
+This node allows you take a value from element you put in here, and you need to set a Output Variable for that. Example : To extract the title of any video on YouTube, select the element that contains the title and assign it to the output variable "name". This will provide you with the title of the video as the end result. \
+\
+Nút này cho phép bạn lấy một giá trị từ phần tử bạn đặt ở đây và bạn cần đặt Biến đầu ra cho giá trị đó. Ví dụ: Để trích xuất tiêu đề của bất kỳ video nào trên YouTube, hãy chọn phần tử chứa tiêu đề và gán nó cho biến đầu ra là "name". Điều này sẽ cung cấp cho bạn tiêu đề của video là kết quả cuối cùng.
+
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
