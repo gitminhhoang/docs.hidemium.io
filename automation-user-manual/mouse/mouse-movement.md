@@ -8,13 +8,13 @@ Bạn đặt phần tử bạn muốn di chuyển chuột vào đó.
 
 
 
-| parameter      | illustrate                                                                                                                                         |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Selector       | Di chuột vào phần tử bạn chọn                                                                                                                      |
-| Select element | Nhập phần tử bạn muốn di chuột vào ô này                                                                                                           |
-| Element order  | <p>Thứ tự phần tử <br>Fixed value: Giá trị cố định<br>Random value: giá trị ngẫu nhiên, bạn có thể random giá trị trong khoảng giá trị bạn đặt</p> |
-| Focus          | <p>True<br>False</p>                                                                                                                               |
-| Coordinates    | Tọa độ                                                                                                                                             |
+| parameter      | illustrate                                                                 |
+| -------------- | -------------------------------------------------------------------------- |
+| Selector       | Di chuột vào phần tử bạn chọn                                              |
+| Select element | Nhập CSS selector, chẳng hạn như #email, #global-enhancements-search-query |
+| Element order  | Chọn các thành phần dựa trên thứ tự chúng xuất hiện trên trang             |
+| Focus          | <p>True<br>False</p>                                                       |
+| Coordinates    | Tọa độ                                                                     |
 
 
 

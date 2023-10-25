@@ -10,11 +10,11 @@ Nút này được sử dụng khi bạn cần chọn một giá trị cụ th�
 
 
 
-| parameter      | illustrate             |
-| -------------- | ---------------------- |
-| Select element | Nhập một phần tử       |
-| Element Order  | Thứ tự phần tử         |
-| Selected value | Nhập giá trị muốn chọn |
+| parameter      | illustrate                                                                 |
+| -------------- | -------------------------------------------------------------------------- |
+| Select element | Nhập CSS selector, chẳng hạn như #email, #global-enhancements-search-query |
+| Element Order  | Chọn thành phần nào của trang web                                          |
+| Selected value | Nhập giá trị muốn chọn                                                     |
 
 
 
