@@ -10,12 +10,12 @@ Nó dành cho người dùng muốn cuộn trang để mô phỏng một hành �
 
 
 
-| parameter      | illustrate                                     |
-| -------------- | ---------------------------------------------- |
-| Selector       | Chọn phần tử                                   |
-| Select element | Nhập phần tử bạn muốn chọn vào ô này           |
-| Element order  | Thứ tự phần tử                                 |
-| Coordinates    | Xác định tọa độ của vị trí bạn muốn cuộn trang |
+| parameter      | illustrate                                                     |
+| -------------- | -------------------------------------------------------------- |
+| Selector       | Chọn phần tử                                                   |
+| Select element | Nhập phần tử bạn muốn chọn vào ô này                           |
+| Element order  | Chọn các thành phần dựa trên thứ tự chúng xuất hiện trên trang |
+| Coordinates    | Xác định vị trí bạn muốn cuộn trang                            |
 
 
 

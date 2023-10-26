@@ -1,8 +1,8 @@
----
-description: Khi bạn muốn truy  cập tới trang web, bạn có thể sử dụng chức năng này
----
-
 # Open url
+
+You just need to put URL you want here and set the timeout waiting \
+\
+Bạn chỉ cần đặt URL bạn muốn vào đây và đặt thời gian chờ.
 
 <figure><img src="../../.gitbook/assets/Open url.png" alt=""><figcaption></figcaption></figure>
 

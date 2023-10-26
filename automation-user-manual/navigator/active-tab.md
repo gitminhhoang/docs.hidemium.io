@@ -1,9 +1,3 @@
----
-description: >-
-  Khi bạn muốn chuyển đổi tab trong trình duyệt, bạn có thể sử dụng chức năng
-  này.
----
-
 # Active tab
 
 If your profile starts with so many tabs so you can select the tab you want by title or URL and equal or contain some information you provide here
