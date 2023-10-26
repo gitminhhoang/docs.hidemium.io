@@ -94,6 +94,7 @@
     * [Set Data](automation-user-manual/data/set-data.md)
     * [Get Data](automation-user-manual/data/get-data.md)
     * [Spreadsheet](automation-user-manual/data/spreadsheet.md)
+    * [Spreadsheet V2](automation-user-manual/data/spreadsheet-v2.md)
   * [Other](automation-user-manual/other.md)
     * [Pause](automation-user-manual/other/pause.md)
     * [If](automation-user-manual/other/if.md)

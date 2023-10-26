@@ -52,7 +52,13 @@ Khi click vào preview sẽ hiển thị như sau:
 
 &#x20;                \[1]\[1]  : Sẽ lấy được giá trị là abcd123
 
+**Google sheet:** Khi bạn muốn đọc file google sheet hãy chọn Google sheet. Bạn hãy đảm bảo rằng google sheet của bạn ở trạng thái công khai.
 
+* Google Spreadsheet ID: ID của google sheet, bạn hãy copy ID tại đây:
+
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+* Các trường còn lại làm giống như hướng dẫn khi chọn Local file.
 
 Dưới đây là một script ví dụ của node đọc file, với ví dụ này sẽ đọc lần lượt theo từng hàng và tương ứng với từng profile mà bạn chạy.
 
