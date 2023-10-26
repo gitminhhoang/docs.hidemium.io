@@ -43,3 +43,9 @@ Ta có bảng dữ liệu như sau:
 
 Dưới đây là một script ví dụ của node đọc file, với ví dụ này sẽ đọc lần lượt theo từng hàng và tương ứng với từng profile mà bạn chạy.
 
+File excel dưới đây bạn có thể thay thế bằng uuid của các profile mà bạn sẽ chạy.
+
+{% file src="../../.gitbook/assets/example.xlsx" %}
+
+{% file src="../../.gitbook/assets/Spreadsheet V2.txt" %}
+
