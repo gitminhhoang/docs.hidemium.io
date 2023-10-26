@@ -10,11 +10,7 @@ To extract specific values from a block of text, utilize regex ( Regular Express
 
 
 
-| parameter     | illustrate |
-| ------------- | ---------- |
-| Data          |            |
-| Extract rules |            |
-| Save to       |            |
+<table><thead><tr><th width="260">parameter</th><th>illustrate</th></tr></thead><tbody><tr><td>Data</td><td></td></tr><tr><td>Extract rules</td><td></td></tr><tr><td>Save to</td><td></td></tr></tbody></table>
 
 
 
