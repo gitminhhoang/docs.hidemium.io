@@ -13,7 +13,7 @@ Bạn có thể tạo các giá trị ngẫu nhiên cho biến bạn chọn.
 | parameter                                                                              | illustrate                                                      |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | Choose one: Email, Full name, Random Letters, Password, First name, Last name, Number. | Chọn một trường bạn muốn lấy giá trị ngẫu nhiên.                |
-| Email: Domain                                                                          | Đặt tên miền cho Domain                                         |
+| Email: Domain                                                                          | Đặt tên miền                                                    |
 | Select symbols quantity                                                                | Chọn số lượng ký tự                                             |
 | Output Variable                                                                        | Lưu các phần tử được trích xuất dưới dạng biến và nhập tên biến |
 
