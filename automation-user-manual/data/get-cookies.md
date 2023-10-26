@@ -6,11 +6,10 @@ Khi bạn sử dụng node Get cookies, bạn có thể lấy thông tin, hoạt
 
 
 
-| parameter        | illustrate                                                                          |
-| ---------------- | ----------------------------------------------------------------------------------- |
-| Domain           | Nhập tên miền của trang web, để trống nếu bạn muốn lấy tất cả cooki của trình duyệt |
-| Output Variable  | Lưu các phần tử được trích xuất dưới dạng biến và nhập tên biến                     |
-|                  |                                                                                     |
+| parameter        | illustrate                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------ |
+| Domain           | Nhập tên miền của trang web, để trống nếu bạn muốn lấy tất cả cookie của trình duyệt |
+| Output Variable  | Lưu các phần tử được trích xuất dưới dạng biến và nhập tên biến                      |
 
 
 
