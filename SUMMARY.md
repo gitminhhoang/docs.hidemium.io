@@ -15,8 +15,6 @@
   * [PROFILES](features-of-hidemium/profiles.md)
   * [FOLDERS](features-of-hidemium/folders.md)
   * [PROXIES](features-of-hidemium/proxies.md)
-  * [AUTOMATION](features-of-hidemium/automation/README.md)
-    * [Robot cookie](features-of-hidemium/automation/robot-cookie.md)
 
 ## Use Cases
 
@@ -107,3 +105,5 @@
     * [Add log](automation-user-manual/other/add-log.md)
     * [Run other script](automation-user-manual/other/run-other-script.md)
     * [Disconnection](automation-user-manual/other/disconnection.md)
+  * [Scripts](automation-user-manual/scripts/README.md)
+    * [Robot cookie](automation-user-manual/scripts/robot-cookie.md)
