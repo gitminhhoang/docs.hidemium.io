@@ -51,3 +51,18 @@ File excel dưới đây bạn có thể thay thế bằng uuid của các profi
 
 **Ví dụ về đọc random từng hàng của file excel cho từng profile:**&#x20;
 
+Với trường hợp bạn muốn đọc các hàng của file excel vào từng profile mà không theo thứ tự nào. Khi đó bạn có thể sử dụng node Random ở trước node Spreadsheet V2 để random ra chỉ số của cột.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Trong trường hợp này ta sẽ random từ 1 đến 10. Sau đó tại trường Range của node Spreadsheet ta sẽ nhập như sau  A${index}:B10, trong trường hợp random này thì ta không nên chọn checkbox Read row with stop condition.&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Khi đó khi chạy với nhiều profile thì dữ liệu trong file excel sẽ được lấy một cách ngẫu nhiêu không theo một thứ tự nào cả.
+
+Dưới đây là một script đọc random các hàng với mỗi profile mà không theo thứ tự:
+
+{% file src="../../.gitbook/assets/example 2.xlsx" %}
+
+{% file src="../../.gitbook/assets/Spreadsheet V2 random.txt" %}
