@@ -2,6 +2,8 @@
 
 Node Spreadsheet giúp bạn đọc dữ liệu từ file excel hoặc google sheet.
 
+### Giải thích các trường của node
+
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 **Local file:** Khi bạn muốn đọc file excel hãy chọn Local file.
@@ -59,6 +61,26 @@ Khi click vào preview sẽ hiển thị như sau:
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 * Các trường còn lại làm giống như hướng dẫn khi chọn Local file.
+
+### Hướng dẫn đọc từng hàng khớp với từng profile
+
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+Ta có Script như sau:
+
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+Với trường hợp này ta sẽ tạo một biến ${index} có giá trị là 1.&#x20;
+
+Các node ta nhập như sau:&#x20;
+
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
+Với bảng dữ liệu như trên thì tại node for ta sẽ cho chạy 10 vòng lặp. Mỗi vòng lặp ta sẽ chạy qua từng hàng của file excel nhờ node Set variable, node làm giá trị của biến index tăng lên 1 sau mỗi vòng lặp. Khi biến này được tăng lên thì trường Range của node Spreadsheet qua mỗi vòng lặp sẽ lần lượt là A1:B1, A2:B2, A3:B3,....... Khi lặp như vậy ta sẽ sử dụng node if làm điều kiệm để so sánh Profile\_id của profile đang chạy với uuid của file excel. Nếu Profile\_id trùng với uuid của file excel thì dừng vòng lặp và ghi dữ liệu của hàng đó vào biến để sử dụng cho các node tiếp theo.
 
 Dưới đây là một script ví dụ của node đọc file, với ví dụ này sẽ đọc lần lượt theo từng hàng và tương ứng với từng profile mà bạn chạy.
 
