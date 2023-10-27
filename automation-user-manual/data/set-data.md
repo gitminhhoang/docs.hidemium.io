@@ -1,14 +1,13 @@
 # Set Data
 
-Thiết lập bộ dữ liệu, có thể thiêt lập một hoặc nhiều bộ dữ liệu
-
-
+Node này giúp bạn lưu dữ liệu lên server, trong những lần chạy tiếp theo bạn chỉ cần sủ dụng node get data để sử dụng những dữ liệu đó.
 
 <figure><img src="../../.gitbook/assets/Set data.jpg" alt=""><figcaption></figcaption></figure>
 
-| parameter | illustrate           |
-| --------- | -------------------- |
-| key       | Đặt khóa             |
-| value     | Đặt giá trị cho khóa |
+Dữ liệu được lưu trên server sẽ có dạng {"key1":"value1","key2":"value2"}.
 
-{% file src="../../.gitbook/assets/Set data.jpg" %}
+Ví dụ khi bạn muốn lưu email và password lên server thì bạn có thể nhập như sau:
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;

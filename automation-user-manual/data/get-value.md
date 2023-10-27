@@ -6,13 +6,11 @@ Nút này cho phép bạn lấy một giá trị từ phần tử bạn đặt �
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-
-
-| parameter       | illustrate                                                             |
-| --------------- | ---------------------------------------------------------------------- |
-| Select element  | Nhập CSS selector, chằng hạn #email, #global-enhancements-search-query |
-| Element order   | Chọn các thành phần dựa trên thứ tự chúng xuất hiện trên trang         |
-| Output variable | Lưu các phần tử được trích xuất dưới dạng biến và nhập tên biến        |
+| parameter       | illustrate                                                                                                                                                     |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Select element  | Nhập CSS selector, chằng hạn #email, #global-enhancements-search-query. Bạn chỉ có thể nhập CSS selector của các thẻ \<input> hoặc \<textarea> hoặc \<select>. |
+| Element order   | Chọn các thành phần dựa trên thứ tự chúng xuất hiện trên trang                                                                                                 |
+| Output variable | Lưu các phần tử được trích xuất vào biến                                                                                                                       |
 
 
 
