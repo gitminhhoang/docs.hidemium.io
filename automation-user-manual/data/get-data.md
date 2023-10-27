@@ -8,6 +8,6 @@ Với node get data này bạn phải nhập đúng key mà bạn đã dùng nod
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Lưu ý: Khi dùng node get data thì phải chạy đúng profile mà bạn đã chạy node set data thì mới có thể lấy chính xác data mà bạn đã lưu trên server.
+Lưu ý: Khi dùng node get data thì chỉ lấy được data của profile đó. Biến (variable) chỉ được dử dụng trong script đang dùng.&#x20;
 
 {% file src="../../.gitbook/assets/Get data.txt" %}
