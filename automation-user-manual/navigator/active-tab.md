@@ -11,7 +11,7 @@ Nếu hồ sơ của bạn bắt đầu với rất nhiều tab để bạn có 
 
 Ví dụ ta có 2 tab như sau:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * URL:
 

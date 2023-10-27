@@ -41,7 +41,7 @@ Ta có bảng dữ liệu như sau:
 
 **Ví dụ về đọc lần lượt từng hàng của file excel khớp với từng profile đang chạy:**
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
