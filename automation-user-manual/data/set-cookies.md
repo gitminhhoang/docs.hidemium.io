@@ -10,9 +10,9 @@ Sử dụng cookie của bất kỳ trình duyệt nào trên hồ sơ khác và
 
 
 
-| parameter    | illustrate                                |
-| ------------ | ----------------------------------------- |
-| Set Cookies  | Nhập vào dữ liệu dạng json hoặc key value |
+| parameter    | illustrate                                        |
+| ------------ | ------------------------------------------------- |
+| Set Cookies  | Nhập vào dữ liệu cookies dạng json hoặc key value |
 
 
 
