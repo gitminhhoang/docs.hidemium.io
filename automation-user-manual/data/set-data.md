@@ -12,4 +12,4 @@ Ví dụ khi bạn muốn lưu email và password lên server thì bạn có th�
 
 Khi đó dữ liệu được lưu trên server sẽ là: {"email":"email1@gmail.com","pass":"pass123123"}
 
-Lưu ý: Khi dùng node set data chỉ lưu data lên server vào profile mà chạy script chứa node này. Trường "key" thì sẽ đi theo xuyên suốt hệ thống automation trong tài khoản của bạn. Cho nên cần đặt tên "key" riêng biệt để tránh nhầm lẫn với các "key" khác.
+Lưu ý: Khi dùng node set data chỉ lưu data lên server vào profile mà chạy script chứa node này.&#x20;
