@@ -19,7 +19,7 @@ Giá trị của _For to value_ phải lớn hơn giá trị của _For from val
 
 ### For Elements
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Selector element :** Nhập CSS selector, chẳng hạn như #email, \[data-results-grid-container]>li
 

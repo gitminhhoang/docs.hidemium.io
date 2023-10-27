@@ -8,8 +8,8 @@ Khi bạn sử dụng nút này, tập lệnh sẽ mở một tab mới để th
 
 <figure><img src="../../.gitbook/assets/new tab.png" alt=""><figcaption></figcaption></figure>
 
-| parameter | illustrate                                                                                    |
-| --------- | --------------------------------------------------------------------------------------------- |
-| URL       | Nhập tên miền của trang web, chẳng hạn như: https://www.facebook.com, https://www.google.com  |
+| parameter | illustrate                                                                               |
+| --------- | ---------------------------------------------------------------------------------------- |
+| URL       | Nhập URL của trang web, chẳng hạn như: https://www.facebook.com, https://www.google.com  |
 
 {% file src="../../.gitbook/assets/New tab.txt" %}

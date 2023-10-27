@@ -4,7 +4,7 @@ This is another loop with node for. Here, "while" will loop until it meets the v
 \
 Đây là một vòng lặp khác với node for. Ở đây, "while" sẽ lặp đến khi gặp được điều kiện biến bạn đã cài đặt ở đây mà không quan tâm đến số lần lặp, có thể là lặp một lần hoặc lặp mười lần,... nó không cố định số vòng lặp, nó sẽ cứ lặp đến khi gặp được điều kiện để nó dừng lại.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 | parameter         | illustrate                             |
 | ----------------- | -------------------------------------- |

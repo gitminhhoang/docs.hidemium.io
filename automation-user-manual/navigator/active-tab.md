@@ -9,11 +9,20 @@ Nếu hồ sơ của bạn bắt đầu với rất nhiều tab để bạn có 
 
 <figure><img src="../../.gitbook/assets/Active tab.png" alt=""><figcaption></figcaption></figure>
 
-| parameter | illustrate                                                                                                  |
-| --------- | ----------------------------------------------------------------------------------------------------------- |
-| Url       | Nhập vào Tab info tên miền của trang web, chẳng hạn như: https://www.facebook.com , https://www.google.com  |
-| Title     | Nhập vào Tab info tiêu đề của trang web, chẳng hạn như: Facebook                                            |
-| Equal     | Bạn cần nhập vào Tap Info url hoặc tiêu đề tuyệt đối của trang web mà bạn muốn chuyển đổi.                  |
-| Contain   | Bạn cần nhập vào Tap Info url hoặc tiêu đề tương đối của trang web mà bạn muốn chuyển đổi.                  |
+Ví dụ ta có 2 tab như sau:
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+* URL:
+
+&#x20;           Equal: Nhập đường dẫn tuyệt đối của trang web, ví dụ: https://www.facebook.com/
+
+&#x20;           Contain: Nhập đường dẫn tương đối của trang web, ví dụ : facebook
+
+* Title:
+
+&#x20;            Equal: Nhập tiêu đề tuyệt đối của trang web, ví dụ: Electronics, Cars, Fashion, Collectibles & More | eBay
+
+&#x20;            Contain: Nhập tiêu đề tương đối của trang web, ví dụ: Facebook
 
 {% file src="../../.gitbook/assets/Active tab.txt" %}
