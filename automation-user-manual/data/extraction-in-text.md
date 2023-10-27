@@ -10,8 +10,8 @@ To extract specific values from a block of text, utilize regex ( Regular Express
 
 
 
-<table><thead><tr><th width="260">parameter</th><th>illustrate</th></tr></thead><tbody><tr><td>Data</td><td></td></tr><tr><td>Extract rules</td><td></td></tr><tr><td>Save to</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="260">parameter</th><th>illustrate</th></tr></thead><tbody><tr><td>Data</td><td>Chọn biến chứa một đoạn text cần trích xuất</td></tr><tr><td>Extract rules</td><td>Nhập các biểu thức Regex để lấy dữ liệu</td></tr><tr><td>Save to</td><td>Lưu giá trị vừa trích xuất được vào biến</td></tr></tbody></table>
 
 
 
-{% file src="../../.gitbook/assets/Extraction In Text.txt" %}
+{% file src="../../.gitbook/assets/Extraction In Text (2).txt" %}
