@@ -4,19 +4,12 @@ It is intended for users who wish to scroll the page to simulate an action or lo
 \
 Nó dành cho người dùng muốn cuộn trang để mô phỏng một hành động hoặc xác định vị trí phần tử tiếp theo mà họ muốn thao tác bằng cách chọn một phần tử hoặc theo tọa độ và bạn cần xác định tọa độ của vị trí đó
 
-
-
 <figure><img src="../../.gitbook/assets/Scroll.png" alt=""><figcaption></figcaption></figure>
 
-
-
-| parameter      | illustrate                                                     |
-| -------------- | -------------------------------------------------------------- |
-| Selector       | Chọn phần tử                                                   |
-| Select element | Nhập phần tử bạn muốn chọn vào ô này                           |
-| Element order  | Chọn các thành phần dựa trên thứ tự chúng xuất hiện trên trang |
-| Coordinates    | Xác định vị trí bạn muốn cuộn trang                            |
-
-
+| parameter      | illustrate                                                 |
+| -------------- | ---------------------------------------------------------- |
+| Select element | Nhập CSS selector của phần tử mà bạn muốn cuộn trang xuống |
+| Element order  | Chọn cố định một phần tử mà bạn muốn cuộn xuống            |
+| Coordinates    | Nhập tọa độ x,y của phần tử mà bạn muốn cuộn xuống         |
 
 {% file src="../../.gitbook/assets/Scroll.txt" %}

@@ -4,18 +4,12 @@ This Node is utilized when you need to choose a specific value given by people, 
 \
 Nút này được sử dụng khi bạn cần chọn một giá trị cụ thể do mọi người đưa ra, chẳng hạn như chọn ngày hoặc tháng. Chỉ cần nhấp vào giá trị mong muốn và một danh sách các tùy chọn sẽ xuất hiện, chẳng hạn như chọn ngày 7 tháng 10. Bạn đặt một phần tử vào "select element" và gõ giá trị (ví dụ: Nếu bạn muốn chọn Tháng 7, hãy nhập số 7 hoặc bạn có thể nhập các biến và chọn điền chúng dựa trên chúng bằng cách nhấp vào nút màu cam.) bạn muốn. thành "selected value".
 
-
-
 <figure><img src="../../.gitbook/assets/Drop-down selector.png" alt=""><figcaption></figcaption></figure>
 
-
-
-| parameter      | illustrate                                                                 |
-| -------------- | -------------------------------------------------------------------------- |
-| Select element | Nhập CSS selector, chẳng hạn như #email, #global-enhancements-search-query |
-| Element Order  | Chọn các thành phần dựa trên thứ tự chúng xuất hiện trên trang             |
-| Selected value | Chọn giá trị                                                               |
-
-
+| parameter      | illustrate                                                                                                                                                                                                                         |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Select element | Nhập CSS selector của dropdown option                                                                                                                                                                                              |
+| Element Order  | <p>Chọn thành phần nào của trang web:<br>Fixed value: Chọn một phần tử cố định<br>Random interval: random một giá trị ngẫu nhiên trong khoảng đã đăt</p>                                                                           |
+| Selected value | Nhập value của option mà bạn muốn chọn. Ví dụ ta có option sau: \<option value="99">Everything Else\</option>  . Khi đó trường Selected value ta sẽ nhập là 99 chi chạy script thì dropdown sẽ hiển thị giá trị là Everything Else |
 
 {% file src="../../.gitbook/assets/Drop-down selector.txt" %}
