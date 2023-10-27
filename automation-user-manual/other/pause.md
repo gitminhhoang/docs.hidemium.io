@@ -4,7 +4,7 @@ This node allows you to pause for a specific time after any node and also set a 
 \
 Nút này cho phép bạn tạm dừng trong một thời gian cụ thể sau bất kỳ nút nào và cũng có thể đặt độ trễ thời gian ngẫu nhiên.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 | parameter  | illustrate                                              |
 | ---------- | ------------------------------------------------------- |
