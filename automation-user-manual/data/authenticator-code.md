@@ -9,7 +9,7 @@ Bạn chỉ cần đặt khóa xác thực trực tiếp 2FA vào đây và sau 
 
 
 
-| parameter | illustrate                                                                                                                                 |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Secret    | Enter the authenticator key. For example, to turn on Facebook's two-step verification, a code will be provided. Copy this code to the key. |
-| Save to   | Lưu khóa thu được dưới dạng biến                                                                                                           |
+| parameter | illustrate                                                 |
+| --------- | ---------------------------------------------------------- |
+| Secret    | Nhập mã xác thực 2 yếu tố                                  |
+| Save to   | Lưu mã xác nhận vào biến để sử dụng cho các node tiếp theo |
