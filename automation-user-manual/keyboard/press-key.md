@@ -4,16 +4,10 @@ This node allows you to select the desired key for the script to enter, similar 
 \
 Nút này cho phép bạn chọn phím mong muốn để nhập tập lệnh, tương tự như bàn phím.
 
-
-
 <figure><img src="../../.gitbook/assets/Press key.png" alt=""><figcaption></figcaption></figure>
 
-
-
-| parameter  | illustrate                           |
-| ---------- | ------------------------------------ |
-| Select key | Nhập tập lệnh, tương tự như bàn phím |
-
-
+| parameter  | illustrate                                                                                               |
+| ---------- | -------------------------------------------------------------------------------------------------------- |
+| Select key | Chọn các phím mà bạn mong muốn, Sử dụng node này tương đương với việc nhấn phím tương ứng trên bàn phím. |
 
 {% file src="../../.gitbook/assets/Press key.txt" %}
