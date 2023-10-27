@@ -8,7 +8,7 @@ Bạn có thể chọn đóng tab hiện tại hoặc chọn tab, nếu chọn t
 
 | parameter  | illustrate                    |
 | ---------- | ----------------------------- |
-| Current    | Đóng tab hiện tại             |
+| Current    | Đóng tab hiện tại đang active |
 | Select tab | Chọn tab bạn muốn đóng        |
 | Tab number | Nhập số của tab bạn muốn đóng |
 

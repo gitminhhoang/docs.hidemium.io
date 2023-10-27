@@ -1,10 +1,6 @@
----
-description: >-
-  Bạn có thể sử dụng nó khi bạn muốn script  quay lại trang và đặt thời gian
-  chờ.
----
-
 # Go back
+
+Khi bạn muốn quay trở lại trang web trước đó thì ta dùng go back
 
 <figure><img src="../../.gitbook/assets/Go back.png" alt=""><figcaption></figcaption></figure>
 
