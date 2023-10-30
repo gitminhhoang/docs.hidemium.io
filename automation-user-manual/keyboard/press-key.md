@@ -8,6 +8,6 @@ Nút này cho phép bạn chọn phím mong muốn để nhập tập lệnh, t�
 
 | parameter  | illustrate                                                                                               |
 | ---------- | -------------------------------------------------------------------------------------------------------- |
-| Select key | Chọn các phím mà bạn mong muốn, Sử dụng node này tương đương với việc nhấn phím tương ứng trên bàn phím. |
+| Select key | Chọn các phím mà bạn mong muốn, sử dụng node này tương đương với việc nhấn phím tương ứng trên bàn phím. |
 
 {% file src="../../.gitbook/assets/Press key.txt" %}

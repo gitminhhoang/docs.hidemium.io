@@ -23,6 +23,6 @@ Hoặc nhấp vào nút màu cam và nó sẽ cho phép bạn chọn các biến
 | Select element      | Nhập CSS selector của phần tử mà bạn sẽ điền text vào, chẳng hạn như #email, #global-enhancements-search-query     |
 | Element order       | Chọn thành phần nào của trang web                                                                                  |
 | Content             | Nhập nội dung, mỗi nội dung 1 dòng. Nếu bạn nhập nhiều dòng thì node sẽ tự random và lấy ngẫu nhiên 1 dòng         |
-| Enter interval time | Thời gian nhập tối đa. Ví dụ: 100: Nếu bước này được thực hiện, thì mỗi kí tự sẽ được nhập cách nhau 100 mili giây |
+| Enter interval time | Thời gian nhập tối đa. Ví dụ: 100. Nếu bước này được thực hiện, thì mỗi kí tự sẽ được nhập cách nhau 100 mili giây |
 
 {% file src="../../.gitbook/assets/Send text to selector.txt" %}

@@ -1,6 +1,6 @@
 # Set Data
 
-Node này giúp bạn lưu trữ dữ liệu lên server, trong những lần chạy tiếp theo bạn chỉ cần sủ dụng node get data để sử dụng những dữ liệu đã được lưu trên server trước đó.
+Node này giúp bạn lưu trữ dữ liệu lên server, trong những lần chạy tiếp theo bạn chỉ cần sử dụng node get data để sử dụng những dữ liệu đã được lưu trên server trước đó.
 
 <figure><img src="../../.gitbook/assets/Set data.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -9,7 +9,7 @@ Nút này được sử dụng khi bạn cần chọn một giá trị cụ th�
 | parameter      | illustrate                                                                                                                                                                                                                         |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Select element | Nhập CSS selector của dropdown                                                                                                                                                                                                     |
-| Element Order  | <p>Chọn thành phần nào của trang web:<br>Fixed value: Chọn một phần tử cố định<br>Random interval: random một giá trị ngẫu nhiên trong khoảng đã đăt</p>                                                                           |
+| Element Order  | <p>Chọn thành phần nào của trang web:<br>Fixed value: Chọn một phần tử cố định<br>Random interval: random một giá trị ngẫu nhiên trong khoảng đã đặt</p>                                                                           |
 | Selected value | Nhập value của option mà bạn muốn chọn. Ví dụ ta có option sau: \<option value="99">Everything Else\</option>  . Khi đó trường Selected value ta sẽ nhập là 99 chi chạy script thì dropdown sẽ hiển thị giá trị là Everything Else |
 
 {% file src="../../.gitbook/assets/Drop-down selector.txt" %}
