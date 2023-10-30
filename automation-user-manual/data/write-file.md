@@ -13,14 +13,12 @@ Ví dụ: giả sử tôi có một tệp chứa nhiều tài khoản Google c�
 
 <figure><img src="../../.gitbook/assets/Write file (1).PNG" alt=""><figcaption></figcaption></figure>
 
-| parameter                       | illustrate                                          |
-| ------------------------------- | --------------------------------------------------- |
-| File path                       | Đường dẫn tệp để ghi dữ liẹu                        |
-| Select input data from variable | Chọn dữ liệu đầu vào từ biến                        |
-| Selector type                   | Chọn định dạng tệp: TXT, CSV, JSON                  |
-| Select write mode: Overwrite    | Ghi đè lên dữ liệu trước đó                         |
-| Select write mode: Append       | Ghi thêm vào tệp, ghi xuống dòng mới hoặc cùng dòng |
-
-
+| parameter                       | illustrate                                            |
+| ------------------------------- | ----------------------------------------------------- |
+| File path                       | Đường dẫn tệp mà bạn muốn ghi dữ liệu vào             |
+| Select input data from variable | Chọn một biến chứa dữ liệu để ghi dữ liệu đó vào file |
+| Selector type                   | Chọn định dạng tệp: TXT, CSV, JSON                    |
+| Select write mode: Overwrite    | Ghi đè lên dữ liệu trước đó                           |
+| Select write mode: Append       | Ghi thêm vào tệp, ghi xuống dòng mới hoặc cùng dòng   |
 
 {% file src="../../.gitbook/assets/Write file.txt" %}
