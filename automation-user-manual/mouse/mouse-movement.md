@@ -1,8 +1,7 @@
 # Mouse movement
 
-You put the element you want to move mouse there.\
 \
-Bạn đặt phần tử bạn muốn di chuyển chuột vào đó.
+Bạn chọn phần tử bạn muốn di chuyển chuột vào đó.
 
 <figure><img src="../../.gitbook/assets/Mouse movement.png" alt=""><figcaption></figcaption></figure>
 
