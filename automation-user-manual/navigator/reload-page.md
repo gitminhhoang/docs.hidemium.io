@@ -1,8 +1,8 @@
 # Reload page
 
-You can use it when you want the script to reload the page and set timeout waiting\
+You can use it when you want the script to reload the page of the tab you are active in and set the timeout.\
 \
-Bạn có thể sử dụng nó khi bạn muốn script  tải lại trang và đặt thời gian chờ.
+Bạn có thể sử dụng nó khi bạn muốn script tải lại trang của tab đang active và đặt thời gian chờ.
 
 <figure><img src="../../.gitbook/assets/Reload page.png" alt=""><figcaption></figcaption></figure>
 
