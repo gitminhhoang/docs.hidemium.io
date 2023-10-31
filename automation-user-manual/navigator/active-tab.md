@@ -1,15 +1,10 @@
 # Active tab
 
-If your profile starts with so many tabs so you can select the tab you want by title or URL and equal or contain some information you provide here
-
-&#x20;\
-Nếu hồ sơ của bạn bắt đầu với rất nhiều tab để bạn có thể chọn tab bạn muốn theo tiêu đề hoặc URL và bằng hoặc chứa một số thông tin bạn cung cấp tại đây
-
-
+Nếu profile của bạn có nhiều tab, và bạn muốn chuyển đổi tab trang web, bạn có thể sử dụng node active tab này.
 
 <figure><img src="../../.gitbook/assets/Active tab.png" alt=""><figcaption></figcaption></figure>
 
-Ví dụ ta có 2 tab như sau:
+Ví dụ ta có 3 tab như sau:
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
