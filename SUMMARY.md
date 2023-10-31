@@ -30,6 +30,8 @@
     * [4. List tag](use-cases/api-automation/get-profile/4.-list-tag.md)
     * [5. List version](use-cases/api-automation/get-profile/5.-list-version.md)
     * [6. Get profile by uuid](use-cases/api-automation/get-profile/6.-get-profile-by-uuid.md)
+    * [7. Get list folder](use-cases/api-automation/get-profile/7.-get-list-folder.md)
+    * [Get list profile without paginate](use-cases/api-automation/get-profile/get-list-profile-without-paginate.md)
   * [Interact profile](use-cases/api-automation/interact-profile/README.md)
     * [1. Create profile by default](use-cases/api-automation/interact-profile/1.-create-profile-by-default.md)
     * [2. Create profile customize](use-cases/api-automation/interact-profile/2.-create-profile-customize.md)
