@@ -6,7 +6,7 @@ Nếu profile của bạn có nhiều tab, và bạn muốn chuyển đổi tab 
 
 Ví dụ ta có 3 tab như sau:
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_1.png" alt=""><figcaption></figcaption></figure>
 
 * URL:
 
