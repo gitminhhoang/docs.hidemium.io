@@ -8,7 +8,7 @@ Bạn nhập địa chỉ URL và chọn vị trí lưu file trên thiết bị,
 
 | parameter        | illustrate                              |
 | ---------------- | --------------------------------------- |
-| URL              | Điền địa chỉ URL của file cần tải xuống |
+| URL              | Nhập địa chỉ URL của file cần tải xuống |
 | Path to the file | Chọn thư mục để lưu file                |
 
 {% file src="../../.gitbook/assets/Download file.txt" %}

@@ -12,7 +12,7 @@ This is an important node. To input your data, upload a text file. You can choos
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Path to the file                        | Đường dẫn tệp                                                                                                                                        |
 | Type: Line by line                      | Sắp xếp dữ liệu theo từng dòng từ trên xuống, sau khi đọc hết dòng nào thì sẽ xóa dòng đó khỏi file                                                  |
-| Type:  Line by line (with delimiter)    | Khi muốn đọc dữ liệu theo dòng,và dữ liệu cách nhau bởi một dấu phân cách thì bạn có thế chọn cái này.                                               |
+| Type:  Line by line (with delimiter)    | Khi muốn đọc dữ liệu theo dòng,và dữ liệu của bạn được cách nhau bởi một dấu phân cách thì bạn có thế chọn cái này.                                  |
 | Random                                  | Nếu chọn random, các dòng dữ liệu sẽ được đọc một cách ngẫu nhiêu, và sau khi đọc xong dữ liệu của file sẽ không bị xóa                              |
 | Delete line after read                  | Xóa dữ liệu sau khi đọc xong                                                                                                                         |
 | Variables map value (Ordering by index) | Nếu dữ liệu của bạn được phân cách bằng một dấu phân cách, bạn hãy nhập dấu phân cách tại đây và điền biến tương ứng với từng phần của dòng dữ liệu. |
