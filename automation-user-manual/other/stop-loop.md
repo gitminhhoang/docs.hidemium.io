@@ -6,6 +6,6 @@
 
 <figure><img src="../../.gitbook/assets/Capture (25).PNG" alt=""><figcaption></figcaption></figure>
 
-Ví dụ trường hợp sử dụng: Khi bạn muốn click vào các thành phần trong class="hl-cat-nav\_\_container" của trang _Ebay_, bạn muốn dừng vòng lặp khi click Sports, khi đó bạn có thể sử dụng node _**Stop loop**_ để dừng vòng lặp.
+Ví dụ trường hợp sử dụng: Khi bạn muốn click vào các thành phần trong class="hl-cat-nav\_\_container" của trang _Ebay_, bạn muốn dừng vòng lặp khi click Sports, khi đó bạn có thể sử dụng node _**Stop loop**_ để dừng vòng lặp. Ta có script cho trường hợp này như sau:
 
 {% file src="../../.gitbook/assets/stop loop.txt" %}

@@ -1,6 +1,6 @@
 # Image Search
 
-Node này cho phép bạn chọn hình ảnh để tìm kiếm trong một trang web bất kì.
+Node này cho phép bạn chọn hình ảnh để tìm kiếm trong một trang web bất kì và lưu lại tọa độ của hình ảnh đó vào biến.
 
 <figure><img src="../../.gitbook/assets/Image Search.jpg" alt=""><figcaption></figcaption></figure>
 

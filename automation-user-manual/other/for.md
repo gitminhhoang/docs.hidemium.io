@@ -19,15 +19,19 @@ Giá trị của _For to value_ phải lớn hơn giá trị của _For from val
 
 ### For Elements
 
+Bạn có thể nhập CSS selector của phần tử mà bạn muốn lặp. Bạn có thể chọn nội dung trích xuất trong mỗi vòng lặp và lưu vào biến.
+
+
+
 <figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Selector element :** Nhập CSS selector, chẳng hạn như #email, \[data-results-grid-container]>li
 
 **Content :** Chọn kiểu trích xuất, bao gồm:
 
-* Text: Trích xuất text của Select element
-* HTML: Trích xuất đoạn HTML của Select element
-* Attribute: Trích xuất thuộc tính của của Select element, nhập thuộc tính cần trích xuất.
+* Text: Trích xuất text của phần tử mà bạn chọn
+* HTML: Trích xuất đoạn HTML của phần tử mà bạn chọn
+* Attribute: Trích xuất thuộc tính của phần tử, nhập thuộc tính cần trích xuất.
 
 **Loop object save to:** Lưu các thành phần trang web được trích xuất trong mỗi vòng lặp thành các biến.
 
