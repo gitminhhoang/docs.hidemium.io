@@ -8,8 +8,8 @@ Node Spreadsheet giúp bạn đọc dữ liệu từ file excel hoặc google sh
 
 **Local file:** Khi bạn muốn đọc file excel hãy chọn Local file.
 
-* Path to the file: Chọn file excel có sãn trong máy cảu bạn.
-* Range: Một nhóm các ô trong file excel. Ví dụ bạn muốn đọc dữ liệu từ ô A1 đếm ô E5, ta sẽ nhập trường Range là A1:E5
+* Path to the file: Chọn file excel có sẵn trong máy của bạn.
+* Range: Một nhóm các ô trong file excel. Ví dụ bạn muốn đọc dữ liệu từ ô A1 đếm ô E5, ta sẽ nhập trường Range là A1:E5. Trường range này chỉ có thể nhập chữ hoa.
 * Sheet name: Tên của excel sheet. Nếu bỏ trống ô này, sẽ mặc định lấy sheet name đầu tiên.
 * First row as keys: Khi tick vào checkbox này, ta sẽ coi hàng đầu tiên của excel là tên của các cột dữ liệu, khi không chọn checkbox thì các hàng đều ngang hàng nhau.
 * Save to: Lưu giá trị lấy được vào biến

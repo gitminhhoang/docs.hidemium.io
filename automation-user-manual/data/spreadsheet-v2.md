@@ -7,10 +7,10 @@ Node Spreadsheet là Version 2 của node Spreadsheet. Với V2 này, các bạn
 ### Local File
 
 * Path to file: Chọn file mà bạn muốn đọc.
-* Range: Một nhóm các ô trong file excel. Ví dụ bạn muốn đọc dữ liệu từ ô A1 đếm ô E5, ta sẽ nhập trường Range là A1:E5. Bạn cũng có thể bỏ trống trường này.
+* Range: Một nhóm các ô trong file excel. Ví dụ bạn muốn đọc dữ liệu từ ô A1 đếm ô E5, ta sẽ nhập trường Range là A1:E5. Bạn cũng có thể bỏ trống trường này. Range bắt buộc phải nhập là chữ hoa.
 * Sheet name: Tên của excel sheet. Nếu bỏ trống ô này, sẽ mặc định lấy sheet name đầu tiên.
 * First row as title (Column name): Khi tick vào checkbox này, ta sẽ coi hàng đầu tiên của excel là tên (tiêu đề) của các cột dữ liệu, khi không chọn checkbox thì các hàng đều ngang hàng nhau.
-* Read row with stop condition: Khi bạn không chọn checkbox này thì node sẽ mặc định lấy dữ liệu của hàng đầu tiên. Khi bạn chọn checkbox này, bạn phải nhập 2 trường _Column to compare và Value to compare_**.** Column to compare: Trường này bạn sẽ nhập cột để so sánh. Value to compare: Trường này bạn sẽ nhập giá trị để so sánh. Khi không chọn checkbox này, chạy với nhiều profile thì tất cả các profile đều lấy dữ liệu cảu hàng đầu tiên.
+* Read row with stop condition: Khi bạn không chọn checkbox này thì node sẽ mặc định lấy dữ liệu của hàng đầu tiên. Khi bạn chọn checkbox này, bạn phải nhập 2 trường _Column to compare và Value to compare_**.** Column to compare: Trường này bạn sẽ nhập cột để so sánh. Value to compare: Trường này bạn sẽ nhập giá trị để so sánh. Khi không chọn checkbox này, chạy với nhiều profile thì tất cả các profile đều lấy dữ liệu cảu hàng đầu tiên.&#x20;
 * Storage: Bao gồm 2 trường là _Column name và Save to._ Với trường Column ta sẽ phải nhập đúng tên của cột dữ liệu. Còn trường Save to ta sẽ lưu giá trị đọc được từ Column name vào một biến.
 * Preview: Hiển thị dữ liệu mà node đã đọc được.
 
