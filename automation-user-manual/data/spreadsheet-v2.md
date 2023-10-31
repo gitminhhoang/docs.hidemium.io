@@ -43,15 +43,13 @@ Ta có bảng dữ liệu như sau:
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Để chạy từng profile khớp với từng hàng dữ liệu của file excel, ta phải nhập trường _Column to compare_ và _Value to compare._ Với trường Column ta sẽ nhập tiêu đề của cột chứa uuid của từng profile với trường hợp này tiêu đề sẽ là uuid, trường Value to compare ta sẽ chọn biến ${PROFILE\_ID}. Nhập như trên thì khi chạy profile ta có thể so sánh được profile đang chạy có profile\_id trùng với hàng dữ liệu của cột uuid file excel và đọc đúng dữ liệu của hàng với profile tương ứng. &#x20;
 
 Trường Column name ta chỉ cần nhập đúng title của cột mà ta muốn đọc từ file excel và lưu vào biến.
 
 File excel dưới đây bạn có thể thay thế bằng uuid của các profile mà bạn sẽ chạy.
-
-
 
 {% file src="../../.gitbook/assets/example 2.xlsx" %}
 
