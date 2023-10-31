@@ -6,10 +6,10 @@ Bạn cần chọn một phần tử và sau đó script sẽ lấy giá trị v
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-| parameter       | illustrate                                                             |
-| --------------- | ---------------------------------------------------------------------- |
-| Select element  | Nhập CSS selector, chằng hạn #email, #global-enhancements-search-query |
-| Element order   | Chọn các thành phần dựa trên thứ tự chúng xuất hiện trên trang         |
-| Output variable | Lưu các phần tử được trích xuất dưới dạng biến và nhập tên biến        |
+| parameter       | illustrate                                                      |
+| --------------- | --------------------------------------------------------------- |
+| Select element  | Nhập CSS selector của phần tử chứa text mà bạn muốn lấy         |
+| Element order   | Chọn các thành phần dựa trên thứ tự chúng xuất hiện trên trang  |
+| Output variable | Lưu các phần tử được trích xuất dưới dạng biến và nhập tên biến |
 
 {% file src="../../.gitbook/assets/Get text.txt" %}
