@@ -18,6 +18,7 @@ Node Spreadsheet là Version 2 của node Spreadsheet. Với V2 này, các bạn
 
 * Google Spreadsheet ID: Nhập sheet ID của google sheet mà bạn muốn đọc dữ liệu. Google sheet của bạn phải ở trạng thái công khai.
 * Các trường khác giống như phần Local file.
+* Lưu ý: Tốc độ đọc file của google sheet sẽ chậm hơn local file do phải gọi đến API của google&#x20;
 
 ### Hướng dẫn chi tiết
 
