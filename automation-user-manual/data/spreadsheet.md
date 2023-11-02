@@ -6,7 +6,7 @@ Node Spreadsheet giúp bạn đọc dữ liệu từ file excel hoặc google sh
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-**Local file:** Khi bạn muốn đọc file excel hãy chọn Local file.
+**Local file:**&#x20;
 
 * Path to the file: Chọn file excel có sẵn trong máy của bạn.
 * Range: Một nhóm các ô trong file excel. Ví dụ bạn muốn đọc dữ liệu từ ô A1 đếm ô E5, ta sẽ nhập trường Range là A1:E5. Trường range này chỉ có thể nhập chữ hoa.
@@ -54,13 +54,7 @@ Khi click vào preview sẽ hiển thị như sau:
 
 &#x20;                \[1]\[1]  : Sẽ lấy được giá trị là abcd123
 
-**Google sheet:** Khi bạn muốn đọc file google sheet hãy chọn Google sheet. Bạn hãy đảm bảo rằng google sheet của bạn ở trạng thái công khai.
 
-* Google Spreadsheet ID: ID của google sheet, bạn hãy copy ID tại đây:
-
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
-
-* Các trường còn lại làm giống như hướng dẫn khi chọn Local file.
 
 ### Hướng dẫn đọc từng hàng khớp với từng profile
 
@@ -87,4 +81,3 @@ Dưới đây là một script ví dụ của node đọc file, với ví dụ n
 {% file src="../../.gitbook/assets/example 2 (2).xlsx" %}
 
 {% file src="../../.gitbook/assets/Spreadsheet.txt" %}
-

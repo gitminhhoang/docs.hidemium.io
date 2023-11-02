@@ -14,11 +14,6 @@ Node Spreadsheet là Version 2 của node Spreadsheet. Với V2 này, các bạn
 * Storage: Bao gồm 2 trường là _Column name và Save to._ Với trường Column ta sẽ phải nhập đúng tên của cột dữ liệu. Còn trường Save to ta sẽ lưu giá trị đọc được từ Column name vào một biến.
 * Preview: Hiển thị dữ liệu mà node đã đọc được.
 
-### Google sheet
-
-* Google Spreadsheet ID: Nhập sheet ID của google sheet mà bạn muốn đọc dữ liệu. Google sheet của bạn phải ở trạng thái công khai.
-* Các trường khác giống như phần Local file.
-
 ### Hướng dẫn chi tiết
 
 **Trường hợp chọn checkbox First row as title (Column name):**
