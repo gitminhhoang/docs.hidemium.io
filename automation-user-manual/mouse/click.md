@@ -1,8 +1,8 @@
 # Click
 
-True to its name, this button is used to automatically click the mouse on the element you select and put it in the "select element" box. In addition, it also has the option of left or right mouse click, middle click, click or double click and select by Selector or Coordinates or Current positon\
+True to its name, this button is used to automatically click the mouse on the element you select and put it in the "select element" box. In addition, it also has the option of left or right mouse click, middle click, click or double click and select by Selector or Coordinates.\
 \
-Đúng như tên gọi của nó, nút này dùng để tự động click chuột vào phần tử bạn chọn và cho vào ô “select element”. Ngoài ra nó còn có tùy chọn click chuột trái hoặc phải, click giữa, click hoặc click đúp và chọn bằng Selector hoặc Tọa độ hoặc Vị trí hiện tại.
+Đúng như tên gọi của nó, nút này dùng để tự động click chuột vào phần tử bạn chọn và cho vào ô “select element”. Ngoài ra nó còn có tùy chọn click chuột trái hoặc phải, click giữa, click hoặc click đúp và chọn bằng Selector hoặc Tọa độ.
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
