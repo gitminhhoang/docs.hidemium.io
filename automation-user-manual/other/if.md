@@ -12,6 +12,15 @@ Nút này dùng để kiểm tra một điều kiện, nếu điều kiện đú
 | Operator          | Chọn toán tử để so sánh                     |
 | Variable or value | Chọn biến hoặc nhập nhập giá trị để so sánh |
 
+Cấc toán tử so sánh bao gồm:&#x20;
 
+* **Exist** : Kiểm tra biến bạn chọn có tồn tại hay không, nếu tồn tại thì sẽ ra đường màu xanh, còn không tồn tại sẽ ra đường màu đỏ.
+* **Not exist:** Kiểm tra biến bạn chọn có không tồn tại hay không, nếu không tồn tại thì sẽ ra đường màu xanh, còn tồn tại sẽ ra đường màu đỏ.
+* **<** : So sánh bé hơn. Nếu điều kiện đúng thì sẽ ra đường màu xanh, nếu điều kiện sai sẽ ra đường màu đỏ. Tương tự với **>** ; **<=** ; **>=**.
+* **=** : So sánh bằng. Nếu 2 giá trị so sánh của bạn bằng nhau thì sẽ chạy ra đường màu xanh, còn không bằng nhau sẽ ra đường màu đỏ.
+* **!=** : So sánh không bằng. Nếu 2 giá trị so sánh của bạn khác nhau (không bằng nhau) thì sẽ chạy ra đường màu xanh, còn nếu bằng nhau sẽ ra đường màu đỏ.
+* **Starts with** : Nếu biến bạn chọn bắt đầu bằng giá trị mà bạn nhập vào trường **Variable or value**, thì sẽ ra đường màu xanh, còn nếu không sẽ ra đường màu đỏ. Ví dụ biến **a** có giá trị  _"_**hello! this is Hidemium**_"_ , tại trường variable or value bạn nhập **hello** thì kết quả sẽ đi ra đường màu xanh.
+* **Ends with** : Nếu biến bạn chọn kết thúc bằng giá trị mà bạn nhập vào trường **Variable or value**, thì sẽ ra đường màu xanh, còn nếu không sẽ ra đường màu đỏ. Ví dụ biến **a** có giá trị  "**hello! this is Hidemium**" , tại trường variable or value bạn nhập **Hidemium** thì kết quả sẽ đi ra đường màu xanh.
+* **Contains** : Nếu biến bạn chọn bao gồm giá trị mà bạn nhập vào trường **Variable or value**, thì sẽ ra đường màu xanh, còn nếu không sẽ ra đường màu đỏ. Ví dụ biến **a** có giá trị  "**hello! this is Hidemium**" , tại trường variable or value bạn nhập **this** thì kết quả sẽ đi ra đường màu xanh.
 
 {% file src="../../.gitbook/assets/if.txt" %}
