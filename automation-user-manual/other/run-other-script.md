@@ -12,7 +12,7 @@ description: >-
 | -------------------- | -------------------------------------------- |
 | Script to be execute | Chọn script có sẵn, chỉ được chọn một script |
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% file src="../../.gitbook/assets/Run other script 1.txt" %}
 

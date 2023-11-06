@@ -2,7 +2,7 @@
 
 Node Spreadsheet là Version 2 của node Spreadsheet. Với V2 này, các bạn có thể đọc file excel và file google sheet một cách dễ dàng hơn so với node Spreadsheet.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Local File
 
@@ -24,7 +24,7 @@ Ta có bảng dữ liệu như sau:
 
 Ở node Spreadsheet ta nhập như sau:
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Ở trường hợp này khi chọn checkbox First row as title (Column name), thì ta sẽ lấy hàng đầu tiên của Range mà bạn nhập là tiêu đề của cột. Và các trường Column to compare, Column name ta phải nhập đúng tiêu đề của cột, ví dụ trong trường hợp này tên cột sẽ là email và password. Khi nhập vào các trường trong node như hình trên thì ta lấy được dữ liệu như hiển thị trong preview. Nếu khi ta không chọn checkbox Read row with stop condition thì mặc định sẽ lấy hàng đầu tiên của file ngoại trừ hàng tiêu đề.
 
@@ -36,9 +36,9 @@ Ta có bảng dữ liệu như sau:
 
 **Ví dụ về đọc lần lượt từng hàng của file excel khớp với từng profile đang chạy:**
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Để chạy từng profile khớp với từng hàng dữ liệu của file excel, ta phải nhập trường _Column to compare_ và _Value to compare._ Với trường Column ta sẽ nhập tiêu đề của cột chứa uuid của từng profile với trường hợp này tiêu đề sẽ là uuid, trường Value to compare ta sẽ chọn biến ${PROFILE\_ID}. Nhập như trên thì khi chạy profile ta có thể so sánh được profile đang chạy có profile\_id trùng với hàng dữ liệu của cột uuid file excel và đọc đúng dữ liệu của hàng với profile tương ứng. &#x20;
 
@@ -58,7 +58,7 @@ Với trường hợp bạn muốn đọc các hàng của file excel vào từn
 
 Trong trường hợp này ta sẽ random từ 1 đến 10. Sau đó tại trường Range của node Spreadsheet ta sẽ nhập như sau  A${index}:B10, trong trường hợp random này thì ta không nên chọn checkbox Read row with stop condition.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 Khi đó khi chạy với nhiều profile thì dữ liệu trong file excel sẽ được lấy một cách ngẫu nhiêu không theo một thứ tự nào cả.
 
