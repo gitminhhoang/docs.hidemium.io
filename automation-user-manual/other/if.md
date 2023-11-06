@@ -12,7 +12,7 @@ Nút này dùng để kiểm tra một điều kiện, nếu điều kiện đú
 | Operator          | Chọn toán tử để so sánh                     |
 | Variable or value | Chọn biến hoặc nhập nhập giá trị để so sánh |
 
-Cấc toán tử so sánh bao gồm:&#x20;
+Các toán tử so sánh bao gồm:&#x20;
 
 * **Exist** : Kiểm tra biến bạn chọn có tồn tại hay không, nếu tồn tại thì sẽ ra đường màu xanh, còn không tồn tại sẽ ra đường màu đỏ.
 * **Not exist:** Kiểm tra biến bạn chọn có không tồn tại hay không, nếu không tồn tại thì sẽ ra đường màu xanh, còn tồn tại sẽ ra đường màu đỏ.
