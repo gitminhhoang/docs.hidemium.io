@@ -44,4 +44,10 @@ Bạn muốn khi đọc thành công từng hàng thì sẽ ghi lại để bi�
 
 <figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
-Như vậy khi đọc thành công 1 hàng thì tại hàng tương ứng ta sẽ ghi chữ "Thành công" để đánh dấu.
+Như vậy khi đọc thành công 1 hàng thì tại hàng tương ứng ta sẽ ghi chữ "Thành công".
+
+Dưới đây là một script ví dụ về việc ghi vào file sau khi đọc file thành công, bạn hãy thay uuid của profile mà bạn muốn chạy vào file excel.
+
+{% file src="../../.gitbook/assets/example (1).xlsx" %}
+
+{% file src="../../.gitbook/assets/writesheet.txt" %}
