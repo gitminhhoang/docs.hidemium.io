@@ -4,7 +4,7 @@ True to its name, this button is used to automatically click the mouse on the el
 \
 Đúng như tên gọi của nó, nút này dùng để tự động click chuột vào phần tử bạn chọn và cho vào ô “select element”. Ngoài ra nó còn có tùy chọn click chuột trái hoặc phải, click giữa, click hoặc click đúp và chọn bằng Selector hoặc Tọa độ.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | parameter         | illustrate                                                                                                                                                               |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
