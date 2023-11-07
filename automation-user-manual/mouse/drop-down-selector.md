@@ -1,6 +1,6 @@
 # Drop-down selector
 
-Node này được sử dụng khi bạn muốn chọn một giá trị từ tùy chọn thả xuống (drop-down selecor).
+Node này được sử dụng khi bạn muốn chọn một giá trị từ tùy chọn thả xuống (drop-down).
 
 Ví dụ bạn muốn chọn một giá trị trong drop-down này:
 

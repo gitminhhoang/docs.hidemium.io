@@ -8,6 +8,9 @@ Node này mô phỏng thanh lăn chuột để cuộn trang. Bạn cần điền
 
 <figure><img src="../../.gitbook/assets/Mouse wheel.png" alt=""><figcaption></figcaption></figure>
 
-
+| parameter          | illustrate                                                         |
+| ------------------ | ------------------------------------------------------------------ |
+| Enter X coordinate | Nhập tọa độ X hoặc chọn biến chứa tọa độ mà bạn muốn lăn chuột tới |
+| Enter Y coordinate | Nhập tọa độ Y hoặc chọn biến chứa tọa độ mà bạn muốn lăn chuột tới |
 
 {% file src="../../.gitbook/assets/Mouse Wheel.txt" %}
