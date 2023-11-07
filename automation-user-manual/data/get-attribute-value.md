@@ -19,6 +19,6 @@ Bạn cần nhập CSS selector của phần tử ảnh này và nhập tên thu
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Khi đó bạn đã được giá trị của thuộc tính ảnh này và lưu vào biến.
+Khi đó bạn đã lấy được giá trị của thuộc tính ảnh này và lưu vào biến.
 
 {% file src="../../.gitbook/assets/Get attribute value.txt" %}
