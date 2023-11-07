@@ -14,8 +14,6 @@ Nút này dùng để kiểm tra một điều kiện, nếu điều kiện đú
 
 Các toán tử so sánh bao gồm:&#x20;
 
-* **Exist** : Kiểm tra biến bạn chọn có tồn tại hay không, nếu tồn tại thì sẽ ra đường màu xanh, còn không tồn tại sẽ ra đường màu đỏ.
-* **Not exist:** Kiểm tra biến bạn chọn có không tồn tại hay không, nếu không tồn tại thì sẽ ra đường màu xanh, còn tồn tại sẽ ra đường màu đỏ.
 * **<** : So sánh bé hơn. Nếu điều kiện đúng thì sẽ ra đường màu xanh, nếu điều kiện sai sẽ ra đường màu đỏ. Tương tự với **>** ; **<=** ; **>=**.
 * **=** : So sánh bằng. Nếu 2 giá trị so sánh của bạn bằng nhau thì sẽ chạy ra đường màu xanh, còn không bằng nhau sẽ ra đường màu đỏ.
 * **!=** : So sánh không bằng. Nếu 2 giá trị so sánh của bạn khác nhau (không bằng nhau) thì sẽ chạy ra đường màu xanh, còn nếu bằng nhau sẽ ra đường màu đỏ.

@@ -9,13 +9,11 @@ This is another loop with node for. Here, "while" will loop until it meets the v
 | parameter         | illustrate                             |
 | ----------------- | -------------------------------------- |
 | Variable          | Chọn biến chứa giá trị để so sánh      |
-| Operator          | Chọn biểu thức để so sánh              |
+| Operator          | Chọn toán tử để so sánh                |
 | Variable of value | Chọn biến hoặc nhập giá trị để so sánh |
 
 Các toán tử so sánh bao gồm:&#x20;
 
-* **Exist** : Kiểm tra biến bạn chọn có tồn tại hay không, nếu tồn tại thì sẽ bắt đầu vòng lặp, nếu không thì sẽ không thực hiện vòng lặp.
-* **Not exist:** Kiểm tra biến bạn chọn có không tồn tại hay không, nếu không tồn tại thì sẽ bắt đầu vòng lặp, nếu có tồn tại thì sẽ không thực hiện vòng lặp.
 * **<** : So sánh bé hơn. Nếu điều kiện đúng thì sẽ thực hiện vòng lặp, nếu điều kiện sai sẽ không thực hiện vòng lặp. Tương tự với **>** ; **<=** ; **>=**.
 * **=** : So sánh bằng. Nếu 2 giá trị bằng nhau thì sẽ thực hiện vòng lặp, nếu không bằng nhau thì sẽ không thực hiện vòng lặp.
 * **!=** : So sánh không bằng. Nếu 2 giá trị so sánh của bạn khác nhau (không bằng nhau) thì sẽ thực hiện vòng lặp, nếu bằng nhau thì sẽ không thực hiện vòng lặp.

@@ -47,7 +47,7 @@ Khi chọn For Times, bạn có thể nhập số lần lặp mà bạn mong mu�
 
 | parameter          | illustrate                                                                                                                                                           |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Times              | Nhập số lần lặp mong muốn                                                                                                                                            |
+| Times              | Nhập số lần lặp mong muốn, tối đa là 99.                                                                                                                             |
 | Loop index save to | Lưu vị trí của thành phần trang web được trích xuất trong mỗi vòng lặp vào một biến. Lưu ý rằng vị trí (index) của thành phần trang web trong vòng lặp bắt đầu từ 1. |
 
 {% file src="../../.gitbook/assets/For_times.txt" %}
