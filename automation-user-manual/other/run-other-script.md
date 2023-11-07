@@ -1,10 +1,6 @@
----
-description: >-
-  Khi sử dụng node Run other script, bạn có thể chạy một script có sẵn khác vào
-  script bạn đang chạy. Script con có thể sử dụng biến của script cha.
----
-
 # Run other script
+
+Khi sử dụng node Run other script, bạn có thể chạy một script có sẵn khác vào script bạn đang chạy. Script con có thể sử dụng biến của script cha.
 
 <figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 

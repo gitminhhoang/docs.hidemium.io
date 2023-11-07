@@ -1,10 +1,6 @@
----
-description: >-
-  Ngắt tạm thời remote connection để vượt qua một số trang web automation
-  detect.
----
-
 # Disconnection
+
+Ngắt tạm thời remote connection để vượt qua một số trang web automation detect.
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
