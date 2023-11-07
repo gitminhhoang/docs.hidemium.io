@@ -12,11 +12,11 @@ Nếu phần tử tồn tại thì nó sẽ đi ra đường màu xanh:
 
 <figure><img src="../../.gitbook/assets/integrate.PNG" alt=""><figcaption></figcaption></figure>
 
-| parameter       | illustrate                                                                                                                                              |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Select element  | Nhập CSS selector, chẳng hạn như #email, #global-enhancements-search-query                                                                              |
-| Element order   | Chọn thành phần nào của trong web                                                                                                                       |
-| Visible         | Phần tử của bạn có thể nhìn thấy hay không. Nếu để true thì phần tử của bạn có thể nhìn thấy, còn nếu để false thì phần tử của bạn không thể nhìn thấy. |
-| Timeout waiting | Thời gian chờ đợi tối đa. Ví dụ: 30000: Nếu bước này không được thực hiện thành công trong vòng 30 giây thì bước tiếp theo sẽ được thực hiện trực tiếp. |
+| parameter       | illustrate                                                                                                                                                  |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Select element  | Nhập CSS selector, chẳng hạn như #email, #global-enhancements-search-query                                                                                  |
+| Element order   | Chọn thành phần nào của trong web                                                                                                                           |
+| Visible         | Kiểm tra thuộc tính visible của phần tử. Nếu để true thì phần tử phải visible (có thể nhìn thấy). Nếu để false thì phần tử bị hidden (không thể nhìn thấy). |
+| Timeout waiting | Thời gian chờ đợi tối đa. Ví dụ: 30000: Nếu bước này không được thực hiện thành công trong vòng 30 giây thì bước tiếp theo sẽ được thực hiện trực tiếp.     |
 
 {% file src="../../.gitbook/assets/Element exists.txt" %}
