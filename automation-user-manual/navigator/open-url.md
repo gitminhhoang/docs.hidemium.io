@@ -1,8 +1,6 @@
 # Open url
 
-You just need to put URL you want here and set the timeout waiting \
-\
-Bạn chỉ cần đặt URL bạn muốn vào đây và đặt thời gian chờ.
+Khi bạn muốn mở một trang web vào tab hiện tại (không mở một tab mới) thì bạn có thể sử dụng tab này.
 
 <figure><img src="../../.gitbook/assets/Open url.png" alt=""><figcaption></figcaption></figure>
 
