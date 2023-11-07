@@ -4,10 +4,10 @@ Một số trang có Extension popup và bạn phải sử dụng nút Switch Ex
 
 <figure><img src="../../.gitbook/assets/Switch Extension popup.png" alt=""><figcaption></figcaption></figure>
 
-| parameter                            | illustrate                                                                                                                                              |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Extension popup page: Select element | Nhập CSS selector, chẳng hạn như #email, #global-enhancements-search-query                                                                              |
-| Extension popup page: Main page      | Khi ta muốn điều hướng các node phía sau trở lại trang chính của trang web sau khi chọn Extension popup page thì ta chọn Main page                      |
-| Timeout waiting                      | Thời gian chờ đợi tối đa. Ví dụ: 30000: Nếu bước này không được thực hiện thành công trong vòng 30 giây thì bước tiếp theo sẽ được thực hiện trực tiếp. |
+| parameter                            | illustrate                                                                                                                                                       |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Extension popup page: Select element | Nhập CSS selector, chẳng hạn như #email, #global-enhancements-search-query. Sau khi chọn Extension popup page thì các node phía sau sẽ được hoạt động tại popup  |
+| Extension popup page: Main page      | Khi ta muốn điều hướng các node phía sau trở lại trang chính của trang web sau khi chọn Extension popup page thì ta chọn Main page                               |
+| Timeout waiting                      | Thời gian chờ đợi tối đa. Ví dụ: 30000: Nếu bước này không được thực hiện thành công trong vòng 30 giây thì bước tiếp theo sẽ được thực hiện trực tiếp.          |
 
 {% file src="../../.gitbook/assets/Switch Extension popup.txt" %}
