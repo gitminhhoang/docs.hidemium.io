@@ -16,6 +16,6 @@ Ví dụ có 3 tab sau:
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
-Khi bạn chọn Current thì tab Ebay sẽ bị đóng. Còn nếu bạn chon Select tab và nhập số 2 thì tab Youtube sẽ bị đóng.
+Khi bạn chọn Current thì tab Ebay sẽ bị đóng. Còn nếu bạn chon Select tab và nhập số 2 thì tab Youtube sẽ bị đóng. Số tab bắt đầu từ 1.
 
 {% file src="../../.gitbook/assets/Close tab.txt" %}
