@@ -8,7 +8,7 @@ Dữ liệu được lưu trên server sẽ có dạng {"key1":"value1","key2":"
 
 Ví dụ khi bạn muốn lưu email và password lên server thì bạn có thể nhập như sau:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Khi đó dữ liệu được lưu trên server sẽ là: {"email":"email1@gmail.com","pass":"pass123123"}
 

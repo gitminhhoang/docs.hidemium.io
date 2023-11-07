@@ -7,9 +7,7 @@ Bạn chỉ cần đặt khóa xác thực trực tiếp 2FA vào đây và sau 
 
 <figure><img src="../../.gitbook/assets/Authenticator Code.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 | parameter | illustrate                                                 |
 | --------- | ---------------------------------------------------------- |
-| Secret    | Nhập mã xác thực 2 yếu tố                                  |
+| Secret    | Nhập mã xác thực 2 yếu tố hoặc chọn biến chứa mã xác thực  |
 | Save to   | Lưu mã xác nhận vào biến để sử dụng cho các node tiếp theo |
