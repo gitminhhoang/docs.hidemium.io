@@ -21,7 +21,7 @@ Ta có script như sau:
 
 Tại node click bạn sẽ phải nhập CSS selector của trường email, sau đó node type bạn sẽ nhập email của bạn. Như vậy là ta đã điền thành công email vào trường email của facebook.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 
 
