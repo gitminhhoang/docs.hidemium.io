@@ -13,11 +13,11 @@ Nút này cho phép bạn lấy giá trị thuộc tính từ phần tử bạn 
 
 Ví dụ bạn muốn lấy link ảnh này:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Bạn cần nhập CSS selector của phần tử ảnh này và nhập tên thuộc tính, ở đây tên thuộc tính của ảnh này là **src**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Khi đó bạn đã lấy được giá trị của thuộc tính ảnh này và lưu vào biến.
 
