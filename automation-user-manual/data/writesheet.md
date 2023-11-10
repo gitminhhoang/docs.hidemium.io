@@ -40,7 +40,7 @@ Và bạn muốn đọc từng hàng của file khớp với từng profile tư�
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-Bạn muốn khi đọc thành công từng hàng thì sẽ ghi lại để biết profile đó có đọc thành công hay không thì bạn sẽ sử dụng node writeSheet để ghi lại:
+Bạn muốn khi đọc thành công từng hàng thì sẽ ghi lại vào hàng tương ứng để biết profile đó có đọc thành công hay không thì bạn sẽ sử dụng node writeSheet để ghi lại:
 
 <figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
