@@ -50,24 +50,21 @@ Node này có thể là một node khó, đặc biệt đối với những ngư
     "data": [
         {
             "id": 7,
-            "email": "michael.lawson@reqres.in",
+            "email": "michael.lawson@gmail.com.",
             "first_name": "Michael",
-            "last_name": "Lawson",
-            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+            "last_name": "Lawson"
         },
         {
             "id": 8,
-            "email": "lindsay.ferguson@reqres.in",
+            "email": "lindsay.ferguson@gmail.com",
             "first_name": "Lindsay",
-            "last_name": "Ferguson",
-            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+            "last_name": "Ferguson"
         },
         {
             "id": 9,
-            "email": "tobias.funke@reqres.in",
+            "email": "tobias.funke@gmail.com",
             "first_name": "Tobias",
-            "last_name": "Funke",
-            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+            "last_name": "Funke"
         }
     ]
     }
