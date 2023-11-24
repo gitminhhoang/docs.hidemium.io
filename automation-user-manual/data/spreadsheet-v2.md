@@ -17,7 +17,7 @@ Node Spreadsheet là Version 2 của node Spreadsheet. Với V2 này, các bạn
 
 &#x20;        Với bảng dữ liệu này: Ví dụ dữ liệu đang được đọc ở hàng số 4, thì node sẽ lưu giá trị 4 vào biến mà bạn chọn.
 
-* Last row of datas: Hiển thị hàng cuối cùng chứa dữ liệu trong file. Ví dụ ta có bảng dữ liệu sau:
+* Last row of datas: Hiển thị hàng cuối cùng chứa dữ liệu trong file. Tại file excel của bạn, bạn cũng có thể kiểm tra xem dòng cuối cùng có chứa dữ liệu bằng cách nhấn <mark style="color:blue;">**Ctrl + End**</mark> .Ví dụ ta có bảng dữ liệu sau:
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
