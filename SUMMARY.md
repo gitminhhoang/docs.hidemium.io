@@ -96,6 +96,7 @@
     * [Spreadsheet V2](automation-user-manual/data/spreadsheet-v2.md)
     * [WriteSheet](automation-user-manual/data/writesheet.md)
     * [Set user agent](automation-user-manual/data/set-user-agent.md)
+    * [Delete file](automation-user-manual/data/delete-file.md)
   * [Other](automation-user-manual/other.md)
     * [Pause](automation-user-manual/other/pause.md)
     * [If](automation-user-manual/other/if.md)
