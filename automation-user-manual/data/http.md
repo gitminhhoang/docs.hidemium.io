@@ -9,7 +9,7 @@ Node này có thể là một node khó, đặc biệt đối với những ngư
 <figure><img src="../../.gitbook/assets/http1.jpg" alt=""><figcaption></figcaption></figure>
 
 * Enter URL: Địa chỉ URL yêu cầu
-* Phương thức yêu cầu: GET, POST
+* [**Phương thức yêu cầu**](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods): GET, POST.&#x20;
 * Headers:[ **Header**](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) được yêu cầu
 * Cookies:  [**HTTP cookies**](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 * Select content Type: Chọn loại nội dung của bạn.
