@@ -112,3 +112,4 @@
   * [Scripts](automation-user-manual/scripts/README.md)
     * [Robot cookie](automation-user-manual/scripts/robot-cookie.md)
     * [Upload nhiều ảnh](automation-user-manual/scripts/upload-nhieu-anh.md)
+    * [Register Etsy](automation-user-manual/scripts/register-etsy.md)
