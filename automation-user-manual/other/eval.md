@@ -4,13 +4,15 @@ description: Node thực thi các lệnh JavaScript được miêu tả trong m�
 
 # Eval
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+Node eval để chạy code javascript trong ngữ cảnh trình duyệt và có thể trả kết quả lưu vào variable. Các bạn có thể tham khảo [<mark style="color:blue;">**tại đây**</mark>](https://www.w3schools.com/js/).
 
-| parameter         | illustrate                                                                                                                                                               |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| JavaScript        | <p>Bạn có thể chèn mã lệnh của mình, chẳng hạn như: console.log ('Hello!!') </p><p>Sau khi thực hiện bước này, bạn có thể xem kết quả đầu ra ở bên trong trình duyệt</p> |
-| Inject variavles  | Chọn biến được chèn, biến này có thể được sử dụng trong hàm js                                                                                                           |
-| Output variable   | Lưu giá trị được hàm tập lệnh Javascript trả về vào một biến.                                                                                                            |
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+| parameter         | illustrate                                                     |
+| ----------------- | -------------------------------------------------------------- |
+| JavaScript        | Nhập code javascript                                           |
+| Inject variavles  | Chọn biến được chèn, biến này có thể được sử dụng trong hàm js |
+| Output variable   | Lưu giá trị được hàm tập lệnh Javascript trả về vào một biến.  |
 
 Ta có ví dụ như sau: Khi bạn truy cập một trang web nào đó, bạn muốn thực hiện click vào một phần tử, thay vì sử dụng node click bạn cũng có thể sử dụng node Eval để thực hiện hành động click đó. Ta có script đơn giản như sau:
 

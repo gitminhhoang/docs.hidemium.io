@@ -17,7 +17,7 @@ Ví dụ bạn muốn lấy link ảnh này:
 
 Bạn cần nhập CSS selector của phần tử ảnh này và nhập tên thuộc tính, ở đây tên thuộc tính của ảnh này là **src**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Khi đó bạn đã lấy được giá trị của thuộc tính ảnh này và lưu vào biến.
 
