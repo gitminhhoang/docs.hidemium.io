@@ -15,6 +15,7 @@
   * [PROFILES](features-of-hidemium/profiles/README.md)
     * [Export All Data](features-of-hidemium/profiles/export-all-data.md)
     * [Update Multiple](features-of-hidemium/profiles/update-multiple.md)
+    * [Quick Create](features-of-hidemium/profiles/quick-create.md)
   * [FOLDERS](features-of-hidemium/folders.md)
   * [PROXIES](features-of-hidemium/proxies.md)
 
