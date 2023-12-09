@@ -10,7 +10,7 @@ To extract specific values from a block of text, utilize regex ( Regular Express
 
 Ví dụ ta có một đoạn dữ liệu như sau: "_We have the following websites https://www.facebook.com/ and other websites like https://www.youtube.com/ and https://www.etsy.com/_". Khi muốn lấy URL có trong đoạn dữ liệu này, tại node Extraction in text ta nhập như sau:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tại&#x20;
 
