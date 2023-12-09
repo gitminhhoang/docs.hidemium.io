@@ -17,7 +17,7 @@
     * [Update Multiple](features-of-hidemium/profiles/update-multiple.md)
     * [Quick Create](features-of-hidemium/profiles/quick-create.md)
     * [Change Proxy](features-of-hidemium/profiles/change-proxy.md)
-    * [Automation](features-of-hidemium/profiles/automation.md)
+    * [Add Schedule](features-of-hidemium/profiles/add-schedule.md)
   * [FOLDERS](features-of-hidemium/folders.md)
   * [PROXIES](features-of-hidemium/proxies.md)
 
