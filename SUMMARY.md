@@ -12,7 +12,8 @@
     * [EXTENSIONS](features-of-hidemium/new-profile/extensions.md)
     * [AUTOFILL](features-of-hidemium/new-profile/autofill.md)
     * [OTHER CONFIG](features-of-hidemium/new-profile/other-config.md)
-  * [PROFILES](features-of-hidemium/profiles.md)
+  * [PROFILES](features-of-hidemium/profiles/README.md)
+    * [Export All Data](features-of-hidemium/profiles/export-all-data.md)
   * [FOLDERS](features-of-hidemium/folders.md)
   * [PROXIES](features-of-hidemium/proxies.md)
 
