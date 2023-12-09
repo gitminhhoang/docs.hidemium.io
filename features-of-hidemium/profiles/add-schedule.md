@@ -29,3 +29,7 @@ Với Schedule bạn có thể chọn Execution frequency:
 * Weekly: Chạy hàng tuần. Tại Execution time bạn có thể chọn thứ để chạy và giờ chạy. Và chọn thời gian bắt đầu và thời gian kết thúc.
 
 <figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+
+* Monthly: Chạy hàng tháng. Bạn có thể chọn ngày và giờ để chạy, chọn thời gian bắt đầu và thời gian kêt thúc. Ví dụ bạn chọn ngày 13 thì đến ngày 13 và đến giờ thì sẽ chạy profile.
+
+<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
