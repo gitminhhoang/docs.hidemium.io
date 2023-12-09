@@ -11,3 +11,7 @@ Bạn có thể tạo thêm các config theo ý muốn của bạn. Tối đa ta
 Sau khi chuyển tới màn Default config, bạn chọn Add config để tạo config theo ý muốn:
 
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+
+Tại form add config bạn có thể chọn các trường mong muốn, tất cả các profile được tạo sẽ có các trường giống như config của bạn, ví dụ nếu bạn chọn Operating system là Window thì tất cả các profile được tạo từ config đó sẽ có OS là window.
+
+Bạn cũng có thể chọn 1 config làm default, khi đó tại màn new mặc định sẽ hiển thị giống như config mà bạn đặt làm mặc định.
