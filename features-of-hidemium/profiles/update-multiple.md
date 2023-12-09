@@ -6,3 +6,6 @@ Phần này cho phép bạn update Extension và Custom launch browser parameter
 
 Tại đây bạn có thể chọn nhiều profile và chọn folder để update.&#x20;
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Sau khi update thành công thì tất cả profile và các profile trong folder mà bạn chọn toàn bộ sẽ được update.&#x20;

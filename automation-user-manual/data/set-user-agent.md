@@ -2,7 +2,7 @@
 
 Khi bạn muốn thay đổi user agent của tab đang active thì có thể sử dụng node này. Node này chỉ thay đổi user agent của tab đang active, chứ không thay đổi user agent của cả profile.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | parameter  | illustrate                      |
 | ---------- | ------------------------------- |
