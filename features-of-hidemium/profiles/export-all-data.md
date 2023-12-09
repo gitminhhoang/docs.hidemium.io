@@ -6,5 +6,9 @@ Các thông tin của profile được xuất ra bao gồm: uuid, name, proxy, n
 
 Bạn chọn vào đây để xuất thông tin của tất cả các profiles:
 
+<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
+Còn nếu bạn không muốn xuất hết toàn bộ profile thì có thể chọn các profiles cụ thể và xuất ra:&#x20;
+
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 

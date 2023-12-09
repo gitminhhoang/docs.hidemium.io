@@ -2,7 +2,7 @@
 
 * [👋 HIDEMIUM GUIDANCE FROM A-Z](README.md)
 * [FEATURES OF HIDEMIUM](features-of-hidemium/README.md)
-  * [👋 NEW PROFILE](features-of-hidemium/new-profile/README.md)
+  * [NEW PROFILE](features-of-hidemium/new-profile/README.md)
     * [MAIN](features-of-hidemium/new-profile/main.md)
     * [PROXIES](features-of-hidemium/new-profile/proxies.md)
     * [COOKIES](features-of-hidemium/new-profile/cookies.md)
@@ -14,6 +14,7 @@
     * [OTHER CONFIG](features-of-hidemium/new-profile/other-config.md)
   * [PROFILES](features-of-hidemium/profiles/README.md)
     * [Export All Data](features-of-hidemium/profiles/export-all-data.md)
+    * [Update Multiple](features-of-hidemium/profiles/update-multiple.md)
   * [FOLDERS](features-of-hidemium/folders.md)
   * [PROXIES](features-of-hidemium/proxies.md)
 

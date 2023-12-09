@@ -2,7 +2,7 @@
 description: Hidemium automatically creates a new profile or users can create a profile !
 ---
 
-# 👋 NEW PROFILE
+# NEW PROFILE
 
 If users create new profile, users need to fill some information
 
