@@ -4,7 +4,7 @@ Nếu bạn muốn đăng kí tài khoản người dùng của trang [etsy.com]
 
 Ta có Script như sau:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
