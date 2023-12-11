@@ -118,3 +118,4 @@
     * [Robot cookie](automation-user-manual/scripts/robot-cookie.md)
     * [Upload nhiều ảnh](automation-user-manual/scripts/upload-nhieu-anh.md)
     * [Register Etsy](automation-user-manual/scripts/register-etsy.md)
+  * [How to start script auto ?](automation-user-manual/how-to-start-script-auto.md)
