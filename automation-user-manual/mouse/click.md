@@ -4,7 +4,7 @@ True to its name, this button is used to automatically click the mouse on the el
 \
 Đúng như tên gọi của nó, nút này dùng để tự động click chuột vào phần tử bạn chọn và cho vào ô “select element”.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | parameter         | illustrate                                                                                                                                                                                                                                                                                                                     |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -14,6 +14,20 @@ True to its name, this button is used to automatically click the mouse on the el
 | Element order     | <p>Chọn thành phần nào của trang web:<br>Fixed value: chọn một phần tử cố định<br>Random value: random một giá trị ngẫu nhiên trong khoảng đã đặt</p>                                                                                                                                                                          |
 | Coordinates       | Nhập tọa độ x,y của phần tử bạn muốn click                                                                                                                                                                                                                                                                                     |
 
+Ví dụ bạn muốn kéo các thành phần vào artboard như hình dưới đây thì bạn có thể làm như sau:
 
+<figure><img src="../../.gitbook/assets/Screenshot_1.png" alt=""><figcaption></figcaption></figure>
+
+Đầu tiên bạn nhập selector của phần tử mà bạn muốn kéo vào artboard, và chọn Click down:
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Ngay sau node click down thì bạn thêm một node click nữa và nhập selector của phần tử mà bạn muốn thả chúng vào, và chọn Click up:
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Và dưới đây là kết quả:
+
+{% file src="../../.gitbook/assets/1.mp4" %}
 
 {% file src="../../.gitbook/assets/click.txt" %}
