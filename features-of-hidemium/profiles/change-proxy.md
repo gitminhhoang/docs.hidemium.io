@@ -6,8 +6,8 @@ Khi muốn thay đổi proxy cho nhiều profile cùng lúc, ta có thể chọn
 
 Popup change proxy hiện lên, bạn có thể nhập proxy mà bạn muốn thêm vào profiles tại đây, các type proxy là SSH, HTTP, SOCKS4, SOCKS5:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Bạn cũng có thể chọn nhiều proxy trong danh sách proxy của bạn tại đây:
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
