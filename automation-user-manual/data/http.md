@@ -71,6 +71,10 @@ Node này có thể là một node khó, đặc biệt đối với những ngư
 
 Để lấy được <mark style="color:blue;">`email`</mark> của <mark style="color:blue;">"first\_name": "Michael"</mark> , ta viết <mark style="color:blue;">`data.0.email`</mark>
 
+Ngoài ra nếu bạn muốn lấy toàn bộ response của api thì bạn có thể ghi như sau:
 
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+
+Tại **Response body mapping** bạn nhập là response và chọn biến để lưu dữ diệu, như vậy là bạn đã có thể lấy toàn bộ response của API đó.
 
 {% file src="../../.gitbook/assets/Http.txt" %}
