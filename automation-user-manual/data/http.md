@@ -4,12 +4,10 @@
 \
 Node này có thể là một node khó, đặc biệt đối với những người có kiến ​​thức hạn chế về HTTP. Tuy nhiên, hiểu rõ về HTTP sẽ giúp sử dụng dễ dàng hơn. Về bản chất, HTTP này gửi yêu cầu tới API bằng phương thức GET hoặc POST và hiển thị phản hồi trong các tab bên dưới.
 
-
-
-<figure><img src="../../.gitbook/assets/http1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 * Enter URL: Địa chỉ URL yêu cầu
-* [**Phương thức yêu cầu**](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods): GET, POST.&#x20;
+* [**Phương thức yêu cầu**](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods): GET, POST, PUT, DELETE.&#x20;
 * Headers:[ **Header**](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) được yêu cầu
 * Cookies:  [**HTTP cookies**](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 * Select content Type: Chọn loại nội dung của bạn.

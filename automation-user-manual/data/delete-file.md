@@ -7,6 +7,6 @@ Khi bạn muốn xóa 1 file hoặc một thư mục nào đó trong máy tính 
 * Local file: Nhập path tới file mà bạn muốn xóa hoặc chọn biến chứa path hợp lệ.
 * Local folder: Nhập path của folder muốn xóa hoặc chọn biến chứa path hợp lệ.
 
-Ví dụ bạn muốn xóa folder test thì bạn nhập như sau:
+Ví dụ bạn muốn xóa folder test thì bạn nhập như sau, sau khi bạn chạy thì folder test sẽ bị xóa khỏi máy của bạn:
 
 <figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
