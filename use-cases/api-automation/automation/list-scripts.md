@@ -6,9 +6,9 @@ description: Returns a list of scripts (workflows)
 
 ### Request
 
-| Method | URL                      |
-| ------ | ------------------------ |
-| GET    | scripts?page=1\&limit=10 |
+| Method | URL                             |
+| ------ | ------------------------------- |
+| GET    | http://scripts?page=1\&limit=10 |
 
 | Params | Value | Description                  |
 | ------ | ----- | ---------------------------- |
