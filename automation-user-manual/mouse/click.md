@@ -28,13 +28,13 @@ First, enter the selector of the element you want to drag to the artboard, and s
 
 Đầu tiên bạn nhập selector của phần tử mà bạn muốn kéo vào artboard, và chọn Click down:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Right after the click down button, add another click button and enter the selector of the element you want to drop them into, and select Click up:
 
 Ngay sau node click down thì bạn thêm một node click nữa và nhập selector của phần tử mà bạn muốn thả chúng vào, và chọn Click up:
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 And below is the video:
 
