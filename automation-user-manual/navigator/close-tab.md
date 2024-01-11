@@ -6,15 +6,21 @@ Bạn có thể chọn đóng tab hiện tại hoặc bạn có thể nhập s�
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-| parameter     | illustrate                                                                              |
-| ------------- | --------------------------------------------------------------------------------------- |
-| Current       | Đóng tab hiện tại đang active                                                           |
-| Select tab    | Chọn tab bạn muốn đóng. Nhập số của tab mà bạn muốn đóng hoặc chọn biến chứa số của tab |
-| Other all tab | Thực hiện đóng toàn bộ tất cả các tab ngoại trừ tab đang active                         |
+| parameter     | illustrate                                                                                                                                                                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Current       | Đóng tab hiện tại đang active.                                   Close the currently active tab.                                                                                                                                     |
+| Select tab    | Select the tab you want to close. Enter the number of the tab you want to close or select a variable containing the tab number.            Chọn tab bạn muốn đóng. Nhập số của tab mà bạn muốn đóng hoặc chọn biến chứa số của tab.  |
+| Other all tab | <p>Close all tabs except the active tab.</p><p>Thực hiện đóng toàn bộ tất cả các tab ngoại trừ tab đang active.</p>                                                                                                                  |
+
+For example, there are the following 3 tabs:
 
 Ví dụ có 3 tab sau:
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+
+When you select Current, the Ebay tab will be closed. If you select Select tab and enter the number 2, the Youtube tab will be closed. Tab numbers start from 1.&#x20;
+
+If you select Other all tabs, Facebook  and Youtube will be closed.
 
 Khi bạn chọn Current thì tab Ebay sẽ bị đóng. Còn nếu bạn chon Select tab và nhập số 2 thì tab Youtube sẽ bị đóng. Số tab bắt đầu từ 1.
 
