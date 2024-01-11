@@ -1,6 +1,6 @@
 # File upload
 
-Bạn có thể tải tệp lên trang web mà bạn mong muốn.
+Bạn có thể tải tệp lên trang web mà bạn mong muốn. Các button upload file của trang web cần có thẻ **Input** với **type="file".**&#x20;
 
 <figure><img src="../../.gitbook/assets/File upload.png" alt=""><figcaption></figcaption></figure>
 
