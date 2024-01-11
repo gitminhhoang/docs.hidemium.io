@@ -1,6 +1,8 @@
 # File choose event
 
-File choose event được thực hiện khi page có sự kiện chọn file được kích hoạt
+File choose event được thực hiện khi page có sự kiện chọn file được kích hoạt. Và sự kiện chọn file đó không có thẻ **Input** với **type="file"** thì bạn có thể sử dụng node file choose event.&#x20;
+
+Lưu ý node File choose event này nên để đằng trước node click vào button upload.
 
 <figure><img src="../../.gitbook/assets/File choose event.png" alt=""><figcaption></figcaption></figure>
 
