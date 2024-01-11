@@ -6,10 +6,10 @@ Nó dành cho người dùng muốn cuộn trang để mô phỏng một hành �
 
 <figure><img src="../../.gitbook/assets/Scroll.png" alt=""><figcaption></figcaption></figure>
 
-| parameter      | illustrate                                                 |
-| -------------- | ---------------------------------------------------------- |
-| Select element | Nhập CSS selector của phần tử mà bạn muốn cuộn trang xuống |
-| Element order  | Chọn cố định một phần tử mà bạn muốn cuộn xuống            |
-| Coordinates    | Nhập tọa độ x,y mà bạn muốn cuộn trang tới tạo độ đó       |
+| parameter      | illustrate                                                                                                                                     |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Select element | <p>Enter the CSS selector of the element you want to scroll the page down</p><p>Nhập CSS selector của phần tử mà bạn muốn cuộn trang xuống</p> |
+| Element order  | <p>Permanently select an element that you want to scroll down</p><p>Chọn cố định một phần tử mà bạn muốn cuộn xuống</p>                        |
+| Coordinates    | <p>Enter the x,y coordinates to which you want to scroll the page</p><p>Nhập tọa độ x,y mà bạn muốn cuộn trang tới tạo độ đó</p>               |
 
 {% file src="../../.gitbook/assets/Scroll.txt" %}
