@@ -18,11 +18,11 @@ Hoặc nhấp vào nút màu cam và nó sẽ cho phép bạn chọn các biến
 
 <figure><img src="../../.gitbook/assets/Send text to selector.png" alt=""><figcaption></figcaption></figure>
 
-| parameter           | illustrate                                                                                                          |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Select element      | Nhập CSS selector của phần tử mà bạn sẽ điền text vào, chẳng hạn như #email, #global-enhancements-search-query      |
-| Element order       | Chọn thành phần nào của trang web                                                                                   |
-| Content             | Nhập nội dung, mỗi nội dung 1 dòng. Nếu bạn nhập nhiều dòng thì node sẽ tự random và lấy ngẫu nhiên 1 dòng          |
-| Enter interval time | Khoảng cách giữa các kí tự được nhập vào. Ví dụ: Bạn nhập là 100 thì mỗi kí tự sẽ được nhập cách nhau 100 mili giây |
+| parameter           | illustrate                                                                                                                                                                                                                                                     |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Select element      | <p>Enter the CSS selector of the element you will fill with text, such as #email, #global-enhancements-search-query</p><p></p><p>Nhập CSS selector của phần tử mà bạn sẽ điền text vào, chẳng hạn như #email, #global-enhancements-search-query</p>            |
+| Element order       | <p>Choose which element of the website</p><p></p><p>Chọn thành phần nào của trang web</p>                                                                                                                                                                      |
+| Content             | <p>Enter content, 1 line per content. If you enter multiple lines, node will automatically randomize and take 1 line at random</p><p></p><p>Nhập nội dung, mỗi nội dung 1 dòng. Nếu bạn nhập nhiều dòng thì node sẽ tự random và lấy ngẫu nhiên 1 dòng</p>     |
+| Enter interval time | <p>Space between entered characters. For example: If you enter 100, each character will be entered 100 milliseconds apart</p><p></p><p>Khoảng cách giữa các kí tự được nhập vào. Ví dụ: Bạn nhập là 100 thì mỗi kí tự sẽ được nhập cách nhau 100 mili giây</p> |
 
 {% file src="../../.gitbook/assets/Send text to selector.txt" %}

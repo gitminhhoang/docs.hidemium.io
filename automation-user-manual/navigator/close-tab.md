@@ -6,11 +6,11 @@ Bạn có thể chọn đóng tab hiện tại hoặc bạn có thể nhập s�
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-| parameter     | illustrate                                                                                                                                                                                                                           |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Current       | Đóng tab hiện tại đang active.                                   Close the currently active tab.                                                                                                                                     |
-| Select tab    | Select the tab you want to close. Enter the number of the tab you want to close or select a variable containing the tab number.            Chọn tab bạn muốn đóng. Nhập số của tab mà bạn muốn đóng hoặc chọn biến chứa số của tab.  |
-| Other all tab | <p>Close all tabs except the active tab.</p><p>Thực hiện đóng toàn bộ tất cả các tab ngoại trừ tab đang active.</p>                                                                                                                  |
+| parameter     | illustrate                                                                                                                                                                                                                                            |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Current       | <p>Đóng tab hiện tại đang active.    </p><p> </p><p>Close the currently active tab.</p>                                                                                                                                                               |
+| Select tab    | <p>Select the tab you want to close. Enter the number of the tab you want to close or select a variable containing the tab number.       </p><p> </p><p>Chọn tab bạn muốn đóng. Nhập số của tab mà bạn muốn đóng hoặc chọn biến chứa số của tab. </p> |
+| Other all tab | <p>Close all tabs except the active tab.</p><p></p><p>Thực hiện đóng toàn bộ tất cả các tab ngoại trừ tab đang active.</p>                                                                                                                            |
 
 For example, there are the following 3 tabs:
 

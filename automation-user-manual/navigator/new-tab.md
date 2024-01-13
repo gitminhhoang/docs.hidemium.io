@@ -8,8 +8,8 @@ Khi bạn sử dụng nút này, tập lệnh sẽ mở một tab mới để th
 
 <figure><img src="../../.gitbook/assets/new tab.png" alt=""><figcaption></figcaption></figure>
 
-| parameter | illustrate                                                                                                                                                                                                                                                                           |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| URL       | Nhập URL (đường dẫn) của trang web mà bạn muốn truy cập, chẳng hạn như: https://www.facebook.com, https://www.google.com                                           Enter the URL (path) of the website you want to access, such as: https://www.facebook.com, https://www.google.com |
+| parameter | illustrate                                                                                                                                                                                                                                                     |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| URL       | <p>Nhập URL (đường dẫn) của trang web mà bạn muốn truy cập, chẳng hạn như: https://www.facebook.com, https://www.google.com</p><p></p><p>Enter the URL (path) of the website you want to access, such as: https://www.facebook.com, https://www.google.com</p> |
 
 {% file src="../../.gitbook/assets/New tab.txt" %}
