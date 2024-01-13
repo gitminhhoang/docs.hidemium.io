@@ -13,12 +13,6 @@ Ví dụ: giả sử tôi có một tệp chứa nhiều tài khoản Google c�
 
 <figure><img src="../../.gitbook/assets/Write file (1).PNG" alt=""><figcaption></figcaption></figure>
 
-| parameter                       | illustrate                                             |
-| ------------------------------- | ------------------------------------------------------ |
-| File path                       | Đường dẫn tệp mà bạn muốn ghi dữ liệu vào              |
-| Select input data from variable | Chọn một biến chứa dữ liệu để ghi dữ liệu đó vào file  |
-| Selector type                   | Chọn định dạng tệp mà bạn muốn ghi vào: TXT, CSV, JSON |
-| Select write mode: Overwrite    | Ghi đè lên dữ liệu trước đó                            |
-| Select write mode: Append       | Ghi thêm vào tệp, ghi xuống dòng mới hoặc cùng dòng    |
+<table><thead><tr><th width="302">parameter</th><th>illustrate</th></tr></thead><tbody><tr><td>File path</td><td><p>The file path to which you want to write data</p><p></p><p>Đường dẫn tệp mà bạn muốn ghi dữ liệu vào</p></td></tr><tr><td>Select input data from variable</td><td><p>Select a variable containing data to write that data to the file</p><p></p><p>Chọn một biến chứa dữ liệu để ghi dữ liệu đó vào file</p></td></tr><tr><td>Selector type</td><td><p>Choose the file format you want to write to: TXT, CSV, JSON.</p><p>Chọn định dạng tệp mà bạn muốn ghi vào: TXT, CSV, JSON.</p></td></tr><tr><td>Select write mode: Overwrite</td><td><p>Overwrite previous data</p><p></p><p>Ghi đè lên dữ liệu trước đó</p></td></tr><tr><td>Select write mode: Append</td><td><p>Add to file, write on new line or on the same line</p><p></p><p>Ghi thêm vào tệp, ghi xuống dòng mới hoặc cùng dòng</p></td></tr></tbody></table>
 
 {% file src="../../.gitbook/assets/Write file.txt" %}

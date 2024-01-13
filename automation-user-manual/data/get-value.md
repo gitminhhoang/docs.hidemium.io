@@ -6,10 +6,10 @@ Nút này cho phép bạn lấy một giá trị từ phần tử mà bạn mu�
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-| parameter       | illustrate                                                     |
-| --------------- | -------------------------------------------------------------- |
-| Select element  | Nhập CSS selector của phần tử mà bạn muốn lấy giá trị          |
-| Element order   | Chọn các thành phần dựa trên thứ tự chúng xuất hiện trên trang |
-| Output variable | Lưu các phần tử được trích xuất vào biến                       |
+| parameter       | illustrate                                                                                                                                          |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Select element  | <p>Enter the CSS selector of the element for which you want to get the value</p><p></p><p>Nhập CSS selector của phần tử mà bạn muốn lấy giá trị</p> |
+| Element order   | <p>Select elements based on the order they appear on the page ​</p><p></p><p>Chọn các thành phần dựa trên thứ tự chúng xuất hiện trên trang</p>     |
+| Output variable | <p>Save the extracted value into a variable</p><p></p><p>Lưu giá trị được trích xuất vào biến</p>                                                   |
 
 {% file src="../../.gitbook/assets/Get Value.txt" %}
