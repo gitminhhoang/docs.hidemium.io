@@ -6,10 +6,10 @@ Nút này cho phép bạn thay đổi giá trị của một biến bằng cách
 
 <figure><img src="../../.gitbook/assets/Set variable.jpg" alt=""><figcaption></figcaption></figure>
 
-| parameter         | illustrate                         |
-| ----------------- | ---------------------------------- |
-| Variable name     | Chọn tên biến có sẵn chứa giá trị  |
-| Operator          | Chọn toán tử                       |
-| Variable or value | Nhập vào biến hoặc giá trị         |
+| parameter         | illustrate                                                          |
+| ----------------- | ------------------------------------------------------------------- |
+| Variable name     | <p>Choose a variable</p><p>Chọn một biến</p>                        |
+| Operator          | <p>Select operator</p><p>Chọn toán tử</p>                           |
+| Variable or value | <p>Enter the variable or value</p><p>Nhập vào biến hoặc giá trị</p> |
 
 {% file src="../../.gitbook/assets/Set variable.txt" %}

@@ -6,9 +6,9 @@ Bạn nhập địa chỉ URL và chọn vị trí lưu file trên thiết bị,
 
 <figure><img src="../../.gitbook/assets/Download file.png" alt=""><figcaption></figcaption></figure>
 
-| parameter        | illustrate                              |
-| ---------------- | --------------------------------------- |
-| URL              | Nhập địa chỉ URL của file cần tải xuống |
-| Path to the file | Chọn thư mục để lưu file                |
+| parameter        | illustrate                                                                           |
+| ---------------- | ------------------------------------------------------------------------------------ |
+| URL              | <p>Enter the URL of the file to download.</p><p>Nhập URL của file cần tải xuống.</p> |
+| Path to the file | <p>Select a folder to save the file.</p><p>Chọn thư mục để lưu file</p>              |
 
 {% file src="../../.gitbook/assets/Download file.txt" %}
