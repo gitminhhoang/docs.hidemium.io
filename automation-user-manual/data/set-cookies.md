@@ -6,8 +6,8 @@ Sử dụng cookie của bất kỳ trình duyệt nào trên hồ sơ khác và
 
 <figure><img src="../../.gitbook/assets/Set Cookies.jpg" alt=""><figcaption></figcaption></figure>
 
-| parameter    | illustrate                                                                     |
-| ------------ | ------------------------------------------------------------------------------ |
-| Set Cookies  | Nhập vào dữ liệu cookies dạng json hoặc key value, hoặc chọn biến chứa cookies |
+| parameter    | illustrate                                                                                                      |
+| ------------ | --------------------------------------------------------------------------------------------------------------- |
+| Set Cookies  | <p>Enter cookies or select the variable containing cookies.</p><p>Nhập cookies hoặc chọn biến chứa cookies.</p> |
 
 {% file src="../../.gitbook/assets/Set Cookies.txt" %}
