@@ -1,5 +1,7 @@
 # Spreadsheet
 
+Node Spreadsheet helps you read data from excel files or google sheets.
+
 Node Spreadsheet giúp bạn đọc dữ liệu từ file excel hoặc google sheet.
 
 ### Giải thích các trường của node

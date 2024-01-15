@@ -1,5 +1,7 @@
 # Set user agent
 
+When you want to change the user agent of an active tab, you can use this button. This node only changes the user agent of the active tab, not the user agent of the entire profile.
+
 Khi bạn muốn thay đổi user agent của tab đang active thì có thể sử dụng node này. Node này chỉ thay đổi user agent của tab đang active, chứ không thay đổi user agent của cả profile.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
