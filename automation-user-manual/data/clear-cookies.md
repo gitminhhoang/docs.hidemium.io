@@ -4,12 +4,10 @@ This node allows you to delete website cookies in your browser. Paste the link i
 \
 Nút này cho phép bạn xóa cookie trang web trong trình duyệt của bạn. Dán liên kết vào hộp tên miền hoặc để trống để xóa tất cả cookie.
 
-
-
 <figure><img src="../../.gitbook/assets/Clear Cookies.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-| parameter | illustrate                                                                           |
-| --------- | ------------------------------------------------------------------------------------ |
-| Domain    | Nhập tên miền của trang web, để trống nếu bạn muốn xóa tất cả cookie của trình duyệt |
+| parameter | illustrate                                                                                                                                                                                            |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Domain    | <p>Enter the domain name of the website, leave blank if you want to clear all browser cookies.</p><p></p><p>Nhập tên miền của trang web, để trống nếu bạn muốn xóa tất cả cookie của trình duyệt.</p> |

@@ -8,11 +8,11 @@ Nếu bạn muốn upload nhiều ảnh trong một Folder thì đây là một 
 
 Tại đường dẫn thư của folder bạn nhập **cmd** và nhấn **Enter**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Bảng điều khiển cmd hiện hiện lên, và gõ lệnh:   **dir /B /S>FolderList.txt** và lệnh                          **echo x>>FolderList.txt**   và nhấn Enter
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sau đó một file txt có tên là FolderList chứa đường dẫn của tất cả các ảnh trong folder được tạo:
 
