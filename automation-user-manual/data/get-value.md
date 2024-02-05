@@ -4,7 +4,7 @@ This node allows you take a value from element you put in here, and you need to 
 \
 Nút này cho phép bạn lấy một giá trị từ phần tử mà bạn muốn và bạn cần đặt Biến đầu ra cho giá trị đó. Chỉ lấy được giá trị của các thẻ \<input> hoặc \<textarea> hoặc \<select>. Nếu bạn muốn lấy giá trị của các thẻ khác bạn có thể sử dụng nút Get attribute value.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 | parameter       | illustrate                                                                                                                                          |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |

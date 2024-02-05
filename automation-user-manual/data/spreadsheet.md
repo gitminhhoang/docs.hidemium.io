@@ -6,7 +6,7 @@ Node Spreadsheet giúp bạn đọc dữ liệu từ file excel hoặc google sh
 
 ### Giải thích các trường của node
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Local file:**&#x20;
 
@@ -20,11 +20,11 @@ Node Spreadsheet giúp bạn đọc dữ liệu từ file excel hoặc google sh
 
 &#x20;             **TH1: Khi chọn checkbox First row as keys, ta có bảng dữ liệu như sau:**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;        Khi chọn preview sẽ hiển thị như sau:
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 Trường hợp này ta sẽ nhập map key:
 
@@ -40,11 +40,11 @@ Tương tự nếu muốn lấy password ra thì ta nhập map key :
 
 &#x20;**TH2: Khi không chọn checkbox First row as keys, ta có bảng dữ liệu như sau:**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 Khi click vào preview sẽ hiển thị như sau:
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;    Khi đó map Key ta sẽ nhập:
 

@@ -4,7 +4,7 @@ When you use the Get URL node, you can get relevant information about website li
 
 Khi bạn sử dụng node Get URL, bạn có thể lấy thông tin liên quan về các links trang web, lưu trữ thông tin liên quan trong một biến và gọi nó cho các hoạt động khác.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Let's assume that the URL being opened is: [https://www.etsy.com/search?q=book\&ref=search\_bar](https://www.etsy.com/search?q=book\&ref=search\_bar)
 
