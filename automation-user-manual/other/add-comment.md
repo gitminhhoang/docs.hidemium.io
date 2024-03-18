@@ -4,8 +4,8 @@ This node use on the script, you can marked each action one by one.Example, you 
 \
 Nút này sử dụng trên script, bạn có thể đánh dấu từng hành động một. Ví dụ, bạn có thể thêm nhận xét với 3-4 nút và đó là viết email. Có vẻ như tập lệnh của bạn có bố cục rõ ràng.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Bạn có thể đánh dấu từng hành động trong script bằng node add comment như sau:
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

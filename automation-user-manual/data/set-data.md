@@ -16,7 +16,7 @@ For example, when you want to save your email and password to the server, you ca
 
 Ví dụ khi bạn muốn lưu email và password lên server thì bạn có thể nhập như sau:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then the data saved on the server will be: {"email":"email1@gmail.com","pass":"pass123123"}
 
