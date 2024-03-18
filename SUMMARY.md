@@ -115,6 +115,7 @@
     * [Add log](automation-user-manual/other/add-log.md)
     * [Run other script](automation-user-manual/other/run-other-script.md)
     * [Disconnection](automation-user-manual/other/disconnection.md)
+    * [Open Extension](automation-user-manual/other/open-extension.md)
   * [Scripts](automation-user-manual/scripts/README.md)
     * [Robot cookie](automation-user-manual/scripts/robot-cookie.md)
     * [Upload nhiều ảnh](automation-user-manual/scripts/upload-nhieu-anh.md)
