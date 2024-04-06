@@ -66,6 +66,7 @@
     * [Go back](automation-user-manual/navigator/go-back.md)
   * [Mouse](automation-user-manual/mouse/README.md)
     * [Click](automation-user-manual/mouse/click.md)
+    * [Press and hold](automation-user-manual/mouse/press-and-hold.md)
     * [Mouse movement](automation-user-manual/mouse/mouse-movement.md)
     * [Scroll](automation-user-manual/mouse/scroll.md)
     * [Drop-down selector](automation-user-manual/mouse/drop-down-selector.md)
