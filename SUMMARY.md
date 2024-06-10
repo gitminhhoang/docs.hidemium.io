@@ -147,3 +147,4 @@
   * [远程资料](api-zi-dong-hua/yuan-cheng-zi-liao/README.md)
     * [1.打开资料](api-zi-dong-hua/yuan-cheng-zi-liao/1.-da-kai-zi-liao.md)
     * [Close profile](api-zi-dong-hua/yuan-cheng-zi-liao/close-profile.md)
+    * [3. 检查](api-zi-dong-hua/yuan-cheng-zi-liao/3.-jian-cha.md)
