@@ -6,7 +6,7 @@ Node Spreadsheet giúp bạn đọc dữ liệu từ file excel hoặc google sh
 
 ### Giải thích các trường của node
 
-<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Local file:**&#x20;
 
@@ -20,7 +20,7 @@ Node Spreadsheet giúp bạn đọc dữ liệu từ file excel hoặc google sh
 
 &#x20;             **TH1: Khi chọn checkbox First row as keys, ta có bảng dữ liệu như sau:**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;        Khi chọn preview sẽ hiển thị như sau:
 

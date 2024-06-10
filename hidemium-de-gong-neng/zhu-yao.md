@@ -2,7 +2,7 @@
 
 以下是用户需要填写新资料的一些主要信息
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 **名称、文件夹、状态：**
 
@@ -12,7 +12,7 @@
 
 状态：您可以选择新资料的状态为禁止 - 就绪 - 新建
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 **平台**&#x20;
 
@@ -32,13 +32,13 @@ Iphone
 
 您可以选择每个平台的版本
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 **Chrome 版本**&#x20;
 
 您可以选择 Chrome 的版本
 
-<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 **用户 - 代理**&#x20;
 
@@ -48,13 +48,13 @@ Iphone
 
 端口&#x20;
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
 地点
 
 &#x20;您可以选择时区、WebRTC、地理位置和语言指纹，或根据外部 IP 手动设置。您可以通过单击“位置”来检查您的代理详细信息，包括位置、国家/地区、时区...。
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 **时区**&#x20;
 
@@ -62,7 +62,7 @@ Iphone
 
 时区基于外部 IP：您应该将此功能保留为默认设置，因为时区将基于您正在使用的 IP 地址或代理地址，SOCKS。这对于浏览器来说是最好的。
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 **地理位置**
 
@@ -76,7 +76,7 @@ Iphone
 
 根据外部 IP 填充地理位置：此功能允许您选择所需的时区，而无需依赖 ip 地址、代理、socks。
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 **WebRTC**&#x20;
 
@@ -88,10 +88,10 @@ Iphone
 
 真实：即使您使用代理、sock，也使用您电脑的 Webrtc 地址。
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 **语言**
 
 &#x20;根据 IP 填写 WebRTC 公开 IP：此功能允许您根据 IP 地址、代理、socks 选择您想要的 WebRTC 公开 IP。
 
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>

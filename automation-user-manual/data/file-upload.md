@@ -10,7 +10,7 @@ Bạn có thể tải tệp lên trang web mà bạn mong muốn. Các button up
 
 Lưu ý có một vài trang web có thẻ **Input** với **type="file"** nhưng lại có thuộc tính **Display: none** này thì bạn không thể lấy selector của thể input này được, mà bạn phải lấy selector của thẻ **Label** bên trên thẻ **Input.**
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/File upload.png" alt=""><figcaption></figcaption></figure>
 
