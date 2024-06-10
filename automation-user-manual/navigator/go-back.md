@@ -4,7 +4,7 @@ When you want to return to the previous website, use go back. Similar to when yo
 
 Khi bạn muốn quay trở lại trang web trước đó thì ta dùng go back. Tương tự như việc bạn chọn mũi tên này.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Go back.png" alt=""><figcaption></figcaption></figure>
 

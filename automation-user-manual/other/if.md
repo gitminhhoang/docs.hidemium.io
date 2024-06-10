@@ -4,7 +4,7 @@ This node is used to test a condition, if the condition is true then the stateme
 \
 Nút này dùng để kiểm tra một điều kiện, nếu điều kiện đúng thì câu lệnh của khối if sẽ được thực thi và chạy ra đường màu xanh, nếu sai nó sẽ chạy qua đường màu đỏ.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 |                   |                                             |
 | ----------------- | ------------------------------------------- |
