@@ -23,7 +23,7 @@ You need to enter the CSS selector of this image element and enter the attribute
 
 Bạn cần nhập CSS selector của phần tử ảnh này và nhập tên thuộc tính, ở đây tên thuộc tính của ảnh này là **src**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You have then retrieved the value of this image attribute and stored it in a variable.
 

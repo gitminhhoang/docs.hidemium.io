@@ -141,3 +141,4 @@
     * [快速创建](hidemium-de-gong-neng/zhang-hao/kuai-su-chuang-jian.md)
     * [更改代理](hidemium-de-gong-neng/zhang-hao/geng-gai-dai-li.md)
     * [自动化](hidemium-de-gong-neng/zhang-hao/zi-dong-hua.md)
+  * [文件夹](hidemium-de-gong-neng/wen-jian-jia.md)
