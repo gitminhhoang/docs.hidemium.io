@@ -123,4 +123,7 @@
     * [Upload nhiều ảnh](automation-user-manual/scripts/upload-nhieu-anh.md)
     * [Register Etsy](automation-user-manual/scripts/register-etsy.md)
   * [How to start script auto ?](automation-user-manual/how-to-start-script-auto.md)
-  * [Page 1](automation-user-manual/page-1.md)
+* [HIDEMIUM 从 A 到 Z 的指南](hidemium-cong-a-dao-z-de-zhi-nan.md)
+* [HIDEMIUM 的功能](hidemium-de-gong-neng/README.md)
+  * [新资料](hidemium-de-gong-neng/xin-zi-liao.md)
+  * [主要](hidemium-de-gong-neng/zhu-yao.md)
