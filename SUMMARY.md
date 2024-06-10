@@ -148,3 +148,7 @@
     * [1.打开资料](api-zi-dong-hua/yuan-cheng-zi-liao/1.-da-kai-zi-liao.md)
     * [Close profile](api-zi-dong-hua/yuan-cheng-zi-liao/close-profile.md)
     * [3. 检查](api-zi-dong-hua/yuan-cheng-zi-liao/3.-jian-cha.md)
+  * [获取账号资料](api-zi-dong-hua/huo-qu-zhang-hao-zi-liao/README.md)
+    * [1. 资料列表](api-zi-dong-hua/huo-qu-zhang-hao-zi-liao/1.-zi-liao-lie-biao.md)
+    * [2. 配置默认值列表](api-zi-dong-hua/huo-qu-zhang-hao-zi-liao/2.-pei-zhi-mo-ren-zhi-lie-biao.md)
+    * [3. 状态列表](api-zi-dong-hua/huo-qu-zhang-hao-zi-liao/3.-zhuang-tai-lie-biao.md)
