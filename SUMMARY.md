@@ -170,3 +170,5 @@
     * [2. 更新资料的代理](api-zi-dong-hua/dai-li/2.-geng-xin-zi-liao-de-dai-li.md)
   * [自动化](api-zi-dong-hua/zi-dong-hua/README.md)
     * [脚本列表](api-zi-dong-hua/zi-dong-hua/jiao-ben-lie-biao.md)
+* [自动化用户手册](zi-dong-hua-yong-hu-shou-ce/README.md)
+  * [调向器](zi-dong-hua-yong-hu-shou-ce/tiao-xiang-qi.md)
