@@ -1,13 +1,13 @@
 # 代理
 
-有多种连接类型，如下所示
+用户可以批量导入-导出和管理代理
 
-HTTP 代理：是一种使用 IP 模拟的 HTTP 连接方法。
+Hidemium使在开发理代理管理工具更方便。
 
-Socks 4 代理：是一种使用 IP 模拟连接 socks 4 的方法。
+导入代理：
 
-Socks 5：是一种使用 IP 模拟连接 socks 5 的方法。
+导出代理：Hidemium还支持在“代理”部分中使用“导出功能”下载软件上的代理列表。
 
-SSH：SSH 上的代理是其他反检测软件所没有的创新。
+添加代理：输入代理列表后，您可以返回“资料”部分，以选择要添加代理的资料（如以上新的资料>“代理”部分中的介绍）
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

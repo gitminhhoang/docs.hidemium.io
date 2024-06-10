@@ -13,7 +13,7 @@ Node Spreadsheet là Version 2 của node Spreadsheet. Với V2 này, các bạn
 * Read row with stop condition: Khi bạn không chọn checkbox này thì node sẽ mặc định lấy dữ liệu của hàng đầu tiên. Khi bạn chọn checkbox này, bạn phải nhập 2 trường _Column to compare và Value to compare_**.** Column to compare: Trường này bạn sẽ nhập cột để so sánh. Value to compare: Trường này bạn sẽ nhập giá trị để so sánh. Khi không chọn checkbox này, chạy với nhiều profile thì tất cả các profile đều lấy dữ liệu cảu hàng đầu tiên.&#x20;
 * Row match conditions: Chọn một biến. Trường này sẽ trả về số của hàng khớp với hàng mà node đang đọc đến và lưu vào biến bạn chọn. Bạn có thể sử dụng biến này vào node WriteSheet để ghi dữ liệu vào hàng tương ứng với hàng dữ liệu đang được đọc.  Ví dụ ta có bảng dữ liệu sau:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;        Với bảng dữ liệu này: Ví dụ dữ liệu đang được đọc ở hàng số 4, thì node sẽ lưu giá trị 4 vào biến mà bạn chọn.
 
@@ -30,7 +30,7 @@ Node Spreadsheet là Version 2 của node Spreadsheet. Với V2 này, các bạn
 
 ### Google sheet&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ###
 

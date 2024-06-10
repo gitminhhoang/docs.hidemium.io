@@ -6,7 +6,7 @@
 
 您在此处选择导出所有资料的信息：&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 如果您不想导出所有资料，可以选择特定资料并导出：
 

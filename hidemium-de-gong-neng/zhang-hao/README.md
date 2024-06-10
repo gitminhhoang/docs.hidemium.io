@@ -46,7 +46,7 @@ Cookie：
 
 从文件夹删除：您单击此处从文件夹中删除资料
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **与我分享**&#x20;
 
