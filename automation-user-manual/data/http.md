@@ -100,4 +100,8 @@ In **Response body mapping**, enter response and select the variable to store th
 
 Tại **Response body mapping** bạn nhập là response và chọn biến để lưu dữ diệu, như vậy là bạn đã có thể lấy toàn bộ response của API đó.
 
+
+
+Lưu ý: Trong phần body, các bạn không được nhập comment ở đó, nếu có comment thì khi chạy sẽ bị lỗi.
+
 {% file src="../../.gitbook/assets/Http.txt" %}
