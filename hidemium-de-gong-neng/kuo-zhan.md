@@ -4,7 +4,7 @@
 
 使用任何浏览器（例如 Google Chrome）时，您经常会添加扩展程序以使其更易于打开，扩展功能可帮助您自动将其添加到 Hidemium 中的所有资料中。
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 将扩展添加到资料中&#x20;
 
