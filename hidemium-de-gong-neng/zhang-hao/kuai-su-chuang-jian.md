@@ -2,7 +2,7 @@
 
 本节帮助您根据配置快速创建账号资料。如果要创建 100 个资料，可以输入 100，最多可以创建 500 个。
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 您可以根据需要创建其他配置。我们最多可以创建 5 个配置。选择管理默认配置以转至配置创建屏幕。&#x20;
 

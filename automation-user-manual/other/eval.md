@@ -6,7 +6,7 @@ description: Node thực thi các lệnh JavaScript được miêu tả trong m�
 
 Node eval để chạy code javascript trong ngữ cảnh trình duyệt và có thể trả kết quả lưu vào variable. Các bạn có thể tham khảo [<mark style="color:blue;">**tại đây**</mark>](https://www.w3schools.com/js/).
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | parameter         | illustrate                                                     |
 | ----------------- | -------------------------------------------------------------- |

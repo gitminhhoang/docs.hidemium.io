@@ -4,11 +4,11 @@ description: 如果您的资料有多个标签页，并且您想要切换网站�
 
 # 活动标签页 (Active tab)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 例如，我们有 3 个标签页，如下所示：
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **过滤器**
 
