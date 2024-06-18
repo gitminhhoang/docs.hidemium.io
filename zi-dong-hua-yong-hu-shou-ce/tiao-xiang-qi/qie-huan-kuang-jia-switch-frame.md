@@ -6,7 +6,7 @@ description: >-
 
 # 切换框架 (Switch frame)
 
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131) (1).png" alt=""><figcaption></figcaption></figure>
 
 | 参数                        | 说明                                      |
 | ------------------------- | --------------------------------------- |

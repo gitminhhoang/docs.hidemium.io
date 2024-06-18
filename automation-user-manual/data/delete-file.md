@@ -4,7 +4,7 @@ When you want to delete a file or a folder in your computer, you can use this no
 
 Khi bạn muốn xóa 1 file hoặc một thư mục nào đó trong máy tính của bạn, bạn có thể sử dụng node này. Các file hoặc folder sẽ bị xóa hẳn khỏi máy tính của bạn.
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Local file: Enter the path to the file you want to delete or select a variable containing a valid path.&#x20;
 * Local folder: Enter the path of the folder you want to delete or select a variable containing a valid path.
@@ -18,4 +18,4 @@ For example, if you want to delete the test folder, enter the following. After y
 
 Ví dụ bạn muốn xóa folder test thì bạn nhập như sau, sau khi bạn chạy thì folder test sẽ bị xóa khỏi máy của bạn:
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64) (1).png" alt=""><figcaption></figcaption></figure>

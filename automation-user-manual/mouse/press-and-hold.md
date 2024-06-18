@@ -8,7 +8,7 @@ description: >-
 
 Trong node click có thêm 2 option đó là Click down và Click up, 2 option này tương đương với việc bạn click chuột xuống và thả chuột ra.
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Khi sử dụng 2 option này bạn có thể nhấn giữ chuột để kéo một phần tử từ chỗ này sang chỗ khác. Hoặc kéo thả từ tọa độ này sang tọa độ khác.
 

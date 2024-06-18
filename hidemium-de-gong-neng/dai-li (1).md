@@ -10,4 +10,4 @@ Socks 5：是一种使用 IP 模拟连接 socks 5 的方法。
 
 SSH：SSH 上的代理是其他反检测软件所没有的创新。
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>

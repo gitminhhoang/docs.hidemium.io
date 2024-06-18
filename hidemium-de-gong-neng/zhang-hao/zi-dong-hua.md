@@ -2,11 +2,11 @@
 
 当您想要安排自动化运行时，您需要选择要运行的配置文件，然后选择“自动化”按钮，然后选择要自动运行的方案。
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 选择方案后，您将进入活动屏幕，您可以在其中选择“创建计划”按钮。
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 **名称**：填写计划的名称，您可以不填。
 

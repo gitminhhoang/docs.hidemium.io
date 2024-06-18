@@ -6,7 +6,7 @@ description: >-
 
 # 切换扩展弹出窗口 (Switch Extension popup)
 
-<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (132) (1).png" alt=""><figcaption></figcaption></figure>
 
 | 参数                                    | 说明                                                                               |
 | ------------------------------------- | -------------------------------------------------------------------------------- |

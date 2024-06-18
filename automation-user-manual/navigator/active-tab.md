@@ -4,7 +4,7 @@ If your profile has multiple tabs, and you want to switch website tabs, you can 
 
 Nếu profile của bạn có nhiều tab, và bạn muốn chuyển đổi tab trang web, bạn có thể sử dụng node active tab này.
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52) (1).png" alt=""><figcaption></figcaption></figure>
 
 For example, we have 3 tabs as follows:
 

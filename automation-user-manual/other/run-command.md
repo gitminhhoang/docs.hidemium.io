@@ -2,7 +2,7 @@
 
 Node này dùng để mở một file trong folder
 
-<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (108) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Command line: Nhập tên file hoặc đường dẫn đầy đủ của file cần mở. Ví dụ bạn có thể nhập như sau: D:\test\3.mp4 hoặc nhập 3.mp4
 * Dir: Ghi đường dẫn chứa file mà bạn cần mở. Nếu trường **Command line** bạn đã nhập đầy đủ đường dần của file cần mở như thế này: D:\test\3.mp4 thì tại trường **Dir** bạn nên bỏ trống. Còn nếu trường **Command line** bạn nhập 3.mp4 thì ở trường **Dir** bạn cần nhập D:\test
@@ -12,6 +12,6 @@ Node này dùng để mở một file trong folder
 
 Ví dụ với trường hợp mở file txt, bạn cần nhập như sau:
 
-<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (109) (1).png" alt=""><figcaption></figcaption></figure>
 
 Như vậy là khi mở file thành công thì sau 3 giây thì node tiếp theo sẽ được chạy.

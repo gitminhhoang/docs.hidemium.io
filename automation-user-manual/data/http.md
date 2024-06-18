@@ -4,7 +4,7 @@
 \
 Node này có thể là một node khó, đặc biệt đối với những người có kiến ​​thức hạn chế về HTTP. Tuy nhiên, hiểu rõ về HTTP sẽ giúp sử dụng dễ dàng hơn. Về bản chất, HTTP này gửi yêu cầu tới API bằng phương thức GET hoặc POST và hiển thị phản hồi trong các tab bên dưới.
 
-<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Enter URL: Request URL address
 * [<mark style="color:blue;">**Request method**</mark>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods): GET, POST, PUT, DELETE.&#x20;
@@ -51,7 +51,7 @@ To get the <mark style="color:blue;">`Value`</mark> of "label": "tag 3" we write
 
 Để lấy được <mark style="color:blue;">`Value`</mark> của "label": "tag 3" ta viết như sau: <mark style="color:blue;">`2.value`</mark>
 
-<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (62) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Example 2: We have the following response:
 
@@ -94,7 +94,7 @@ Additionally, if you want to get the entire api response, you can write as follo
 
 Ngoài ra nếu bạn muốn lấy toàn bộ response của api thì bạn có thể ghi như sau:
 
-<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (95) (1).png" alt=""><figcaption></figcaption></figure>
 
 In **Response body mapping**, enter response and select the variable to store the data, so you can get the entire response of that API.
 

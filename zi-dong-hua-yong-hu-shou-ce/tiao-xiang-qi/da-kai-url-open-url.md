@@ -4,7 +4,7 @@ description: 当您想在当前标签页中打开网站（而不是打开新标�
 
 # 打开 URL (Open URL)
 
-<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (128) (1).png" alt=""><figcaption></figcaption></figure>
 
 | 参数              | 说明                                                                                   |
 | --------------- | ------------------------------------------------------------------------------------ |

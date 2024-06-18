@@ -4,7 +4,7 @@ You can choose to close the current tab or select a tab, if you select tab you n
 \
 Bạn có thể chọn đóng tab hiện tại hoặc bạn có thể nhập số tab mà bạn muốn đóng.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | parameter     | illustrate                                                                                                                                                                                                                                            |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,7 +16,7 @@ For example, there are the following 3 tabs:
 
 Ví dụ có 3 tab sau:
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 When you select Current, the Ebay tab will be closed. If you select Select tab and enter the number 2, the Youtube tab will be closed. Tab numbers start from 1.&#x20;
 
