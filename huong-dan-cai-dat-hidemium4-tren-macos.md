@@ -18,7 +18,7 @@ B3: Sau khi hoàn thành xong bước 2, bạn đừng vội mở app. Bạn m�
 xattr -cr /Applications/Hidemium4.app
 ```
 
-<figure><img src=".gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
 B4: Sau đó bạn có thể mở app Hidemium4 và dùng bình thường
 
