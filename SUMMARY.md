@@ -238,4 +238,4 @@
     * [Cookie 机器人 (Robot cookie)](zi-dong-hua-yong-hu-shou-ce/jiao-ben-scripts/cookie-ji-qi-ren-robot-cookie.md)
     * [上传多张照片 (Upload multiple photos)](zi-dong-hua-yong-hu-shou-ce/jiao-ben-scripts/shang-chuan-duo-zhang-zhao-pian-upload-multiple-photos.md)
     * [注册 Etsy (Register Etsy)](zi-dong-hua-yong-hu-shou-ce/jiao-ben-scripts/zhu-ce-etsy-register-etsy.md)
-* [Hướng dẫn cài đặt Hidemium trên macOS](huong-dan-cai-dat-hidemium-tren-macos.md)
+* [Hướng dẫn cài đặt Hidemium4 trên macOS](huong-dan-cai-dat-hidemium4-tren-macos.md)
