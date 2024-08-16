@@ -12,7 +12,7 @@ B2: Mở file .dmg và kéo biểu tượng Hidemium4 vào thư mục “Applica
 
 <figure><img src=".gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
-B3: Sau đó bạn mở Terminal, Copy và dán dòng lệnh sau vào**Terminal** nhấn **Enter:**
+B3: Sau khi hoàn thành xong bước 2, bạn đừng vội mở app. Bạn mở Terminal, Copy và dán dòng lệnh sau vào**Terminal** nhấn **Enter:**
 
 ```
 xattr -cr /Applications/Hidemium4.app
