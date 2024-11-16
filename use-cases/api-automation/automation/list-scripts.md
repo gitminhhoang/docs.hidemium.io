@@ -23,9 +23,7 @@ description: Returns a list of scripts (workflows)
 
 ### Example request (Hidemium V4)
 
-| Method | URL                                                                                                                        |
-| ------ | -------------------------------------------------------------------------------------------------------------------------- |
-| GET    | [http://127.0.0.1:2222/v2/automation/script?page=1\&limit=10](http://127.0.0.1:2222/v2/automation/script?page=1\&limit=10) |
+<table><thead><tr><th width="184">Method</th><th>URL</th></tr></thead><tbody><tr><td>GET</td><td><a href="http://127.0.0.1:2222/v2/automation/script?page=1&#x26;limit=10">http://127.0.0.1:2222/v2/automation/script?page=1&#x26;limit=10</a></td></tr></tbody></table>
 
 ### **Response**
 

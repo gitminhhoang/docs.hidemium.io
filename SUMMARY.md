@@ -42,7 +42,7 @@
     * [3. Change fingerprint](use-cases/api-automation/interact-profile/3.-change-fingerprint.md)
     * [4. Update note](use-cases/api-automation/interact-profile/4.-update-note.md)
     * [5. Update name](use-cases/api-automation/interact-profile/5.-update-name.md)
-    * [6. Sync tag](use-cases/api-automation/interact-profile/6.-sync-tag.md)
+    * [6. Sync tags](use-cases/api-automation/interact-profile/6.-sync-tags.md)
     * [7. Change status](use-cases/api-automation/interact-profile/7.-change-status.md)
     * [8. Delete profile](use-cases/api-automation/interact-profile/8.-delete-profile.md)
   * [Proxy](use-cases/api-automation/proxy/README.md)
