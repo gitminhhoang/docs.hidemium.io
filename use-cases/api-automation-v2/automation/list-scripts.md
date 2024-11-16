@@ -15,15 +15,11 @@ description: Returns a list of scripts (workflows)
 | page   | 1     | page number of pagination    |
 | limit  | 10    | number of profiles displayed |
 
-### Example request (Hidemium V2)
+### Example request&#x20;
 
 | Method | URL                                                                                              |
 | ------ | ------------------------------------------------------------------------------------------------ |
 | GET    | [http://127.0.0.1:5555/scripts?page=1\&limit=10](http://127.0.0.1:5555/scripts?page=1\&limit=10) |
-
-### Example request (Hidemium V4)
-
-<table><thead><tr><th width="184">Method</th><th>URL</th></tr></thead><tbody><tr><td>GET</td><td><a href="http://127.0.0.1:2222/v2/automation/script?page=1&#x26;limit=10">http://127.0.0.1:2222/v2/automation/script?page=1&#x26;limit=10</a></td></tr></tbody></table>
 
 ### **Response**
 
