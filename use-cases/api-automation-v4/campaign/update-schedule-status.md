@@ -1,3 +1,8 @@
+---
+description: >-
+  https://documenter.getpostman.com/view/17474604/2sA3JM61j5#8d3b1441-62e2-4d0e-9299-6791b0a9d860
+---
+
 # Update schedule status
 
 Execute start or stop schedule by id

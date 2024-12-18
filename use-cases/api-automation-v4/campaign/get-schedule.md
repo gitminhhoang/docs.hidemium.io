@@ -1,5 +1,7 @@
 # Get Schedule
 
+[https://documenter.getpostman.com/view/17474604/2sA3JM61j5#912e037d-29ec-440a-a41b-81c5404c393d](https://documenter.getpostman.com/view/17474604/2sA3JM61j5#912e037d-29ec-440a-a41b-81c5404c393d)
+
 Returns a list of schedules in a campaign
 
 ### **Example Request** <a href="#example-request-1" id="example-request-1"></a>

@@ -1,3 +1,8 @@
+---
+description: >-
+  https://documenter.getpostman.com/view/17474604/2sA3JM61j5#4da6f2b1-cb17-41c1-b8d5-ded312ba0e93
+---
+
 # Get campaign
 
 Returns a list of campaign

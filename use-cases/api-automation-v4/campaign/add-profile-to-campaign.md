@@ -1,3 +1,8 @@
+---
+description: >-
+  https://documenter.getpostman.com/view/17474604/2sA3JM61j5#6f165e2c-b166-44eb-ad7d-6776a10b4e1d
+---
+
 # Add profile to campaign
 
 ### **Example Request** <a href="#example-request-1" id="example-request-1"></a>

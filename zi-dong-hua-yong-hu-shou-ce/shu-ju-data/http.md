@@ -16,7 +16,7 @@ Cookie：HTTP Cookie
 
 响应 body mapping：请求的响应
 
-**示例 1：**API 有以下响应：
+**示例 1：**&#x41;PI 有以下响应：
 
 ```
 [

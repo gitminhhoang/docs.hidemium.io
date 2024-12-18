@@ -61,6 +61,7 @@
     * [Update campaign input variable](use-cases/api-automation-v4/campaign/update-campaign-input-variable.md)
     * [Delete campaign](use-cases/api-automation-v4/campaign/delete-campaign.md)
     * [Delete All Profile In Campaign](use-cases/api-automation-v4/campaign/delete-all-profile-in-campaign.md)
+  * [Get user uuid](use-cases/api-automation-v4/get-user-uuid.md)
 * [🤖 API AUTOMATION V2](use-cases/api-automation-v2/README.md)
   * [Remote profile](use-cases/api-automation-v2/remote-profile/README.md)
     * [1. Open profile](use-cases/api-automation-v2/remote-profile/1.-open-profile.md)

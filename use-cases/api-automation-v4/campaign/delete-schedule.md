@@ -1,3 +1,8 @@
+---
+description: >-
+  https://documenter.getpostman.com/view/17474604/2sA3JM61j5#e7151984-5cdb-4d3f-bb0d-40df6cb77dae
+---
+
 # Delete schedule
 
 Execute delete schedule by id

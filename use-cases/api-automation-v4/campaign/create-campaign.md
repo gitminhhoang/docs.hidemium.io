@@ -1,3 +1,8 @@
+---
+description: >-
+  https://documenter.getpostman.com/view/17474604/2sA3JM61j5#aa5e39fb-6312-4671-a138-2e524c6b8876
+---
+
 # Create campaign
 
 ### **Example Request** <a href="#example-request-1" id="example-request-1"></a>

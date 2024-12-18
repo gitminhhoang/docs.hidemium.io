@@ -1,5 +1,7 @@
 # Create Schedule
 
+Link postman: https://documenter.getpostman.com/view/17474604/2sA3JM61j5#bb157aa1-f7b3-4e92-84c5-50004462094f
+
 Schedule from an existing campaign.
 
 ### **Request** <a href="#request-1" id="request-1"></a>
