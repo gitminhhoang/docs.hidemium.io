@@ -12,7 +12,7 @@ description: Node này sẽ được hỗ trợ trong hidemium V4
 
 **Model:** Ở đây các bạn có thể chọn các công nghệ AI bao gồm: Gemini, Open AI, Anthropic, DeepSeek, Ollama
 
-**API key:** Các bạn càn nhập các API key tương ứng với các Model đã chọn ở trên. Các bạn có thể nhập nhiều API key của model đó. Mỗi API một dòng, node sẽ random ngẫu nhiên một trong số nhiều API mà bạn nhập vào.
+**API key:** Các bạn cần nhập các API key tương ứng với các Model đã chọn ở trên. Các bạn có thể nhập nhiều API key của model đó. Mỗi API một dòng, node sẽ random ngẫu nhiên một trong số nhiều API mà bạn nhập vào.
 
 **Prompt:** Nhập rõ yêu cầu mà bạn muốn AI thực hiện.
 
