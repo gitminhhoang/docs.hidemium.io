@@ -103,6 +103,8 @@
     * [Switch Frame](automation-user-manual/navigator/switch-frame.md)
     * [Switch Extension popup](automation-user-manual/navigator/switch-extension-popup.md)
     * [Go back](automation-user-manual/navigator/go-back.md)
+  * [AI Agents](automation-user-manual/ai-agents/README.md)
+    * [Hidemium AI](automation-user-manual/ai-agents/hidemium-ai.md)
   * [Mouse](automation-user-manual/mouse/README.md)
     * [Click](automation-user-manual/mouse/click.md)
     * [Press and hold](automation-user-manual/mouse/press-and-hold.md)
