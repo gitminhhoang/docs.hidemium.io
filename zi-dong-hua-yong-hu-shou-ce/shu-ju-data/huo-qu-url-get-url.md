@@ -2,7 +2,7 @@
 
 使用获取 URL node时，您可以获取网站链接的相关信息，将相关信息存储在变量中，并调用它进行其他操作。&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 假设打开的 URL 为：https://www.etsy.com/search?q=book\&ref=search\_bar
 
