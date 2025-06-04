@@ -10,4 +10,4 @@ Hidemium使在开发理代理管理工具更方便。
 
 添加代理：输入代理列表后，您可以返回“资料”部分，以选择要添加代理的资料（如以上新的资料>“代理”部分中的介绍）
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

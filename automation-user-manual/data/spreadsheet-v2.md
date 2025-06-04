@@ -36,7 +36,7 @@ Node Spreadsheet là Version 2 của node Spreadsheet. Với V2 này, các bạn
 
 * Google Spreadsheet ID: Nhập ID của Google sheet, bạn có thể lấy ID tại đây:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ###
 
@@ -50,13 +50,13 @@ Hướng dẫn lấy file credential:
 
 \-        Chọn Select a project
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
 \-        Chọn new project
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \-        Nhập tên project và chọn Create
 
@@ -154,9 +154,9 @@ Ta có bảng dữ liệu như sau:
 
 **Ví dụ về đọc lần lượt từng hàng của file excel khớp với từng profile đang chạy:**
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Để chạy từng profile khớp với từng hàng dữ liệu của file excel, ta phải nhập trường _Column to compare_ và _Value to compare._ Với trường Column ta sẽ nhập tiêu đề của cột chứa uuid của từng profile với trường hợp này tiêu đề sẽ là uuid, trường Value to compare ta sẽ chọn biến ${PROFILE\_ID}. Nhập như trên thì khi chạy profile ta có thể so sánh được profile đang chạy có profile\_id trùng với hàng dữ liệu của cột uuid file excel và đọc đúng dữ liệu của hàng với profile tương ứng. &#x20;
 
@@ -196,15 +196,15 @@ Ví dụ ta có bảng dữ liệu sau:
 
 Khi muốn đọc tất cả dữ liệu của cột A (email) vào 1 biến ta có script như sau:
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tại node Variables ta tạo 1 biến là biến index có giá trị là 2 (do bảng excel trên dữ liệu bắt đầu từ hàng thứ 2, còn nếu bạn nào dữ liệu bắt đầu từ hàng thứ nhất thì các bạn nhập là 1)
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tại node Spreadsheet v2 các bạn nhập như sau:
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tại node Set variable thứ nhất, các bạn cần nhập như sau:
 

@@ -2,7 +2,7 @@
 
 您可以为您选择的变量创建随机值。
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 电子邮件：请输入您想要的电子邮件的domain。例如，如果您输入的domain为abc.com，则随机电子邮件将为email@abc.com。
 

@@ -38,13 +38,13 @@ Khi bạn muốn ghi dữ liệu vào trong file excel thì có thể sử dụn
 
 \-        Chọn Select a project
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
 \-        Chọn new project
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \-        Nhập tên project và chọn Create
 

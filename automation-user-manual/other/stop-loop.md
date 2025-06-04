@@ -12,6 +12,6 @@ Ví dụ trường hợp sử dụng: Khi bạn muốn click vào các thành ph
 
 &#x20;khi đó bạn có thể sử dụng node _**Stop loop**_ để dừng vòng lặp. Ta có script cho trường hợp này như sau:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% file src="../../.gitbook/assets/stop loop.txt" %}

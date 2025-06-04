@@ -8,7 +8,7 @@ Trong bài viết này, chúng ta sẽ cùng tìm hiểu cách thêm extension v
 
 1. Thêm Extension Vào Profiles Với Màn Extension
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,7 +36,7 @@ Khi profiles được tạo thì extension được chọn sẽ được cài đ
 
 2\. Sử Dụng Tính Năng Update Multi Profiles
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -50,7 +50,7 @@ Một cách khác để thêm extension vào profiles là sử dụng tính năn
 
 Bạn cũng có thể thêm extension vào profiles thông qua Default Config:
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

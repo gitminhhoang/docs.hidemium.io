@@ -23,6 +23,6 @@ Ta có ví dụ như sau:
 * Sau đó ta chạy script.
 * Ta sẽ kiểm tra user agent tại đây:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Như vậy ta đã set user agent thành công.
