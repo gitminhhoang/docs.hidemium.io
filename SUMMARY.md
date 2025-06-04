@@ -386,3 +386,4 @@
     * [AUTOMATION ADVANCE](hidemium-4/iv.-tu-dong-hoa-automation-and-ai/automation-advance/README.md)
       * [CÁCH ĐỂ SỬ DỤNG X THỎA MÃN 2 ĐIỀU KIỆN HOẶC THỎA MÃN MỘT TRONG NHIỀU ĐIỀU KIỆN BẰNG AUTOMATION](hidemium-4/iv.-tu-dong-hoa-automation-and-ai/automation-advance/cach-de-s-dung-x-th-a-man-2-dieu-kien-hoac-th-a-man-mot-trong-nhieu-dieu-kien-bang-automation.md)
       * [CÁCH GET TEXT RỒI GROUP TOÀN BỘ TEXT VÀ LẠI TÁCH TỪNG TEXT RA BẰNG AUTOMATION](hidemium-4/iv.-tu-dong-hoa-automation-and-ai/automation-advance/cach-get-text-roi-group-toan-bo-text-va-lai-tach-tung-text-ra-bang-automation.md)
+      * [Cách quản lý data ( dữ liệu ) theo file excel khi chạy automation.](hidemium-4/iv.-tu-dong-hoa-automation-and-ai/automation-advance/cach-quan-ly-data-du-lieu-theo-file-excel-khi-chay-automation..md)
