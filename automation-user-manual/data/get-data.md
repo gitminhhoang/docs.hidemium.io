@@ -10,7 +10,7 @@ With this get data node, you must enter the correct key that you used the set da
 
 Với node get data này bạn phải nhập đúng key mà bạn đã dùng node set data để lưu trên server. Và khi đó đó bạn sẽ phải lưu value của key tương ứng vào một biến để sử dụng cho các node tiếp theo.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Note: When using the get data node, you can only get data for that profile. If you do not use the get data node, you will not be able to use the data you store on the server. Therefore, if you want to use this data, you need to use Get data to save the data into variables so that it can be used for the nodes behind this script.
 

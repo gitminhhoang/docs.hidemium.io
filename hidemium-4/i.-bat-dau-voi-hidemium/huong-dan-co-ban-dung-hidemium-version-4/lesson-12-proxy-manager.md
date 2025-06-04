@@ -44,7 +44,7 @@ Bạn có thể thêm proxy thủ công bằng cách nhập thông tin vào pop-
 
 SOCKS5|192.168.1.1|8080
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

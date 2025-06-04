@@ -2,9 +2,7 @@
 
 Xin chào toàn thể anh em sử dụng Hidemium. Chắc hẳn anh em sử dụng hidemium ít để ý đến chức năng **Experimental QUIC protocol** ở tab **Other** trong chức năng **Create Profile**. Nay mình sẽ giải thích rõ dàng và trường hợp nào thì nên sử dụng chức năng này.
 
-&#x20;
-
-[![image](https://forum.hidemium.io/uploads/default/optimized/1X/6b827b16db7e4c86d05ad24bee953e43b660648e_2_690x478.png)](https://forum.hidemium.io/uploads/default/original/1X/6b827b16db7e4c86d05ad24bee953e43b660648e.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -13,7 +11,11 @@ Link tham khảo: [Hypertext Transfer Protocol – Wikipedia tiếng Việt 1](h
 ![image](https://forum.hidemium.io/uploads/default/original/1X/745aa83b071775668204085cce3b88da1cc302cd.png)
 
 Hiện tại chủ yếu các dịch vụ sẽ sử dụng HTTP1.1, HTTP/2 và HTTP/3 và các giao thức nó hỗ trợ.\
-![image](https://forum.hidemium.io/uploads/default/original/1X/4947d01fd353bef6656db9f30c8b5fd95534183e.png)
+
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Trước tiên ta đi tìm hiểu Proxy UDP và TCP
 
@@ -21,15 +23,17 @@ Trước tiên ta đi tìm hiểu Proxy UDP và TCP
 
 UDP là một trong những giao thức cốt lõi trong bộ giao thức Internet, cùng với TCP (Giao thức điều khiển truyền dẫn). Không giống như TCP, UDP là giao thức không kết nối, nghĩa là nó không thiết lập kết nối trực tiếp giữa người gửi và người nhận trước khi truyền dữ liệu. Điều này cho phép truyền dữ liệu nhanh hơn bằng cách loại bỏ nhu cầu bắt tay ban đầu, điều này có thể làm chậm quá trình giao tiếp.
 
-Ở phiên bản HTTP1.1 và HTTP/2 dùng TCP để truyền tải, giao thức này sẽ đi qua **Proxy Server** nên khi ta dùng Proxy để fake IP điều này có thể qua mặt được hệ thống.
+Ở phiên bản HTTP1.1 và HTTP/2 dùng TCP để truyền tải, giao thức này sẽ đi qua **Proxy Server** nên khi ta dùng Proxy để fake IP điều này có thể qua mặt được hệ thống
 
-[![image](https://forum.hidemium.io/uploads/default/optimized/1X/85521d06bf549c1a75548cfa004c3c7a678583bc_2_690x330.jpeg)](https://forum.hidemium.io/uploads/default/original/1X/85521d06bf549c1a75548cfa004c3c7a678583bc.jpeg)
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
 
-Còn với HTTP/3 thì sao? Ta sẽ quan sát hình mô tả dưới đây:
 
-[![image](https://forum.hidemium.io/uploads/default/optimized/1X/eeb7427f3d6c400b793da757c7ab9fef47c467bd_2_690x295.jpeg)](https://forum.hidemium.io/uploads/default/original/1X/eeb7427f3d6c400b793da757c7ab9fef47c467bd.jpeg)
+Còn với HTTP/3 thì sao? Ta sẽ quan sát hình mô tả dưới đây
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Trước tiên ta cần hiểu về khái niệm QUIC Protocol:\
 QUIC (Quick UDP Internet Connections) là một giao thức truyền mạng được phát triển bởi Google vào năm 2012. QUIC sử dụng UDP thay vì TCP như các giao thức truyền tải thông thường. Nó được thiết kế với mục đích giúp cải thiện tốc độ truyền tải dữ liệu, giảm độ trễ và tăng cường bảo mật trên kết nối Internet.
@@ -43,29 +47,35 @@ Vậy để ngăn chặn phát hiện rò rỉ IP thật ta nên làm gì?
 * Theo mình thì cũng chưa có phương án tốt nhất nhưng để không lộ IP thật ta nên disable QUIC Protocol, điều này sẽ không chắc chắn là tốt những sẽ không bị leak IP thật, nó cũng giống như việc bạn disable WEBRTC khi IP WEBRTC bị leak vậy.
 * Hoặc phương án thứ 2 bạn dùng hoàn toàn Proxy US nếu IP thực của bạn là VN thì bạn có thể dùng qua 1 lớp VPN US, điều này sẽ làm giảm rủi do hơn vì 1 số hệ thống có thể chấp nhận được việc IP khác nhau nhưng country location giống nhau (tỷ lệ pass cao hơn)
 
-Ở đây tôi sẽ lấy 1 số ví dụ thực tế:
+Ở đây tôi sẽ lấy 1 số ví dụ thực tế
 
-[![image](https://forum.hidemium.io/uploads/default/optimized/1X/41fb8b5d9fcd0bc3d5a9bfcc9b52ec1f1a173627_2_690x416.png)](https://forum.hidemium.io/uploads/default/original/1X/41fb8b5d9fcd0bc3d5a9bfcc9b52ec1f1a173627.png)
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
 Ở google login hầu hết các request được sử dụng h3 có nghĩa là giao thức HTTP/3. Điều này có nghĩa rằng IP thực tế của bạn có thể bị google thu thập. Khi bạn thực hiện spam tạo tài khoản hoặc login hệ thống mà hiện captcha google mặc dù đổi IP liên tục, vì google sử dụng h3 để request captcha.
 
-&#x20;
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-[![image](https://forum.hidemium.io/uploads/default/optimized/1X/1fccf34052019b54ec728dfc16f23adee7d167a5_2_690x193.png)](https://forum.hidemium.io/uploads/default/original/1X/1fccf34052019b54ec728dfc16f23adee7d167a5.png)
+
 
 Ở hidemium, bạn có thể disable QUIC Protocol cho profile bằng cách vào tab Other chọn **Disable**
 
-[![image](https://forum.hidemium.io/uploads/default/optimized/1X/97615bf1b8b80f249233e395b3af830d504ce51b_2_689x479.png)](https://forum.hidemium.io/uploads/default/original/1X/97615bf1b8b80f249233e395b3af830d504ce51b.png)
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Sau khi Disable QUIC Protocol tất cả các giao thức request đã được chuyển về h2
 
-[![image](https://forum.hidemium.io/uploads/default/optimized/1X/a098efad5f67ee0a94cfca9f477ce11c1ad183d2_2_690x314.png)](https://forum.hidemium.io/uploads/default/original/1X/a098efad5f67ee0a94cfca9f477ce11c1ad183d2.png)
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Hiện tại một số dịch vụ Proxy cũng đã có phương thức auto Disable QUIC. Để kiểm tra dịch vụ proxy của bạn có hỗ trợ disable QUIC hay không hãy kiểm tra bằng cách nhấp chuột phải tại thanh header chọn Protocol và vào google để check xem giao thức với google đã được chuyển về h2 hay chưa
 
-[![image](https://forum.hidemium.io/uploads/default/optimized/1X/2fc3630d83f36c449778e156881068d9d48307eb_2_690x486.png)](https://forum.hidemium.io/uploads/default/original/1X/2fc3630d83f36c449778e156881068d9d48307eb.png)
-
-&#x20;
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Chúc các bạn trang bị kiến thức tốt để kiếm triệu đô.\
 **Hidemium Team**

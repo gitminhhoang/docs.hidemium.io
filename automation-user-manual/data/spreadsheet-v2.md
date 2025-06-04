@@ -2,7 +2,7 @@
 
 Node Spreadsheet là Version 2 của node Spreadsheet. Với V2 này, các bạn có thể đọc file excel và file google sheet một cách dễ dàng hơn so với node Spreadsheet.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Local File
 
@@ -13,13 +13,13 @@ Node Spreadsheet là Version 2 của node Spreadsheet. Với V2 này, các bạn
 * Read row with stop condition: Khi bạn không chọn checkbox này thì node sẽ mặc định lấy dữ liệu của hàng đầu tiên. Khi bạn chọn checkbox này, bạn phải nhập 2 trường _Column to compare và Value to compare_**.** Column to compare: Trường này bạn sẽ nhập cột để so sánh. Value to compare: Trường này bạn sẽ nhập giá trị để so sánh. Khi không chọn checkbox này, chạy với nhiều profile thì tất cả các profile đều lấy dữ liệu cảu hàng đầu tiên.&#x20;
 * Row match conditions: Chọn một biến. Trường này sẽ trả về số của hàng khớp với hàng mà node đang đọc đến và lưu vào biến bạn chọn. Bạn có thể sử dụng biến này vào node WriteSheet để ghi dữ liệu vào hàng tương ứng với hàng dữ liệu đang được đọc.  Ví dụ ta có bảng dữ liệu sau:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;        Với bảng dữ liệu này: Ví dụ dữ liệu đang được đọc ở hàng số 4, thì node sẽ lưu giá trị 4 vào biến mà bạn chọn.
 
 * Last row of datas: Hiển thị hàng cuối cùng chứa dữ liệu trong file. Tại file excel của bạn, bạn cũng có thể kiểm tra xem dòng cuối cùng có chứa dữ liệu bằng cách nhấn <mark style="color:blue;">**Ctrl + End**</mark> .Ví dụ ta có bảng dữ liệu sau:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;             Với bảng dữ liệu này thì ta sẽ lấy được số của hàng chứa dữ liệu cuối cùng trong file của bạn. Ở đây ta có 10 hàng, node sẽ lưu giá trị 10 sẽ được lưu vào biến mà bạn chọn. Trường này không phụ thuộc vào range mà bạn nhập, có nghĩa là khi bạn nhập range là A1:B3 thì trường này vẫn sẽ lấy số hàng cuối cùng chứa dữ liệu trong bảng đó là 10.
 
@@ -30,13 +30,13 @@ Node Spreadsheet là Version 2 của node Spreadsheet. Với V2 này, các bạn
 
 ### Google sheet&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ###
 
 * Google Spreadsheet ID: Nhập ID của Google sheet, bạn có thể lấy ID tại đây:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ###
 
@@ -50,27 +50,27 @@ Hướng dẫn lấy file credential:
 
 \-        Chọn Select a project
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
 \-        Chọn new project
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \-        Nhập tên project và chọn Create
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\.      Enable Google sheet API
 
 \-        Tại thanh tìm kiếm nhập Google sheets API. Kết quả tìm kiếm hiện ra, sau đó tại Marketplace chọn Google sheet API
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \-        Thực hiện enable Google sheets API
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -78,7 +78,7 @@ Hướng dẫn lấy file credential:
 
 \-        Sau khi enable Google sheets API thành công, tiếp tục chọn Credentials
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -142,7 +142,7 @@ Ta có bảng dữ liệu như sau:
 
 Ở node Spreadsheet ta nhập như sau:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ở trường hợp này khi chọn checkbox First row as title (Column name), thì ta sẽ lấy hàng đầu tiên của Range mà bạn nhập là tiêu đề của cột. Và các trường Column to compare, Column name ta phải nhập đúng tiêu đề của cột, ví dụ trong trường hợp này tên cột sẽ là email và password. Khi nhập vào các trường trong node như hình trên thì ta lấy được dữ liệu như hiển thị trong preview. Nếu khi ta không chọn checkbox Read row with stop condition thì mặc định sẽ lấy hàng đầu tiên của file ngoại trừ hàng tiêu đề.
 
@@ -154,9 +154,9 @@ Ta có bảng dữ liệu như sau:
 
 **Ví dụ về đọc lần lượt từng hàng của file excel khớp với từng profile đang chạy:**
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Để chạy từng profile khớp với từng hàng dữ liệu của file excel, ta phải nhập trường _Column to compare_ và _Value to compare._ Với trường Column ta sẽ nhập tiêu đề của cột chứa uuid của từng profile với trường hợp này tiêu đề sẽ là uuid, trường Value to compare ta sẽ chọn biến ${PROFILE\_ID}. Nhập như trên thì khi chạy profile ta có thể so sánh được profile đang chạy có profile\_id trùng với hàng dữ liệu của cột uuid file excel và đọc đúng dữ liệu của hàng với profile tương ứng. &#x20;
 
@@ -192,23 +192,23 @@ Dưới đây là một script đọc random các hàng với mỗi profile mà 
 
 Ví dụ ta có bảng dữ liệu sau:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Khi muốn đọc tất cả dữ liệu của cột A (email) vào 1 biến ta có script như sau:
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tại node Variables ta tạo 1 biến là biến index có giá trị là 2 (do bảng excel trên dữ liệu bắt đầu từ hàng thứ 2, còn nếu bạn nào dữ liệu bắt đầu từ hàng thứ nhất thì các bạn nhập là 1)
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tại node Spreadsheet v2 các bạn nhập như sau:
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tại node Set variable thứ nhất, các bạn cần nhập như sau:
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Qua mỗi vòng lặp thì giá trị của index sẽ tăng lên 1, cứ mỗi 1 vòng lặp thì sẽ đọc được giá trị của 1 dòng trong excel.
 
@@ -216,7 +216,7 @@ Qua mỗi vòng lặp thì giá trị của index sẽ tăng lên 1, cứ mỗi 
 
 Tại node set variable thứ 2, các bạn cần nhập như sau:
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Node set variable thứ 2 được dùng để nối các giá trị lại với nhau. Tại trường Variable name, bạn chọn một biến mới để khi thực hiện nối dữ liệu thì dữ liệu được nối đó sẽ lưu vào biến (ở đây là biến b). Tại trường Variable or value các bạn nhập như trên hình, dấu | dùng để phân cách các giá trị, các bạn cũng có thể sử dụng kí tự khác để phân cách; và biến ${email} ở đây sẽ lấy các giá trị được lấy ra từ node speadsheet v2.
 

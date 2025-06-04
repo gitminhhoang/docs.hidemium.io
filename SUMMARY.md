@@ -402,3 +402,5 @@
       * [Kiến thức về Kỹ thuật NojsFingerprint](hidemium-4/v.-tai-lieu-nang-cao-and-nghien-cuu/tin-tuc-va-bai-viet-ve-antidetect/kien-thuc-ve-ky-thuat-nojsfingerprint.md)
       * [Kiến thức về Kỹ thuật TLS Fingerprint](hidemium-4/v.-tai-lieu-nang-cao-and-nghien-cuu/tin-tuc-va-bai-viet-ve-antidetect/kien-thuc-ve-ky-thuat-tls-fingerprint.md)
       * [Giới thiệu về chức năng QUIC Protocol trên Hidemium](hidemium-4/v.-tai-lieu-nang-cao-and-nghien-cuu/tin-tuc-va-bai-viet-ve-antidetect/gioi-thieu-ve-chuc-nang-quic-protocol-tren-hidemium.md)
+      * [Hệ thống phát hiện bạn dùng Proxy khi nào?](hidemium-4/v.-tai-lieu-nang-cao-and-nghien-cuu/tin-tuc-va-bai-viet-ve-antidetect/he-thong-phat-hien-ban-dung-proxy-khi-nao.md)
+      * [Mobile Proxies và Residential Proxies cái nào tốt hơn?](hidemium-4/v.-tai-lieu-nang-cao-and-nghien-cuu/tin-tuc-va-bai-viet-ve-antidetect/mobile-proxies-va-residential-proxies-cai-nao-tot-hon.md)

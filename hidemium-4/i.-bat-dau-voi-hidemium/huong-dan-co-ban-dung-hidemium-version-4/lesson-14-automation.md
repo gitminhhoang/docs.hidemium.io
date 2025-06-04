@@ -26,7 +26,7 @@ Mình sẽ đi vào chi tiết để các bạn có thể hiểu rõ hơn về c
 
 **Add Script:** Thêm Script để bắt đầu làm một script mới.Khi chọn một Script bất kì nào sẽ hiển thị màu xanh như thế này và bạn có thể thao tác với script đó như: Export, Edit, Delete và **Create campaign**
 
-<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
