@@ -401,4 +401,4 @@
       * [Kiến thức về TCP/IP browser fingerprint](hidemium-4/v.-tai-lieu-nang-cao-and-nghien-cuu/tin-tuc-va-bai-viet-ve-antidetect/kien-thuc-ve-tcp-ip-browser-fingerprint.md)
       * [Kiến thức về Kỹ thuật NojsFingerprint](hidemium-4/v.-tai-lieu-nang-cao-and-nghien-cuu/tin-tuc-va-bai-viet-ve-antidetect/kien-thuc-ve-ky-thuat-nojsfingerprint.md)
       * [Kiến thức về Kỹ thuật TLS Fingerprint](hidemium-4/v.-tai-lieu-nang-cao-and-nghien-cuu/tin-tuc-va-bai-viet-ve-antidetect/kien-thuc-ve-ky-thuat-tls-fingerprint.md)
-      * [Page](hidemium-4/v.-tai-lieu-nang-cao-and-nghien-cuu/tin-tuc-va-bai-viet-ve-antidetect/page.md)
+      * [Giới thiệu về chức năng QUIC Protocol trên Hidemium](hidemium-4/v.-tai-lieu-nang-cao-and-nghien-cuu/tin-tuc-va-bai-viet-ve-antidetect/gioi-thieu-ve-chuc-nang-quic-protocol-tren-hidemium.md)
