@@ -4,7 +4,7 @@ Trong bài này, chúng ta sẽ cùng nhau khám phá cách thiết lập các c
 
 1\. App Settings
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -22,7 +22,7 @@ Tính năng này giúp bạn tạo nhanh các profile. Có 2 cách để sử d�
 
 Cách 2: Chọn Default Config trong mục Settings để tùy chỉnh.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -30,7 +30,7 @@ Cách 2: Chọn Default Config trong mục Settings để tùy chỉnh.
 
 Tính năng này hỗ trợ bạn quản lý nhóm làm việc hiệu quả.
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -46,7 +46,7 @@ Tính năng này hỗ trợ bạn quản lý nhóm làm việc hiệu quả.
 
 4\. Quản Lý Thiết Bị (Device Manager)
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -54,7 +54,7 @@ Quản lý các thiết bị đăng nhập tài khoản Hidemium của bạn. N�
 
 5\. Tổng Quan (Overview)
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -62,7 +62,7 @@ Hiển thị thông tin tài khoản. Tại đây, bạn có thể thay đổi m
 
 6\. Lịch Sử Thanh Toán (Payment History)
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

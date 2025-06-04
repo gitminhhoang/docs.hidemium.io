@@ -40,7 +40,7 @@ Hoặc trong quá trình đồng bộ thì có 1 vài profile không thấy đ�
 
 * Text:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 
 

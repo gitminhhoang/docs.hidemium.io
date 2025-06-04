@@ -4,13 +4,13 @@ Hidemium là ứng dụng chống vân tay trình duyệt (Anti-Fingerprint). V�
 
 Với hàng tỷ config cấu hình được thu thập dữ liệu từ máy tính thật, đội ngũ Hidemium team đã setting sẵn cho người dùng một số config mẫu giúp các bạn thuận tiện sử dụng cho người mới dùng trên các nền tảng như Amazon, eBay, Etsy, Facebook, Twitter…
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Ngoài ra Hidemium còn ứng dụng trong công nghiệp phát triển ứng dụng No Code Automation. Bạn có thể tự tạo kịch bản automation thông qua trình kéo thả và tương tác với trình duyệt thông qua các node được xây dựng sẵn trên Hidemium.
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

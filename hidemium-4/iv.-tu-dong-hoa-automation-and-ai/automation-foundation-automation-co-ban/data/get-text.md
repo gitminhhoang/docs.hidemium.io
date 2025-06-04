@@ -4,7 +4,7 @@ You need to select an element and then the script will get the text value contai
 \
 Bạn cần chọn một phần tử và sau đó script sẽ lấy giá trị văn bản có trong phần tử đó và lưu vào biến bạn chọn.
 
-<figure><img src="../../../../.gitbook/assets/image (20) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (20) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | parameter       | illustrate                                                                                                                                               |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |

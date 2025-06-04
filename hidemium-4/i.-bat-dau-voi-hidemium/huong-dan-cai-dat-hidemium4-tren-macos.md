@@ -2,7 +2,7 @@
 
 1. **Download Hidemium4 bản mới nhất dành cho Mac**
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **2. Thực hiện cài đặt app**
 
@@ -20,7 +20,7 @@ xattr -cr /Applications/Hidemium4.app
 
 ```
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

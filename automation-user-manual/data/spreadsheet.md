@@ -6,7 +6,7 @@ Node Spreadsheet giúp bạn đọc dữ liệu từ file excel hoặc google sh
 
 ### Giải thích các trường của node
 
-<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Local file:**&#x20;
 
@@ -20,11 +20,11 @@ Node Spreadsheet giúp bạn đọc dữ liệu từ file excel hoặc google sh
 
 &#x20;             **TH1: Khi chọn checkbox First row as keys, ta có bảng dữ liệu như sau:**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;        Khi chọn preview sẽ hiển thị như sau:
 
-<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Trường hợp này ta sẽ nhập map key:
 
@@ -40,11 +40,11 @@ Tương tự nếu muốn lấy password ra thì ta nhập map key :
 
 &#x20;**TH2: Khi không chọn checkbox First row as keys, ta có bảng dữ liệu như sau:**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (18) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Khi click vào preview sẽ hiển thị như sau:
 
-<figure><img src="../../.gitbook/assets/image (19) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;    Khi đó map Key ta sẽ nhập:
 
@@ -60,19 +60,19 @@ Khi click vào preview sẽ hiển thị như sau:
 
 ### Hướng dẫn đọc từng hàng khớp với từng profile
 
-<figure><img src="../../.gitbook/assets/image (34) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ta có Script như sau:
 
-<figure><img src="../../.gitbook/assets/image (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Với trường hợp này ta sẽ tạo một biến ${index} có giá trị là 1.&#x20;
 
 Các node ta nhập như sau:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (35) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (36) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (37) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
