@@ -1,20 +1,30 @@
 # Lesson 6: Tạo Profiles bằng Quick Config Hidemium
 
+{% embed url="https://youtu.be/j7QlMZLxhmE" %}
+
+
+
 Trong bài viết này, mình sẽ hướng dẫn chi tiết cách tạo profiles số lượng lớn trên Hidemium bằng tính năng Quick Config. Nếu bạn cần tạo đến 1000 profiles với cấu hình tùy chọn, bạn có thể dễ dàng thực hiện theo các bước sau:
 
 Bạn có hai cách để vào Default Config:
 
 Cách 1: Vào Settings và chọn Default Config.
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/19.png)
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Cách 2: Nhấp vào nút màu xanh Quick Create ở màn hình Profiles.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201038'%3E%3C/svg%3E)
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Sau khi nhấn vào Manager Default Config, bạn sẽ được chuyển đến màn hình Default Config. Tại đây, nhấp vào nút Add Config để bắt đầu cấu hình.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201039'%3E%3C/svg%3E)
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Khi màn hình Add Config hiển thị, bạn có thể tiến hành cấu hình các thông số theo mong muốn. Điều quan trọng là bạn cần hiểu rõ về các chỉ số để tùy chỉnh Noise, lựa chọn trình duyệt, và phiên bản hệ điều hành phù hợp với nhu cầu sử dụng.
 
@@ -23,7 +33,9 @@ Khi màn hình Add Config hiển thị, bạn có thể tiến hành cấu hình
 
 Việc nắm rõ cách tùy chỉnh thông số giúp bạn tối ưu hóa quy trình tạo profile và đảm bảo sự đồng nhất khi tạo nhiều profiles cùng lúc.
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/22.png)
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Sau khi đã hoàn tất cấu hình, quay lại màn hình Profiles và chọn Quick Create. Tại đây, bạn chỉ cần nhập số lượng profiles muốn tạo vào khung dữ liệu đã thiết lập và chọn tên Quick Config mà bạn đã tạo trước đó.
 
@@ -32,5 +44,3 @@ Bằng cách này, bạn có thể nhanh chóng tạo số lượng lớn profil
 ![quick create profiles hidemium](http://education.hidemium.io/wp-content/uploads/2024/04/quick-create-profiles-hidemium-1024x452.png)
 
 &#x20;
-
-{% embed url="https://youtu.be/j7QlMZLxhmE" %}

@@ -6,7 +6,9 @@ Sau khi hoàn tất tải và cài đặt ứng dụng Hidemium ở **bài 2**, 
 
 Khi mở ứng dụng Hidemium, giao diện sẽ hiện ra với các tùy chọn như sau:
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/1-1.png)
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Khi ở giao diện chính của ứng dụng Hidemium, nếu bạn chưa có tài khoản, hãy làm theo các bước sau:
 
@@ -14,7 +16,9 @@ Tại phần dưới của giao diện đăng nhập, bạn sẽ thấy một d�
 
 Màn hình sẽ chuyển qua trang đăng ký tài khoản
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/5.png)
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
 
 _**Ta tiến hành nhập đầy đủ thông tin Name, Email, Password, Referral Code (Nếu có) và quan trọng là Contact Support, bạn nên điền contact support chi tiết như telegram username hoặc link facebook profiles để đội ngũ Hidemium tiện support.**_
 
@@ -28,7 +32,9 @@ Chi tiết như sau:
 
 Sau khi đăng ký xong màn hình được chuyển qua tab confirm code được gửi về mail.
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/6.png)
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Sau khi hoàn tất quá trình đăng ký tài khoản và nhận được **Confirm Code**, bạn thực hiện các bước sau:
 

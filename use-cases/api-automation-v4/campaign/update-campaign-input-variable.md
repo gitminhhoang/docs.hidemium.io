@@ -48,7 +48,7 @@ description: >-
 
 The INPUT part in the body you can get from the Get campaign API.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Example Response** <a href="#id-3.-example-response" id="id-3.-example-response"></a>
 

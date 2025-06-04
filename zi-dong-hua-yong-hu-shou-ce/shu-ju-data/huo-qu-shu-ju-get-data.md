@@ -2,7 +2,7 @@
 
 此节点将帮助您获取已保存在服务器上的数据，以供其他节点使用
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 使用此获取数据节点，您必须输入使用设置数据节点保存在服务器上的正确密钥。然后，您必须将相应密钥的值保存到变量中，以供下一个节点使用。
 

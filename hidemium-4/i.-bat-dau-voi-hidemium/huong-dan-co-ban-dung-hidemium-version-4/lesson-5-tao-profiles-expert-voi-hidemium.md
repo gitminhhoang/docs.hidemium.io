@@ -6,11 +6,15 @@
 
 Bước 1: Truy cập vào giao diện tạo profile Expert
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/4.1-1.png)
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Trước tiên, nhấn vào nút Add Profiles, sau đó chọn nút Go to Expert.
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/5.2.png)
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Giao diện Expert cung cấp nhiều tùy chọn hơn với 8 hạng mục chính:
 
@@ -20,14 +24,15 @@ Giao diện Expert cung cấp nhiều tùy chọn hơn với 8 hạng mục chí
 4. Hardware (Phần cứng)
 5. Bookmark
 6. Extension (Tiện ích mở rộng)
-7. Autofill
-8. Other (Khác)
+7. Other (Khác)
 
 Hãy cùng tìm hiểu chi tiết từng mục:
 
 1. Basic Info (Thông tin cơ bản)
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/10.png)
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Trong phần Basic Info, bạn sẽ thấy các trường như Name, Folder, và Status. Bạn có thể tùy chỉnh các trường này theo yêu cầu của dự án hoặc công việc. Ở mục Platform, bạn chọn hệ điều hành phù hợp với mục đích sử dụng. Nếu bạn đang dùng bản app cài đặt trên Windows, nên ưu tiên chọn Windows để tối ưu hiệu suất giả lập. Tương tự, nếu dùng trên Mac, bạn nên chọn hệ điều hành Mac để tối ưu hóa.
 
@@ -42,7 +47,9 @@ Trong phần Basic Info, bạn sẽ thấy các trường như Name, Folder, và
 * Restore Session: Khôi phục phiên làm việc trước đó.
 * Use Secure DNS: Bật hoặc tắt chế độ chuyển hướng DNS an toàn.
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/11.png)
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Ở màn Location, bạn sẽ thấy các chức năng chính sau:
 
@@ -55,9 +62,9 @@ Tất cả các thiết lập này đều được cấu hình tự động dự
 
 2. Proxy
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/12.png)
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+
 
 Ở màn Proxy, bạn có nhiều tùy chọn để cấu hình proxy theo nhu cầu sử dụng, bao gồm:
 
@@ -73,7 +80,9 @@ Kiểm tra Proxy trước khi khởi động Profile
 
 3. Cookies
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/13.png)
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Tại màn Cookie, bạn có thể import cookie theo hai hình thức:
 
@@ -84,7 +93,9 @@ Sau khi import thành công, cookie sẽ được hiển thị và quản lý t�
 
 4. Hardware
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/14.png)
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Phần Hardware trong Hidemium cho phép bạn giả lập các thông số phần cứng của thiết bị, giúp tùy chỉnh cấu hình để đáp ứng các yêu cầu sử dụng khác nhau. Các tùy chọn chính bao gồm:
 
@@ -116,7 +127,9 @@ Thông số phần cứng khác
 
 5. Bookmark
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/15.png)
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Tại màn Bookmark, bạn có thể ghim sẵn các đường dẫn bookmark vào profile để tiện lợi trong việc truy cập nhanh các trang web quan trọng. Các bookmark được nhập vào theo định dạng sau:
 
@@ -131,7 +144,9 @@ Tại màn Bookmark, bạn có thể ghim sẵn các đường dẫn bookmark v�
 
 6. Extension
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/16.png)
+<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Phần Extension cho phép bạn lựa chọn và cài đặt các tiện ích mở rộng (extensions) trực tiếp từ bên ngoài hoặc từ thư viện có sẵn trong ứng dụng Hidemium. Điều này giúp bạn không cần phải lên các cửa hàng ứng dụng của trình duyệt để tải lại extension.
 
@@ -139,25 +154,22 @@ Phần Extension cho phép bạn lựa chọn và cài đặt các tiện ích m
 
 Nếu bạn muốn thêm hoặc tùy chỉnh extension, hãy truy cập vào phần Extension trong màn hình quản lý profiles để tải lên. Chi tiết về cách tải và custom extension sẽ được hướng dẫn trong bài viết tiếp theo.
 
-7. Autofill
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/17.png)
 
-Phần Autofill cho phép bạn tự động điền thông tin vào các biểu mẫu trên trình duyệt một cách nhanh chóng và tiện lợi. Khi được thiết lập, trình duyệt sẽ tự động điền vào các form mà không cần bạn phải thao tác thủ công nhiều lần, giúp tiết kiệm thời gian.
+7. Other
 
-* Ví dụ thông tin Autofill:
-  * US | Kane Perkins | Labadie-Weimann | 74249 Stanley Haven Suite 70 | McKinney | Texas | 75069 | 469-667-5163 | powlowski.eugenia@pouros.net
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-Bằng cách cài đặt Autofill, bạn có thể dễ dàng quản lý và điền nhanh thông tin cá nhân hoặc doanh nghiệp vào các form trên web mà không cần phải nhập lại nhiều lần, giúp tăng hiệu suất làm việc.
 
-8.  Other![](http://education.hidemium.io/wp-content/uploads/2024/04/18.png)Mục Other bao gồm các tính năng nâng cao không được liệt kê ở các phần trước, giúp bạn tùy chỉnh chi tiết hơn cho profile của mình:
 
-    * Computer Name: Giả lập tên máy tính của thiết bị.
-    * MAC Address: Giả lập địa chỉ MAC của máy tính.
-    * Effective Type: Giả lập tình trạng kết nối mạng (Wi-Fi, 3G, 4G…).
-    * Bluetooth: Giả lập các thiết bị Bluetooth được kết nối.
-    * Do Not Track: Bật/tắt chế độ Không theo dõi. Tính năng này giúp tăng cường bảo mật bằng cách hạn chế việc thu thập dữ liệu khi duyệt web.
-    * Custom Launch Browser Parameters: Thêm tham số dòng lệnh trước khi trình duyệt được khởi chạy. Bạn có thể tham khảo thêm các dòng lệnh tùy chỉnh[ tại đây](https://peter.sh/experiments/chromium-command-line-switches/).
-    * Experimental QUIC Protocol: Cho phép bật/tắt chế độ QUIC (giao thức mạng mới của Google), cải thiện hiệu suất và bảo mật khi truyền tải dữ liệu trên Internet. QUIC vẫn đang trong giai đoạn thử nghiệm và chưa được triển khai rộng rãi.
+Mục Other bao gồm các tính năng nâng cao không được liệt kê ở các phần trước, giúp bạn tùy chỉnh chi tiết hơn cho profile của mình:
 
-    Config Redirect URL: Cho phép chuyển hướng từ URL này sang URL khác (A -> B), thường được sử dụng để quản lý và điều chỉnh dữ liệu khách hàng.
+* Computer Name: Giả lập tên máy tính của thiết bị.
+* MAC Address: Giả lập địa chỉ MAC của máy tính.
+* Effective Type: Giả lập tình trạng kết nối mạng (Wi-Fi, 3G, 4G…).
+* Bluetooth: Giả lập các thiết bị Bluetooth được kết nối.
+* Do Not Track: Bật/tắt chế độ Không theo dõi. Tính năng này giúp tăng cường bảo mật bằng cách hạn chế việc thu thập dữ liệu khi duyệt web.
+* Custom Launch Browser Parameters: Thêm tham số dòng lệnh trước khi trình duyệt được khởi chạy. Bạn có thể tham khảo thêm các dòng lệnh tùy chỉnh[ tại đây](https://peter.sh/experiments/chromium-command-line-switches/).
+* Experimental QUIC Protocol: Cho phép bật/tắt chế độ QUIC (giao thức mạng mới của Google), cải thiện hiệu suất và bảo mật khi truyền tải dữ liệu trên Internet. QUIC vẫn đang trong giai đoạn thử nghiệm và chưa được triển khai rộng rãi.
+
+Config Redirect URL: Cho phép chuyển hướng từ URL này sang URL khác (A -> B), thường được sử dụng để quản lý và điều chỉnh dữ liệu khách hàng.

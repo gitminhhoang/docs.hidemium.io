@@ -24,7 +24,7 @@ Click vào Automation trên màn hình chính và chuyển hướng đến " **M
 \
 To increase the trust of your browser, Hidemium has made available an automation script for this purpose called cookie robot. Click on Automation on the main screen and navigate to "Marketplace" to display the main screen as below.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sau đó, ấn tìm kiếm script " robot cookie" và kết quả hiện ra như này : \
 Then, search for script "robot cookies" and the results appear like this:

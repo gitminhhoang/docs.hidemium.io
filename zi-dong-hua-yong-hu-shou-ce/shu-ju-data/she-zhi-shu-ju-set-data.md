@@ -4,7 +4,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 存储在服务器上的数据将采用 {"key1":"value1","key2":"value2",....} 的形式。
 
@@ -12,7 +12,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 然后保存在服务器上的数据将是：{"email":"email1@gmail.com","pass":"pass123123"}
 

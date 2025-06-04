@@ -6,7 +6,9 @@
 
 Để tải ứng dụng Hidemium, bạn có thể truy cập trực tiếp vào đường dẫn: [https://hidemium.io/download](https://hidemium.io/download)
 
-![](http://education.hidemium.io/wp-content/uploads/2024/04/3.png)
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Để cài đặt ứng dụng Hidemium, bạn thực hiện các bước sau:
 

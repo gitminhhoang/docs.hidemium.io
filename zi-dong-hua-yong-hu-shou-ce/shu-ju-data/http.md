@@ -2,7 +2,7 @@
 
 此节点可能具有挑战性，特别是对于那些对 HTTP 知识有限的人。但是，对 HTTP 有很好的理解将使其更容易使用。本质上，此 HTTP 使用 GET 或 POST 方法向 API 发送请求，并在下面的标签页中显示响应。
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 输入 URL：请求 URL 地址
 
@@ -41,7 +41,7 @@ Cookie：HTTP Cookie
 
 要获取“label”：“tag 3”的值，我们编写：2.value
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 **示例 2**：我们有以下响应：
 
@@ -78,6 +78,6 @@ Cookie：HTTP Cookie
 
 此外，如果您想获取整个 api 响应，您可以编写如下：
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 在响应body中 mapping，输入响应并选择用于存储数据的变量，这样您就可以获取该 API 的整个响应。
