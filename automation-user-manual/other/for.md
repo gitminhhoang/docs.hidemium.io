@@ -6,7 +6,7 @@ Nút này cho phép bạn chọn loại vòng lặp: với dữ liệu, với c�
 
 ### For Data
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | parameter      | illustrate                                            |
 | -------------- | ----------------------------------------------------- |

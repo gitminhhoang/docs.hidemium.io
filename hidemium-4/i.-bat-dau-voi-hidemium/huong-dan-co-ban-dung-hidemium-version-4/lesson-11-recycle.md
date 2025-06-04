@@ -10,13 +10,13 @@ Cách hoạt động của Recycle
 
 Sau khi xóa một profile, thông tin đó sẽ được chuyển vào mục Recycle. Tại đây, bạn có thể khôi phục các profiles đã xóa nhầm trong vòng 7 ngày kể từ thời điểm xóa. Nếu không được khôi phục trong thời gian này, profile sẽ bị xóa vĩnh viễn khỏi hệ thống.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 2\. Tùy chọn  khôi phục
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

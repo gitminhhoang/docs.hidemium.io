@@ -4,13 +4,13 @@
 
 使用任何浏览器（例如 Google Chrome）时，您经常会添加扩展程序以使其更易于打开，扩展功能可帮助您自动将其添加到 Hidemium 中的所有资料中。
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 将扩展添加到资料中&#x20;
 
 第 1步：在扩展屏幕上
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 第 2步：在“扩展”屏幕中，单击“上传扩展”按钮
 
