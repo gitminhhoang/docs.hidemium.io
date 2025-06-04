@@ -20,7 +20,7 @@ description: Node này được dùnfg để đọc nội dung các mail đượ
 * Get latest mail: Khi chọn cái này thì sẽ các email gần nhất. Khi bỏ chọn cái này thì sẽ xuất hiện trường Sender email contains.&#x20;
 * Sender email contains: Trường này xuất hiện khi bỏ chọn Get latest mail. Ở đây Bạn có thể nhập Subject của mail mà bạn muốn đọc, và sẽ lấy 5 mail gần nhất có Subject trùng với Subject mà bạn nhập vào.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Content mail contains: Trường này dùng để nhập regex để lấy dữ liệu.
 5. Read mail timeout (milliseconds): Thời gian chờ đợi tối đa. Ví dụ: 30000: Nếu bước này không được thực hiện thành công trong vòng 30 giây thì bước tiếp theo sẽ được thực hiện trực tiếp.
