@@ -4,7 +4,7 @@
 
 Khi đăng nhập thành công vào Hidemium, bạn sẽ thấy nút Add Profiles ở góc phía trên bên trái màn hình. Việc tạo profile là bước quan trọng để sử dụng các tính năng của Hidemium một cách hiệu quả. Dưới đây là hướng dẫn chi tiết các bước tạo profile cơ bản:
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -12,7 +12,7 @@ Bước 1: Tạo Profiles
 
 Nhấn vào nút Add Profiles, sau đó bạn sẽ thấy giao diện Newbie dành cho người mới bắt đầu, không cần quá lo lắng về việc phải thiết lập phức tạp. Tại đây, chỉ cần chọn biểu tượng của nền tảng mà bạn muốn sử dụng cho profile.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -25,7 +25,7 @@ Sau khi nhấn Next, bạn sẽ đến bước Base Info. Ở màn hình này, b
 
 Nếu bạn không điền giá trị vào ô Name, ứng dụng sẽ tự động tạo tên ngẫu nhiên cho profile của bạn.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,7 +36,7 @@ Tiếp tục nhấn Next để sang màn Proxy. Tại đây, bạn cần xác đ
 * Không sử dụng proxy: Giữ nguyên lựa chọn Without Proxy nếu không cần thiết lập proxy.
 * Sử dụng proxy HTTP hoặc SOCKS5: Chọn loại proxy phù hợp và nhấn Check Proxy để kiểm tra
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 
 

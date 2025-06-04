@@ -138,7 +138,7 @@ Như vậy ta đã thực hiện Setup Google sheet để phục vụ việc đ�
 
 Ta có bảng dữ liệu như sau:
 
-<figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ở node Spreadsheet ta nhập như sau:
 
@@ -148,7 +148,7 @@ Ta có bảng dữ liệu như sau:
 
 **Trường hợp không chọn checkbox First row as title (Column name):**
 
-<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ở trường hợp này khi chọn checkbox First row as title (Column name), thì sẽ không lấy hàng đầu tiên làm tiêu đề của cột. Và các trường Column to compare, Column name ta phải nhập đúng tên cột của bảng, ví dụ trong trường hợp này tên cột sẽ là A, B, C,... .&#x20;
 

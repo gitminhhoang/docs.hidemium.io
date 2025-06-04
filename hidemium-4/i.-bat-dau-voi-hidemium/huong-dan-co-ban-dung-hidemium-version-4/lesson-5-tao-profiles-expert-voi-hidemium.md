@@ -6,13 +6,13 @@
 
 Bước 1: Truy cập vào giao diện tạo profile Expert
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Trước tiên, nhấn vào nút Add Profiles, sau đó chọn nút Go to Expert.
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -30,7 +30,7 @@ Hãy cùng tìm hiểu chi tiết từng mục:
 
 1. Basic Info (Thông tin cơ bản)
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -47,7 +47,7 @@ Trong phần Basic Info, bạn sẽ thấy các trường như Name, Folder, và
 * Restore Session: Khôi phục phiên làm việc trước đó.
 * Use Secure DNS: Bật hoặc tắt chế độ chuyển hướng DNS an toàn.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -62,7 +62,7 @@ Tất cả các thiết lập này đều được cấu hình tự động dự
 
 2. Proxy
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -80,7 +80,7 @@ Kiểm tra Proxy trước khi khởi động Profile
 
 3. Cookies
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -93,7 +93,7 @@ Sau khi import thành công, cookie sẽ được hiển thị và quản lý t�
 
 4. Hardware
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -127,7 +127,7 @@ Thông số phần cứng khác
 
 5. Bookmark
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -144,7 +144,7 @@ Tại màn Bookmark, bạn có thể ghim sẵn các đường dẫn bookmark v�
 
 6. Extension
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -158,7 +158,7 @@ Nếu bạn muốn thêm hoặc tùy chỉnh extension, hãy truy cập vào ph�
 
 7. Other
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 
 

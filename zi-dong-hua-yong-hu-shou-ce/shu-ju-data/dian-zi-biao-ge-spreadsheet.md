@@ -4,7 +4,7 @@
 
 ## 节点字段解释
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 **本地文件：**
 
@@ -18,11 +18,11 @@
 
 **情况 1：当选择第一行作为键复选框时，我们有以下数据表：**
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
 选择预览时，会显示以下内容：
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 在这种情况下，我们将输入：
 
@@ -38,11 +38,11 @@
 
 **情况 2：当未选中“第一行作为键”复选框时，我们有以下数据表：**
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
 
 当您点击预览时，将显示以下内容：
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 然后我们将输入：
 
@@ -56,25 +56,21 @@
 
 ## **读取与每个资料匹配每一行的说明**
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 我们有以下脚本：
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
 
 在这情况，我们将创建一个值为 1 的变量 ${index}。
 
 我们输入的节点如下：
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
 
 根据上面的数据表，在 for 节点我们将运行 10 次循环。在每个循环中，由于设置变量节点，我们将遍历 Excel 文件的每一行，该节点在每次循环后将索引变量的值增加 1。当这个变量增大时，每次循环的Spreadsheet节点的Range字段将是A1:B1、A2:B2、A3:B3等。像这样重复时，我们将使用 if 节点作为条件来对比Profile\_id带有 excel 文件 uuid 的运行资料。如果 Profile\_id 与 Excel 文件的 uuid 匹配，则停止循环并将该行的数据写入变量以供下一个节点使用。
 

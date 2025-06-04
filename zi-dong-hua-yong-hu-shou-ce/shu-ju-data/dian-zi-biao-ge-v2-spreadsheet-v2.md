@@ -2,7 +2,7 @@
 
 节点电子表格是节点电子表格的版本 2。使用此 V2，您可以比使用电子表格节点更轻松地读取 excel 文件和 google sheet文件。
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 本地文件
 
@@ -13,13 +13,13 @@
 * 读取带有停止条件的行：当不选中此复选框时，节点将默认从第一行获取数据。当您选择此复选框时，您必须输入两个字段：Column to compare 和 Value to compare。Column to compare：在此字段中，您将输入要对比的列。Value to compare：在此字段中，您将输入要对比的值。当未选中此复选框时，使用多个资料运行时，所有资料都将获取第一行的数据。
 * 行匹配条件：选择一个变量。该字段将返回与节点正在读取的行匹配的行号，并将其存储在您选择的变量中。您可以在 WriteSheet 节点上使用此变量将数据写入与正在读取的数据行对应的行。 例如我们有如下数据表：
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
 
 对于此数据表：例如，正在读取第 4 行的数据，节点会将值 4 存储在您选择的变量中。
 
 * 最后一行数据：显示文件中包含数据的最后一行。在 Excel 文件中，您还可以通过按 Ctrl + End 检查最后一行是否包含数据，例如，我们有以下数据表：
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
 
 通过此数据表，我们将获取文件中包含最后数据的行号。这里我们有 10 行，节点将存储值 10，该值将存储在您选择的变量中。该字段不依赖于您输入的范围，这意味着当您输入范围 A1:B3 时，该字段仍会将该表中包含数据的最后一行的行号视为 10。
 

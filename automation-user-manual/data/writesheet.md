@@ -124,11 +124,11 @@ Như vậy ta đã thực hiện Setup Google sheet để phục vụ việc đ�
 
 Giả sử ta có bảng dữ liệu sau:
 
-<figure><img src="../../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Nếu bạn muốn tự động ghi nối tiếp vào hàng tiếp theo của dòng cuối chứa dữ liệu, thì ta điền như sau:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Khi ta nhập thế này thì node sẽ tự ghi dữ liệu vào dòng số 7
 

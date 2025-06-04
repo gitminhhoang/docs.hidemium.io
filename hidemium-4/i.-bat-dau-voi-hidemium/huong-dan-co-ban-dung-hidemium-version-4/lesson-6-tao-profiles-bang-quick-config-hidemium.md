@@ -10,19 +10,19 @@ Bạn có hai cách để vào Default Config:
 
 Cách 1: Vào Settings và chọn Default Config.
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Cách 2: Nhấp vào nút màu xanh Quick Create ở màn hình Profiles.
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Sau khi nhấn vào Manager Default Config, bạn sẽ được chuyển đến màn hình Default Config. Tại đây, nhấp vào nút Add Config để bắt đầu cấu hình.
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -33,7 +33,7 @@ Khi màn hình Add Config hiển thị, bạn có thể tiến hành cấu hình
 
 Việc nắm rõ cách tùy chỉnh thông số giúp bạn tối ưu hóa quy trình tạo profile và đảm bảo sự đồng nhất khi tạo nhiều profiles cùng lúc.
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 
 

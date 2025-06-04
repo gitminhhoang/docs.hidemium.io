@@ -10,13 +10,13 @@ If the element does not exist then it will go to the red line:
 
 Nếu phần tử không tồn tại thì nó sẽ đi ra đường màu đỏ:
 
-<figure><img src="../../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If the element exists then it will go to the blue line:
 
 Nếu phần tử tồn tại thì nó sẽ đi ra đường màu xanh:
 
-<figure><img src="../../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/integrate.PNG" alt=""><figcaption></figcaption></figure>
 

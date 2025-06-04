@@ -6,7 +6,7 @@ Sau khi hoàn tất tải và cài đặt ứng dụng Hidemium ở **bài 2**, 
 
 Khi mở ứng dụng Hidemium, giao diện sẽ hiện ra với các tùy chọn như sau:
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -16,7 +16,7 @@ Tại phần dưới của giao diện đăng nhập, bạn sẽ thấy một d�
 
 Màn hình sẽ chuyển qua trang đăng ký tài khoản
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -32,7 +32,7 @@ Chi tiết như sau:
 
 Sau khi đăng ký xong màn hình được chuyển qua tab confirm code được gửi về mail.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 
 

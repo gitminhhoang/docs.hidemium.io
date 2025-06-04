@@ -6,7 +6,7 @@ Việc quản lý profiles theo thư mục giúp bạn dễ dàng phân loại t
 
 1\. Cách Tạo Thư Mục Trên Hidemium
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -22,7 +22,7 @@ Sau khi tạo thư mục, bạn có thể thêm các profiles vào thư mục th
 
 Cách 1: Sử dụng tính năng Select Multi
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 * Tại màn hình Profiles, chọn nhiều profiles bằng cách sử dụng tính năng Select Multi.
 * Sau khi chọn, thanh công cụ sẽ hiển thị nút Add to Folder.
