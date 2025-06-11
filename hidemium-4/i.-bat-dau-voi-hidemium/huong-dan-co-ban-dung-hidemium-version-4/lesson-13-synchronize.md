@@ -45,12 +45,54 @@ Phần Setting cho phép bạn điều chỉnh tốc độ gõ chữ và tốc �
 
 ![](https://i.imgur.com/zvPB0XY.png)
 
-Synchronize là một công cụ mạnh mẽ giúp bạn đồng bộ hóa và quản lý các Profiles một cách dễ dàng và hiệu quả. Hãy tận dụng các tính năng đồng bộ, quản lý cửa sổ, và tùy chỉnh màn hình để tối ưu hóa quy trình làm việc của bạn.
-
-Xem thêm video hướng dẫn chi tiết tại: https://www.youtube.com/watch?v=LOQxG9e7bUM
-
-{% embed url="https://youtu.be/LOQxG9e7bUM" %}
 
 
+&#x20;
+
+2\. Hướng dẫn sử dụng các chức năng ở trong phần Console
+
+* Window:
+
+![](http://education.hidemium.io/wp-content/uploads/2025/04/photo_2025-04-25_14-46-52.jpg)
+
+&#x20;
+
+&#x20;
+
+1.
+   1. Uniform size: Sau khi chọn chức năng này thì tất cả các profile sẽ lấy theo kích thước màn của profile chính (Main Window )
+   2. View window: Khi bạn **thu nhỏ cửa sổ trình duyệt** xuống thanh taskbar (thanh tác vụ), sau đó click vào button này thì tất cả các profile sẽ được bật lên và hiển thị trên màn hình.
+   3. Monitor: Tại đây sẽ show số màn hình mà bạn đang sử dụng, profile sẽ được hiển thị lên màn mà bạn chọn.
+   4. Nếu option này được bật lên thì nó sẽ tự động bố trí các cửa sổ được chọn theo độ phân giải màn hình.
+   5. Layout: Gird: chia profile thành các **hàng và cột.** Overlapped: các profile sẽ bị chồng lên nhau
+   6. Tile windows: Tự động sắp xếp các profile.
+
+&#x20;
+
+* Text:
+
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
+
+
+&#x20;
+
+1. Clear text: Xóa toàn bộ text nơi mà con trỏ chuột đang hoạt động
+2. Paste text: paste text vào toàn bộ profiles
+3. Click delay: Việc click sẽ bị delay dựa vào thời gian mà bạn đặt trong setting
+4. Typing delay: Việc nhập các ký tự sẽ bị delay dựa vào thời gian mà bạn đặt trong setting
+5. Enter random: Tự động random số trong khoảng mà bạn nhập vào
+6. Identical text: Các bạn nhập text tại đây, sau đó click type as human thì đoạn text sẽ được nhập vào profile theo từng kí tự và sẽ giống hệt ở tất cả các profile.
+7. Enter in order: Nhập lần lượt text vào profile, mỗi dòng 1 profile
+8. Enter random: Nhập ngẫu nhiêu text vào profile, mỗi dòng text 1 profile
+9. Design text: Nhập mỗi profile 1 dòng, sẽ khớp với từng profile theo profile number
+10. Type as human: Click để thực hiện nhập text vào profile
+11. Add more text group: Thêm 1 nhóm text để sử dụng
+
+
+
+Các bạn có thể xem video sau:
+
+{% file src="../../../.gitbook/assets/bandicam 2025-06-11 09-13-27-180.mp4" %}
 
 \
