@@ -4,7 +4,7 @@ Các extension cài ngoài từ store sẽ không đc đồng bộ vì vậy hã
 
 Để extension được đồng bộ thì cần phải giữ được extension id
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -12,7 +12,7 @@ Các extension muốn đồng bộ được thì cần phải có key, các exte
 
 Bước 1: Ví dụ bạn muốn import extension Ronin Wallet vào hidemium, tại chrome store bạn tìm kiếm extension Ronin, sau đó tải file zip của extension đó về máy, mà muốn tải file zip của extension thì bạn cần phải cài thêm extension **CRX Extractor/Downloader**
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

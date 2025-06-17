@@ -306,6 +306,8 @@
     * [Khắc phục lỗi Start profiles không hiện](hidemium-4/ii.-thiet-lap-va-cau-hinh-he-thong/khac-phuc-loi-start-profiles-khong-hien.md)
     * [Hướng dẫn chuyển data profiles local sang ổ khác](hidemium-4/ii.-thiet-lap-va-cau-hinh-he-thong/huong-dan-chuyen-data-profiles-local-sang-o-khac.md)
     * [Backup profile local trong trường hợp cần cài lại win hoặc cần chuyển profile sang một máy tính khác](hidemium-4/ii.-thiet-lap-va-cau-hinh-he-thong/backup-profile-local-trong-truong-hop-can-cai-lai-win-hoac-can-chuyen-profile-sang-mot-may-tinh-khac.md)
+    * [Hướng dẫn backup profile local trong trường hợp cần cài lại máy, hoặc chuyển sang 1 máy tính khác (D](hidemium-4/ii.-thiet-lap-va-cau-hinh-he-thong/huong-dan-backup-profile-local-trong-truong-hop-can-cai-lai-may-hoac-chuyen-sang-1-may-tinh-khac-d.md)
+    * [Hướng dẫn sử dụng chức năng Export/Import profile local](hidemium-4/ii.-thiet-lap-va-cau-hinh-he-thong/huong-dan-su-dung-chuc-nang-export-import-profile-local.md)
     * [Hướng dẫn đồng bộ data extension trên Hidemium](hidemium-4/ii.-thiet-lap-va-cau-hinh-he-thong/huong-dan-dong-bo-data-extension-tren-hidemium.md)
   * [III. Quản lý tài khoản & config](hidemium-4/iii.-quan-ly-tai-khoan-and-config/README.md)
     * [Hướng dẫn tạo tài khoản member và phân quyền cho tài khoản member](hidemium-4/iii.-quan-ly-tai-khoan-and-config/huong-dan-tao-tai-khoan-member-va-phan-quyen-cho-tai-khoan-member.md)
