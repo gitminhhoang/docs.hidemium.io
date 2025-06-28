@@ -20,25 +20,32 @@ Hoặc trong quá trình đồng bộ thì có 1 vài profile không thấy đ�
 
 2\. Hướng dẫn sử dụng các chức năng ở trong phần Console
 
-* Window:
+a. Window:
 
 ![](http://education.hidemium.io/wp-content/uploads/2025/04/photo_2025-04-25_14-46-52.jpg)
 
-&#x20;
+
+
+1. Uniform size: Sau khi chọn chức năng này thì tất cả các profile sẽ lấy theo kích thước màn của profile chính (Main Window )
+2. View window: Khi bạn **thu nhỏ cửa sổ trình duyệt** xuống thanh taskbar (thanh tác vụ), sau đó click vào button này thì tất cả các profile sẽ được bật lên và hiển thị trên màn hình.
+3. Monitor: Tại đây sẽ show số màn hình mà bạn đang sử dụng, profile sẽ được hiển thị lên màn mà bạn chọn.
+4. Nếu option này được bật lên thì nó sẽ tự động bố trí các cửa sổ được chọn theo độ phân giải màn hình. Nếu tắt, bạn có thể tùy chỉnh các thông số cho các sửa sổ:
+
+<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+
+* Position : ở đây thường dùng để chỉ vị trí của các profiles trên màn hình máy tính (screen)
+* Size: Kích thước của các profiles
+* Space: Khoảng cách giữa các profile trên màn hình. Bao gồm: HS khoảng cách theo chiều ngang, VS khoảng cách theo chiều dọc
+* Number: Số profile trên 1 hàng
+
+
+
+5. Layout: Gird: chia profile thành các **hàng và cột.** Overlapped: các profile sẽ bị chồng lên nhau
+6. Tile windows: Tự động sắp xếp các profile.
 
 &#x20;
 
-1.
-   1. Uniform size: Sau khi chọn chức năng này thì tất cả các profile sẽ lấy theo kích thước màn của profile chính (Main Window )
-   2. View window: Khi bạn **thu nhỏ cửa sổ trình duyệt** xuống thanh taskbar (thanh tác vụ), sau đó click vào button này thì tất cả các profile sẽ được bật lên và hiển thị trên màn hình.
-   3. Monitor: Tại đây sẽ show số màn hình mà bạn đang sử dụng, profile sẽ được hiển thị lên màn mà bạn chọn.
-   4. Nếu option này được bật lên thì nó sẽ tự động bố trí các cửa sổ được chọn theo độ phân giải màn hình.
-   5. Layout: Gird: chia profile thành các **hàng và cột.** Overlapped: các profile sẽ bị chồng lên nhau
-   6. Tile windows: Tự động sắp xếp các profile.
-
-&#x20;
-
-* Text:
+b. Text:
 
 <figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
