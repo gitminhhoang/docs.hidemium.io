@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Hướng dẫn cài đặt Hidemium4 trên macOS
 
 1. **Download Hidemium4 bản mới nhất dành cho Mac**
