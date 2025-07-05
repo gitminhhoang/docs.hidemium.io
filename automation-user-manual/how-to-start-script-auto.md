@@ -76,5 +76,5 @@ Tương tự như chọn profile để chạy thì mọi người có thể ch�
 
 Sau đó làm từng bước như ảnh dưới đây là được nhé. Phần Name mọi người có thể đặt tên cho campaign hoặc Hidemium sẽ lấy tên script làm tên campaign luôn. UUID sẽ điền vào ô " Data"
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

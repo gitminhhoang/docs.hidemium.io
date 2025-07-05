@@ -30,7 +30,7 @@ Với màn My Extension được tích chọn, những extension đó được g
 
 Khi profiles được tạo thì extension được chọn sẽ được cài đặt sẵn trong profiles.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

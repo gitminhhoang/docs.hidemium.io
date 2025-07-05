@@ -1,3 +1,7 @@
+---
+description: Bài viết này chỉ áp dụng cho user sử dụng máy Win
+---
+
 # Backup profile local trong trường hợp cần cài lại win hoặc cần chuyển profile sang một máy tính khác
 
 **KHi bạn mua gói hidemium local mà cần backup data khi cài lại máy hoặc backup sang máy khác thì cần đọc hướng dẫn sau và B cần copy các thư mục sau:**

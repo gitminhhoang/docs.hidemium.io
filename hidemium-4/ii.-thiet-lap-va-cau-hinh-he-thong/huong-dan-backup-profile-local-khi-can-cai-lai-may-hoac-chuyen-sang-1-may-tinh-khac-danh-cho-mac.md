@@ -1,4 +1,8 @@
-# Hướng dẫn backup profile local trong trường hợp cần cài lại máy, hoặc chuyển sang 1 máy tính khác (D
+---
+description: Bài viết này chỉ dành cho những ai sử dụng máy MAC
+---
+
+# Hướng dẫn backup profile local khi cần cài lại máy, hoặc chuyển sang 1 máy tính khác(Dành cho MAC)
 
 **KHi bạn mua gói hidemium local mà cần backup data khi cài lại máy hoặc backup sang máy khác thì cần đọc hướng dẫn sau và B cần copy các thư mục sau:**
 
@@ -24,12 +28,20 @@ Bạn cần vào mà App settings để biết thư mục đó nằm ở đâu, 
 
 **3. Với profile local bạn sẽ cần backup cả thư mục LocalData:**
 
-Đường dẫn: /Users/{tên máy}/Library/Application Support/Hidemium\_4
+* Nếu sử dụng verison dưới 4.1.0 thì thư mục sẽ được lưu tại: /Users/{tên máy}/Library/Application Support/Hidemium\_4
 
 &#x20;
 
 ![](http://education.hidemium.io/wp-content/uploads/2025/06/Screenshot_4-1.png)
 
-&#x20;
+
+
+* Còn nếu bạn sử dụng version từ 4.1.0 trở đi, thì thư mục sẽ được lưu tại:  /Users/{tên máy}/.hidemium\_4
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
 Vui lòng liên hệ support nếu bạn ko chắc chắn

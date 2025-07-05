@@ -36,7 +36,7 @@ Sau đó chúng ta để ý tới ô Row match condition : tức là hàng của
 
 Ví dụ script là login gmail và sau khi login xong bạn muốn đánh dấu vào ô bên cạnh là đã login tài khoản này thành công, bạn sẽ nhập Cell location như sau
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 D là cột muốn nhập dữ liệu vào, và tôi chọn biến ${match} ở bên cạnh. Lúc này Cell location nghĩa là D2. Như giải thích ở bên trên, biến Match này là script lấy ra được số hàng của profile, Ví dụ tên profile ở hàng 3, thì D${match} lúc này là D3, script sẽ viết chữ “đã login thành công” vào ô D3\
 Tương tự nếu muốn ghi thêm bất kì nội dung gì thì chỉ cần làm tương tự, xác định cột muốn ghi vào + biến đặt ở “Row match conditions” trong node SPREADSHEET\

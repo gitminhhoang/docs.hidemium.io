@@ -2,7 +2,7 @@
 
 **Khi các bạn ấn vào Start profiles không hiện thì sau đây sẽ là các khắc phục:**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

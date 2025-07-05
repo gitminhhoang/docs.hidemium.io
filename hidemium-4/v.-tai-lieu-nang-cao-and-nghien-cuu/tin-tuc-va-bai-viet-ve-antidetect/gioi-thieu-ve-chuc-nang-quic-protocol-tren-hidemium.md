@@ -13,7 +13,7 @@ Link tham khảo: [Hypertext Transfer Protocol – Wikipedia tiếng Việt 1](h
 Hiện tại chủ yếu các dịch vụ sẽ sử dụng HTTP1.1, HTTP/2 và HTTP/3 và các giao thức nó hỗ trợ.\
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

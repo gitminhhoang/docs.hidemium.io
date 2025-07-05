@@ -12,7 +12,7 @@ For example, we have a piece of data like this: "_We have the following websites
 
 Ví dụ ta có một đoạn dữ liệu như sau: "_We have the following websites https://www.facebook.com/ and other websites like https://www.youtube.com/ and https://www.etsy.com/_". Khi muốn lấy URL có trong đoạn dữ liệu này, tại node Extraction in text ta nhập như sau:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the **Index result** field, enter the number 1, we will get **https://www.facebook.com/** and store it in the **result** variable.
 
