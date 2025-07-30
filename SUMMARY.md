@@ -281,6 +281,7 @@
         * [6. Sync tags](use-cases/api-automation-v4/interact-profile/6.-sync-tags.md)
         * [7. Change status](use-cases/api-automation-v4/interact-profile/7.-change-status.md)
         * [8. Delete profile](use-cases/api-automation-v4/interact-profile/8.-delete-profile.md)
+        * [9. Add profile to folder](hidemium-4/i.-bat-dau-voi-hidemium/api-automation-v4/interact-profile/9.-add-profile-to-folder.md)
       * [Proxy](use-cases/api-automation-v4/proxy/README.md)
         * [1. Update proxy](use-cases/api-automation-v4/proxy/1.-update-proxy.md)
         * [2. update profile's proxy](use-cases/api-automation-v4/proxy/2.-update-profiles-proxy.md)
