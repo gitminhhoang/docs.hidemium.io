@@ -310,6 +310,7 @@
     * [Hướng dẫn backup profile local khi cần cài lại máy, hoặc chuyển sang 1 máy tính khác(Dành cho MAC)](hidemium-4/ii.-thiet-lap-va-cau-hinh-he-thong/huong-dan-backup-profile-local-khi-can-cai-lai-may-hoac-chuyen-sang-1-may-tinh-khac-danh-cho-mac.md)
     * [Hướng dẫn sử dụng chức năng Export/Import profile local](hidemium-4/ii.-thiet-lap-va-cau-hinh-he-thong/huong-dan-su-dung-chuc-nang-export-import-profile-local.md)
     * [Hướng dẫn đồng bộ data extension trên Hidemium](hidemium-4/ii.-thiet-lap-va-cau-hinh-he-thong/huong-dan-dong-bo-data-extension-tren-hidemium.md)
+    * [Hướng dẫn sử dụng chức năng personal device](hidemium-4/ii.-thiet-lap-va-cau-hinh-he-thong/huong-dan-su-dung-chuc-nang-personal-device.md)
   * [III. Quản lý tài khoản & config](hidemium-4/iii.-quan-ly-tai-khoan-and-config/README.md)
     * [Hướng dẫn tạo tài khoản member và phân quyền cho tài khoản member](hidemium-4/iii.-quan-ly-tai-khoan-and-config/huong-dan-tao-tai-khoan-member-va-phan-quyen-cho-tai-khoan-member.md)
     * [Hướng dẫn mua và sử dụng config trong Hidemium store](hidemium-4/iii.-quan-ly-tai-khoan-and-config/huong-dan-mua-va-su-dung-config-trong-hidemium-store.md)
