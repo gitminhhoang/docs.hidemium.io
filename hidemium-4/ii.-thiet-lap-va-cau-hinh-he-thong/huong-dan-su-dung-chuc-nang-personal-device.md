@@ -30,7 +30,7 @@ Sau khi mua xong sẽ có link để thu thập thiết bị:
 
 &#x20;
 
-Muốn tạo profile với thiết bị mình vừa thu thập, các bạn chọn vào đây  (lưu ý là OS và browser của profile phải có trong danh sách device thì mới mở được profile):
+Muốn tạo profile với thiết bị mình vừa thu thập, các bạn chọn vào đây:
 
 ![](http://education.hidemium.io/wp-content/uploads/2025/07/Screenshot_3-2.png)
 
