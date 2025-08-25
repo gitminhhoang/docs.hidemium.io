@@ -4,7 +4,7 @@ description: 您可以选择关闭当前标签页或选择一个标签页，如�
 
 # 关闭标签页 (Close tab)
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | 参数            | 说明                                 |
 | ------------- | ---------------------------------- |
@@ -14,6 +14,6 @@ description: 您可以选择关闭当前标签页或选择一个标签页，如�
 
 例如，有以下 3 种标签页：
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 当您选择当前时，Ebay 标签页将关闭。如果您选择选择标签页并输入数字 2，Youtube 标签页将关闭。标签编号从 1 开始。 如果您选择所有其他标签页，Facebook 和 Youtube 将关闭。

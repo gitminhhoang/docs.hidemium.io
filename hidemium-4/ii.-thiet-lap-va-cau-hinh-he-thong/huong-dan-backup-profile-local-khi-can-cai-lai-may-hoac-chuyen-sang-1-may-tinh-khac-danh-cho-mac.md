@@ -38,7 +38,7 @@ Bạn cần vào mà App settings để biết thư mục đó nằm ở đâu, 
 
 * Còn nếu bạn sử dụng version từ 4.1.0 trở đi, thì thư mục sẽ được lưu tại:  /Users/{tên máy}/.hidemium\_4
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 
 

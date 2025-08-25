@@ -2,7 +2,7 @@
 
 Hôm nay, chúng ta hãy thảo luận về cách các hệ thống bảo mật cố gắng phát hiện chúng ta đang cố gắng ẩn kết nối proxy và cách tránh điều đó.
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Fraud analysis</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Fraud analysis</p></figcaption></figure>
 
 
 

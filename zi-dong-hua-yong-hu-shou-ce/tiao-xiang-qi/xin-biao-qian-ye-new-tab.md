@@ -4,7 +4,7 @@ description: 当您使用此node时，脚本将打开一个新标签页以执行
 
 # 新标签页 (New tab)
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | 参数  | 说明                                                                   |
 | --- | -------------------------------------------------------------------- |

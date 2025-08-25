@@ -2,7 +2,7 @@
 
 Xin chào toàn thể anh em sử dụng Hidemium. Chắc hẳn anh em sử dụng hidemium ít để ý đến chức năng **Experimental QUIC protocol** ở tab **Other** trong chức năng **Create Profile**. Nay mình sẽ giải thích rõ dàng và trường hợp nào thì nên sử dụng chức năng này.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -13,7 +13,7 @@ Link tham khảo: [Hypertext Transfer Protocol – Wikipedia tiếng Việt 1](h
 Hiện tại chủ yếu các dịch vụ sẽ sử dụng HTTP1.1, HTTP/2 và HTTP/3 và các giao thức nó hỗ trợ.\
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -25,13 +25,13 @@ UDP là một trong những giao thức cốt lõi trong bộ giao thức Intern
 
 Ở phiên bản HTTP1.1 và HTTP/2 dùng TCP để truyền tải, giao thức này sẽ đi qua **Proxy Server** nên khi ta dùng Proxy để fake IP điều này có thể qua mặt được hệ thống
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Còn với HTTP/3 thì sao? Ta sẽ quan sát hình mô tả dưới đây
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -49,7 +49,7 @@ Vậy để ngăn chặn phát hiện rò rỉ IP thật ta nên làm gì?
 
 Ở đây tôi sẽ lấy 1 số ví dụ thực tế
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -57,25 +57,25 @@ Vậy để ngăn chặn phát hiện rò rỉ IP thật ta nên làm gì?
 
 Ở google login hầu hết các request được sử dụng h3 có nghĩa là giao thức HTTP/3. Điều này có nghĩa rằng IP thực tế của bạn có thể bị google thu thập. Khi bạn thực hiện spam tạo tài khoản hoặc login hệ thống mà hiện captcha google mặc dù đổi IP liên tục, vì google sử dụng h3 để request captcha.
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Ở hidemium, bạn có thể disable QUIC Protocol cho profile bằng cách vào tab Other chọn **Disable**
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Sau khi Disable QUIC Protocol tất cả các giao thức request đã được chuyển về h2
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Hiện tại một số dịch vụ Proxy cũng đã có phương thức auto Disable QUIC. Để kiểm tra dịch vụ proxy của bạn có hỗ trợ disable QUIC hay không hãy kiểm tra bằng cách nhấp chuột phải tại thanh header chọn Protocol và vào google để check xem giao thức với google đã được chuyển về h2 hay chưa
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Chúc các bạn trang bị kiến thức tốt để kiếm triệu đô.\
 **Hidemium Team**

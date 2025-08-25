@@ -2,7 +2,7 @@
 
 文件夹选项使管理您的工作区域变得更加容易。具体来说，您可以将任务分为同一组，这使得运行任务更加方便。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 名称：您可以看到您刚刚创建的文件夹名称
 

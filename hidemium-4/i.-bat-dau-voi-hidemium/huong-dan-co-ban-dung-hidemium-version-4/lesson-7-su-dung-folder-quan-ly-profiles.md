@@ -32,7 +32,7 @@ Cách 2: Thêm Profiles Khi Tạo Mới
 
 Khi tạo profiles mới ở màn Expert, bạn có thể chọn thư mục chứa profiles đó trong phần Base Info.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
