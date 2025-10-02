@@ -9,7 +9,6 @@ description: Node này được dùnfg để đọc nội dung các mail đượ
 1. Email service: Bạn cần chọn dịch vụ mail mà bạn muốn đọc. Các dịch vụ được hỗ trợ bảo gồm: Gmail, Outlook/Hotmail, Yahoo, Custom.
 
 * Gmail: Bạn cần nhập địa chỉ email mà bạn cần đọc và mật khẩu ứng dụng của email của bạn. Đối với mật khẩu ứng dụng, bạn cần tạo một mật khảu ứng dụng, có thể tham khảo cách tạo mật khảu ứng dụng [<mark style="color:blue;">TẠI ĐÂY</mark>](https://support.google.com/mail/answer/185833?hl=en).
-* Outlook/Hotmail: Bạn cần nhập Email và password của mail của bạn.
 * Custom: Bạn có thể tự custom một dịch vụ mail có hỗ trợ Imap khác với Email và Outlook/Hotmail. Khi chọn custom bạn cần phải nhập thêm IMAP host và IMAP port của dịch vụ mail mà bạn muốn đọc.
 
 2. Mailbox: Mặc định sẽ là INBOX. Khi nhập là Inbox thì sẽ đọc mail nằm trong mục inbox của mail. Ngoài ra bạn cũng có thể đọc các mail nằm trong mục SPAM của Gmail bằng cách nhập <mark style="color:blue;">\[Gmail]/Spam</mark> tại trường Mailbox. Còn đối với hotmail cũng có thể đọc mail nằm trong Junk Email bằng cách nhập <mark style="color:blue;">JUNK</mark> tại trường Mailbox.
