@@ -14,8 +14,7 @@ Tự động hóa là tính năng giúp bạn tự động hóa mọi thứ ch�
 
 
 
-Nhưng trước khi muốn làm việc với tự động hóa, bạn cần biết cách chọn phần tử vì hầu hết các nút đều cần sử dụng nó. Bạn có thể mở URL ngẫu nhiên và sau đó, nhấp chuột phải và nhấp vào đây:\
-
+Nhưng trước khi muốn làm việc với tự động hóa, bạn cần biết cách chọn phần tử vì hầu hết các nút đều cần sử dụng nó. Bạn có thể mở URL ngẫu nhiên và sau đó, nhấp chuột phải và nhấp vào đây:<br>
 
 <figure><img src="../.gitbook/assets/Screenshot_30.png" alt=""><figcaption></figcaption></figure>
 

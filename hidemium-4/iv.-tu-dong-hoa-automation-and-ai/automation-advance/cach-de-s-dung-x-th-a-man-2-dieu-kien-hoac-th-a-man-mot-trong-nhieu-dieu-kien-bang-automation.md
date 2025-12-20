@@ -70,4 +70,4 @@ Như vậy chắc chắn **sorandom** ra sẽ rơi vào 1 trong 2 trường hợ
 
 <figure><img src="https://i.imgur.com/gfV1ybD.png" alt="" height="446" width="798"><figcaption></figcaption></figure>
 
-\
+<br>

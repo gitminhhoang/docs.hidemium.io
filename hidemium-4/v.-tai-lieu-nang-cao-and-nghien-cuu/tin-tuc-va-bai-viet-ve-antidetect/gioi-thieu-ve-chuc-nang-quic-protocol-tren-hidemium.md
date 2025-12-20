@@ -10,10 +10,9 @@ Trước tiên đi vào sử dụng tôi xin giải thích sơ lược về các
 Link tham khảo: [Hypertext Transfer Protocol – Wikipedia tiếng Việt 1](https://vi.wikipedia.org/wiki/Hypertext_Transfer_Protocol)\
 ![image](https://forum.hidemium.io/uploads/default/original/1X/745aa83b071775668204085cce3b88da1cc302cd.png)
 
-Hiện tại chủ yếu các dịch vụ sẽ sử dụng HTTP1.1, HTTP/2 và HTTP/3 và các giao thức nó hỗ trợ.\
+Hiện tại chủ yếu các dịch vụ sẽ sử dụng HTTP1.1, HTTP/2 và HTTP/3 và các giao thức nó hỗ trợ.<br>
 
-
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

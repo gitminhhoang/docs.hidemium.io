@@ -2,7 +2,7 @@
 
 **Khi các bạn ấn vào Start profiles không hiện thì sau đây sẽ là các khắc phục:**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -10,7 +10,7 @@
 
 Trong mục: Virus & threat protection setting chọn Manage settings:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Bước 2: Kéo xuống phần Exclusions**
 
@@ -28,8 +28,7 @@ Chọn foder có chứa Hidemium4
 
 
 
-&#x20;**Đây là ở máy của mình nằm ở thư mục :**\
-
+&#x20;**Đây là ở máy của mình nằm ở thư mục :**<br>
 
 Lưu ý là nên add cả hai Foder này nhé các bạn:
 

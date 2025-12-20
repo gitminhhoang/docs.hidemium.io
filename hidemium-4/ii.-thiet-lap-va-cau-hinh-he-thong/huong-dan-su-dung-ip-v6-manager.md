@@ -22,7 +22,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -70,13 +70,13 @@ Trong giao diện **IP V6 Manager**, người dùng có các nút chức năng s
 
 Bước 1: Trước khi tạo mới IPV6 vào virus & threat protecion settings -> chọn manager settings
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Bước 2: Chọn add or remove exclusions
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Bước 3: Chọn add an exclusions -> chọn folder
 

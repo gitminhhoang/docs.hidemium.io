@@ -34,13 +34,11 @@ Windows 10 – Chrome 119
 
 &#x20;
 
-Windows 11 – Chrome 119:\
-
+Windows 11 – Chrome 119:<br>
 
 <figure><img src="../../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
 
-Windows 11 – Chrome 118:\
-
+Windows 11 – Chrome 118:<br>
 
 <figure><img src="../../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 

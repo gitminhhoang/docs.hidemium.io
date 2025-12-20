@@ -6,7 +6,7 @@ Bước 1: Tại máy tính của bạn, tạo 1 folder để chứa các profil
 
 Bước 2: Các bạn thực hiện chọn các profile mà bạn muốn export. Sau đó chọn chức năng Export profile để thực hiện export -> Chọn folder vừa tạo ở Bước 1 làm nơi lưu các profile export.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 

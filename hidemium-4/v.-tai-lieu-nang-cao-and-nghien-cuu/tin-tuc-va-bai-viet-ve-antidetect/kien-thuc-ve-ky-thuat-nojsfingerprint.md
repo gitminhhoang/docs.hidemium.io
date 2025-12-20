@@ -6,8 +6,7 @@ Vậy noscriptfingerprint là gì? Nó được định nghĩa là: cách nhận
 
 Kỹ thuật này sẽ dựa vào css và HTTP header để kiểm tra các phần tử, ta có ví dụ sau đây:
 
-![](<../../../.gitbook/assets/image (190).png>)\
-
+![](<../../../.gitbook/assets/image (190).png>)<br>
 
 Mỗi loại trình duyệt máy tính chúng ta sẽ có những thông số:
 
