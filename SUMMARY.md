@@ -129,7 +129,7 @@
     * [Robot cookie](automation-user-manual/scripts/robot-cookie.md)
     * [Upload nhiều ảnh](automation-user-manual/scripts/upload-nhieu-anh.md)
     * [Register Etsy](automation-user-manual/scripts/register-etsy.md)
-  * [How to start script auto ?](automation-user-manual/how-to-start-script-auto.md)
+  * [Hướng dẫn tạo campaign để chạy auto](automation-user-manual/huong-dan-tao-campaign-de-chay-auto.md)
 * [HIDEMIUM 从 A 到 Z 的指南](hidemium-cong-a-dao-z-de-zhi-nan.md)
 * [HIDEMIUM 的功能](hidemium-de-gong-neng/README.md)
   * [新资料](hidemium-de-gong-neng/xin-zi-liao.md)
