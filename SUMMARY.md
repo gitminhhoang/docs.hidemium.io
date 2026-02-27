@@ -318,6 +318,7 @@
     * [Hướng dẫn sử dụng IP V6 Manager](hidemium-4/ii.-thiet-lap-va-cau-hinh-he-thong/huong-dan-su-dung-ip-v6-manager.md)
     * [Quản lý tài khoản](hidemium-4/ii.-thiet-lap-va-cau-hinh-he-thong/quan-ly-tai-khoan.md)
     * [Đổi server app](hidemium-4/ii.-thiet-lap-va-cau-hinh-he-thong/doi-server-app.md)
+    * [Thay đổi ổ cài đặt app](hidemium-4/ii.-thiet-lap-va-cau-hinh-he-thong/thay-doi-o-cai-dat-app.md)
   * [III. Quản lý tài khoản & config](hidemium-4/iii.-quan-ly-tai-khoan-and-config/README.md)
     * [Hướng dẫn tạo tài khoản member và phân quyền cho tài khoản member](hidemium-4/iii.-quan-ly-tai-khoan-and-config/huong-dan-tao-tai-khoan-member-va-phan-quyen-cho-tai-khoan-member.md)
     * [Hướng dẫn mua và sử dụng config trong Hidemium store](hidemium-4/iii.-quan-ly-tai-khoan-and-config/huong-dan-mua-va-su-dung-config-trong-hidemium-store.md)
