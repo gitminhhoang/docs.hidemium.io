@@ -2,7 +2,7 @@
 description: Hướng dẫn thay đổi ổ cài đặt app hidemium từ 4.2.5 trở lên
 ---
 
-# Thay đổi ổ cài đặt app
+# Thay đổi ổ cài đặt app 4.2.5 trở lên
 
 #### Lưu ý:
 
