@@ -4,17 +4,23 @@ description: Bài viết này chỉ áp dụng cho user sử dụng máy Win
 
 # Backup profile local trong trường hợp cần cài lại win hoặc cần chuyển profile sang một máy tính khác
 
-**KHi bạn mua gói hidemium local mà cần backup data khi cài lại máy hoặc backup sang máy khác thì cần đọc hướng dẫn sau và B cần copy các thư mục sau:**
+**KHi bạn mua gói hidemium local mà cần backup data khi cài lại máy hoặc backup sang máy khác thì cần đọc hướng dẫn sau và bạn cần copy các thư mục sau:**
 
 **1: Thư mục data chứa data cấu hình của profile:**&#x20;
 
-Mặc đinh: C:\Users\\{tên user}\hidemium\_4\data
+C:\Users\\{tên user}\hidemium\_4\data             Đây là đường dẫn mặc định.
+
+&#x20;
 
 ![](http://education.hidemium.io/wp-content/uploads/2025/05/8c1ec1fa645831a9538abf0ec353fe59b75b5ec1.png)
 
-&#x20;
+Còn các user khi cài app chọn ổ khác hoặc folder khác thì cần vào đúng folder đó để backup data. Hoặc nếu bạn không nhớ lúc cài bạn chọn folder nào thì có thể kiểm tra tại đây.
 
-&#x20;
+Bạn vào app settings, tại trường app data path bạn sẽ thấy đường dẫn này, khi đó bạn chỉ cần vào đúng đường dẫn này và backup data .
+
+![](http://education.hidemium.io/wp-content/uploads/2025/05/Screenshot_2-3.png)
+
+
 
 **2: Thư mục profile chứa data của profile mà ko được sync lên cloud**
 
