@@ -320,6 +320,7 @@
   * [III. Quản lý tài khoản & config](hidemium-4/iii.-quan-ly-tai-khoan-and-config/README.md)
     * [Hướng dẫn tạo tài khoản member và phân quyền cho tài khoản member](hidemium-4/iii.-quan-ly-tai-khoan-and-config/huong-dan-tao-tai-khoan-member-va-phan-quyen-cho-tai-khoan-member.md)
     * [Hướng dẫn mua và sử dụng config trong Hidemium store](hidemium-4/iii.-quan-ly-tai-khoan-and-config/huong-dan-mua-va-su-dung-config-trong-hidemium-store.md)
+    * [Tuỳ chọn video stream](hidemium-4/iii.-quan-ly-tai-khoan-and-config/tuy-chon-video-stream.md)
   * [IV. Tự động hóa (Automation & AI)](hidemium-4/iv.-tu-dong-hoa-automation-and-ai/README.md)
     * [AUTOMATION FOUNDATION – Automation cơ bản](hidemium-4/iv.-tu-dong-hoa-automation-and-ai/automation-foundation-automation-co-ban/README.md)
       * [Navigator](hidemium-4/iv.-tu-dong-hoa-automation-and-ai/automation-foundation-automation-co-ban/navigator/README.md)
