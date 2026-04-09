@@ -20,33 +20,9 @@ True to its name, this button is used to automatically click the mouse on the el
 
 ### Hướng dẫn sử dụng
 
-For example, if you want to drag components to the artboard as shown below, you can do the following:
-
-Ví dụ bạn muốn kéo các thành phần vào artboard như hình dưới đây thì bạn có thể làm như sau:
-
-<figure><img src="../../.gitbook/assets/Screenshot_1 (1).png" alt=""><figcaption></figcaption></figure>
 
 
-
-First, enter the selector of the element you want to drag to the artboard, and select Click down:
-
-Đầu tiên bạn nhập selector của phần tử mà bạn muốn kéo vào artboard, và chọn Click down:
-
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-Right after the click down button, add another click button and enter the selector of the element you want to drop them into, and select Click up:
-
-Ngay sau node click down thì bạn thêm một node click nữa và nhập selector của phần tử mà bạn muốn thả chúng vào, và chọn Click up:
-
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-And below is the video:
-
-Và dưới đây là video:
-
-{% file src="../../.gitbook/assets/1.mp4" %}
-
-Ví dụ 2: Bạn cũng có thể sử dụng node click để nhấn và giữ chuột:
+Ví dụ : Bạn cũng có thể sử dụng node click để nhấn và giữ chuột:
 
 Khi bạn muốn nhấn và giữ chuột trong một khoảng thời gian thì bạn là như sau:
 
