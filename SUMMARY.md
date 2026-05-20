@@ -263,6 +263,7 @@
       * [Lesson 13: Synchronize](hidemium-4/i.-bat-dau-voi-hidemium/huong-dan-co-ban-dung-hidemium-version-4/lesson-13-synchronize.md)
       * [Lesson 14: Automation](hidemium-4/i.-bat-dau-voi-hidemium/huong-dan-co-ban-dung-hidemium-version-4/lesson-14-automation.md)
       * [Lesson 15: Tùy Chỉnh Ứng Dụng: Hướng Dẫn App Setting Cho Newbie](hidemium-4/i.-bat-dau-voi-hidemium/huong-dan-co-ban-dung-hidemium-version-4/lesson-15-tuy-chinh-ung-dung-huong-dan-app-setting-cho-newbie.md)
+      * [Lesson 16: Hướng dẫn sử dụng Proxy IP dân cư (IPs Residential Proxies)](hidemium-4/i.-bat-dau-voi-hidemium/huong-dan-co-ban-dung-hidemium-version-4/lesson-16-huong-dan-su-dung-proxy-ip-dan-cu-ips-residential-proxies.md)
     * [API AUTOMATION V4](use-cases/api-automation-v4/README.md)
       * [Remote profile](use-cases/api-automation-v4/remote-profile/README.md)
         * [1. Open profile](use-cases/api-automation-v4/remote-profile/1.-open-profile.md)
